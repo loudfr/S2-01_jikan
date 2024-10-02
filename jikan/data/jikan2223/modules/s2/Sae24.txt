@@ -1,0 +1,137 @@
+Couleur 230 150 70
+Info "S2.04 Installation de services reseau"
+Cible Info1
+Lot TDx
+  AliasLot TD
+  AffichageDuNom
+  Tache SDfax
+    Cout TD
+    Duree 4
+    Etudiant Info1x
+    Enseignant FAbd
+    Salles 4 TD27 SC3 SCC TD13
+  Tache SDpax
+    Cout TD
+    Duree 4
+    Etudiant Info1x
+    Enseignant PAde
+    Salles 4 TD27 SC3 SCC TD13
+Lot TDy
+  AliasLot TD
+  AffichageDuNom
+  Tache SDfay
+    Cout TD
+    Duree 4
+    Etudiant Info1y
+    Enseignant FAbd
+    Salles 4 SC3 TD27 SCC TD13
+  Tache SDpay
+    Cout TD
+    Duree 4
+    Etudiant Info1y
+    Enseignant PAde
+    Salles 4 SC3 TD27 SCC TD13
+Lot TPa
+  AliasLot TP
+  AffichageDuNom
+  Tache SPa
+    Cout TP
+    Duree 4
+    Etudiant Info1a
+    Enseignant FAbd
+    Enseignant PAde
+    Enseignant ACas
+    Salles 4 Mul TR IG Res
+  Tache SPpaa
+    Cout TP
+    Duree 4
+    Etudiant Info1a
+    Enseignant PAde
+    Salles 4 Mul TR IG Res
+Lot TPb
+  AliasLot TP
+  AffichageDuNom
+  Tache SPb
+    Cout TP
+    Duree 4
+    Etudiant Info1b
+    Enseignant FAbd
+    Enseignant PAde
+    Enseignant ACas
+    Salles 4 Mul TR IG Res
+  Tache SPpab
+    Cout TP
+    Duree 4
+    Etudiant Info1b
+    Enseignant PAde
+    Salles 4 Mul TR IG Res
+Lot TPc
+  AliasLot TP
+  AffichageDuNom
+  Tache SPc
+    Cout TP
+    Duree 4
+    Etudiant Info1c
+    Enseignant FAbd
+    Enseignant PAde
+    Enseignant ACas
+    Salles 4 Mul TR IG Res
+  Tache SPpac
+    Cout TP
+    Duree 4
+    Etudiant Info1c
+    Enseignant PAde
+    Salles 4 Mul TR IG Res
+Lot TPd
+  AliasLot TP
+  AffichageDuNom
+  Tache SPd
+    Cout TP
+    Duree 4
+    Etudiant Info1d
+    Enseignant FAbd
+    Enseignant PAde
+    Enseignant ACas
+    Salles 4 Mul TR IG Res
+  Tache SPpad
+    Cout TP
+    Duree 4
+    Etudiant Info1d
+    Enseignant PAde
+    Salles 4 Mul TR IG Res
+Lot SAEa
+  AliasLot PRJ
+  AffichageDuNom
+  Numerotation
+  Tache SAEa
+    Cout GR
+    Duree 4
+    Etudiant Info1a
+    Repetition 6
+Lot SAEb
+  AliasLot PRJ
+  AffichageDuNom
+  Numerotation
+  Tache SAEb
+    Cout GR
+    Duree 4
+    Etudiant Info1b
+    Repetition 6
+Lot SAEc
+  AliasLot PRJ
+  AffichageDuNom
+  Numerotation
+  Tache SAEc
+    Cout GR
+    Duree 4
+    Etudiant Info1c
+    Repetition 6
+Lot SAEd
+  AliasLot PRJ
+  AffichageDuNom
+  Numerotation
+  Tache SAEd
+    Cout GR
+    Duree 4
+    Etudiant Info1d
+    Repetition 6

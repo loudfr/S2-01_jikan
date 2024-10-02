@@ -1,0 +1,56 @@
+Couleur 200 80 140
+Info "R4.A08 Virtualisation"
+Cible Info2
+Lot TDx
+  AliasLot TD
+  AffichageDuNom
+  Numerotation
+  Tache TDx
+    Cout TD
+    Duree 4
+    Etudiant Info2x
+    Enseignant ABou
+    Salles 5 IG TR Mul Res Tim
+Lot TDy
+  AliasLot TD
+  AffichageDuNom
+  Numerotation
+  Tache TDy
+    Cout TD
+    Duree 4
+    Etudiant Info2y
+    Enseignant ABou
+    Salles 5 IG TR Mul Res Tim
+Lot TPa
+  AliasLot TP
+  AffichageDuNom
+  Numerotation
+  Tache TPa
+    Cout TP
+    Duree 4
+    Etudiant Info2A
+    Enseignant ABou
+    Salles 5 IG TR Mul Res Tim
+    Repetition 6
+Lot TPb
+  AliasLot TP
+  AffichageDuNom
+  Numerotation
+  Tache TPb
+    Cout TP
+    Duree 4
+    Etudiant Info2B
+    Enseignant ABou
+    Salles 5 IG TR Mul Res Tim
+    Repetition 6
+Lot TPc
+  AliasLot TP
+  AffichageDuNom
+  Numerotation
+  Tache TPc
+    Cout TP
+    Duree 4
+    Etudiant Info2C
+    Enseignant ABou
+    Salles 5 IG TR Mul Res Tim
+    Repetition 6

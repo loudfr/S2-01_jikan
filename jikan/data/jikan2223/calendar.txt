@@ -1,0 +1,36 @@
+Annee 2022
+PremiereSemaine 35
+NbSemaines 44
+DureeSemaines 6
+ContrainteReguliere 0 xooooooooxxxooooooooxxxx
+ContrainteReguliere 1 xooooooooxxxooooooooxxxx
+ContrainteReguliere 2 xooooooooxxxooooooooxxxx
+ContrainteReguliere 3 xooooooooxxxooooooooxxxx
+ContrainteReguliere 4 xooooooooxxxooooooooxxxx
+ContrainteReguliere 5 ooooooooxxxxxxxxxxxxxxxx
+ContrainteOccasionnelle S38 0 oooooooooxxxooooooooxxxx
+ContrainteOccasionnelle S39 1 xooooooooxxxooooooooooxx
+ContrainteOccasionnelle S40 0 oooooooooxxxooooooooxxxx
+ContrainteOccasionnelle S50 3 oooooooooxxxooooooooxxxx
+ContrainteOccasionnelle S5 4 oooooooooxxxooooooooxxxx
+ContrainteOccasionnelle S8 5 xxoooooooooooooooooxxxxx
+ContrainteOccasionnelle S9 3 xooooooooxooooooooooxxxx
+Vacances 44
+Vacances 51
+Vacances 52
+Vacances 8
+Vacances 16
+Vacances 17
+Ferie 45 4
+Ferie 45 5
+Ferie 50 5
+Ferie 1 0
+Ferie 15 0
+Ferie 15 5
+Ferie 18 0
+Ferie 19 0
+Ferie 20 3
+Ferie 20 4
+Ferie 20 5
+Ferie 22 0
+Journees 30 16 24

@@ -1,0 +1,6 @@
+Info "Autres lieus"
+Nancy
+Epinal
+M21s
+EnPresentiel
+EnPresence

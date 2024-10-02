@@ -1,0 +1,15 @@
+TD TD S6 4 5 it3 IN MAug Mae
+TD TD S6 4 1 it3 IN MAug Mae
+TD TD S4 4 5 it3 IN MAug Mae
+TD TD S10 4 5 it3 IN MAug Mae
+TD TD S8 4 1 it3 IN MAug Mae
+TD TD S8 4 5 it3 IN MAug Mae
+TD TD S4 4 1 it3 IN MAug Mae
+TD TP S6 4 12 it3 IN MAug Mae
+TD TP S6 4 16 it3 IN MAug Mae
+TD TP S10 4 12 it3 IN MAug Mae
+TD TP S10 4 16 it3 IN MAug Mae
+TD TP S8 4 12 it3 IN MAug Mae
+TD TP S8 4 16 it3 IN MAug Mae
+TD TP S4 4 12 it3 IN MAug Mae
+TD TP S4 4 16 it3 IN MAug Mae

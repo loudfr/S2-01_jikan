@@ -1,0 +1,47 @@
+Couleur 200 80 140
+Info "R4.03 Qualite au-dela du rationnel"
+Cible Info2
+Lot TDx
+  AliasLot TD
+  AffichageDuNom
+  Numerotation
+  Tache TDx
+    Cout TD
+    Duree 4
+    Etudiant Info2x
+    Enseignant SDie
+    Salles 4 TD27 SCC TD13 SC3
+    Repetition 3
+Lot TDy
+  AliasLot TD
+  AffichageDuNom
+  Numerotation
+  Tache TDy
+    Cout TD
+    Duree 4
+    Etudiant Info2y
+    Enseignant SDie
+    Salles 4 TD27 SCC TD13 SC3
+    Repetition 3
+Lot TPa
+  AliasLot TP
+  AffichageDuNom
+  Numerotation
+  Tache TPa
+    Cout TP
+    Duree 4
+    Etudiant Info2A
+    Enseignant SDie
+    Salles 4 IG TR Mul IN
+    Repetition 3
+Lot TPc
+  AliasLot TP
+  AffichageDuNom
+  Numerotation
+  Tache TPc
+    Cout TP
+    Duree 4
+    Etudiant Info2C
+    Enseignant SDie
+    Salles 4 IG TR Mul IN
+    Repetition 3

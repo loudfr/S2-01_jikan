@@ -1,0 +1,14 @@
+TDx SDx S25 1 1 it3 Info1x PEve IN
+TDx SDx S25 1 5 it3 Info1x PEve IN
+TDy SDy S25 1 1 it3 Info1y PVil SC3
+TDy SDy S25 1 5 it3 Info1y PVil SC3
+TPa SP4pea S15 2 1 it3 Info1a PEve Mul
+TPa SP2pea S13 2 1 it3 Info1a PEve Res
+TPa SP2pea S14 1 1 it3 Info1a PEve Res
+TPb SP4peb S15 2 12 it3 Info1b PEve Mul
+TPb SP2peb S13 2 12 it3 Info1b PEve Res
+TPb SP2peb S14 1 12 it3 Info1b PEve Res
+TPc SP2pec S13 2 5 it3 Info1c PEve Res
+TPc SP2pec S14 1 5 it3 Info1c PEve Res
+TPd SP2ped S13 2 16 it3 Info1d PEve Res
+TPd SP2ped S14 1 16 it3 Info1d PEve Res

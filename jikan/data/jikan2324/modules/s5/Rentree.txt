@@ -1,0 +1,15 @@
+Couleur 130 130 1300
+Info "Rentree 3e annee"
+MasquageDuNom
+MasquageDesEns
+Lot RentreeS5
+  AliasLot Rentree-S5
+  AffichageDuNom
+  Tache Rentree-S5
+    Cout GR
+    Duree 4
+    Etudiant Info3
+    Enseignant SDie
+    Enseignant ABou
+    Enseignant BDav
+    Salle Amphi

@@ -1,0 +1,30 @@
+TDx SDxab S45 3 5 it3 Info1x ABou SC3
+TDy SDyab S45 3 1 it3 Info1y ABou SC3
+TPa SPaab S46 1 5 it3 Info1a ABou IG
+TPb SPbab S46 3 5 it3 Info1b ABou Mul
+TPc SPcab S46 1 12 it3 Info1c ABou Mul
+TPd SPdab S46 2 16 it3 Info1d ABou IG
+SAEa SAEa S46 2 16 it1 Info1a
+SAEa SAEa S47 1 12 it1 Info1a
+SAEa SAEa S48 2 1 it1 Info1a
+SAEa SAEa S48 4 12 it1 Info1a
+SAEa SAEa S49 1 12 it1 Info1a
+SAEa SAEa S49 4 16 it1 Info1a
+SAEb SAEb S46 2 16 it1 Info1b
+SAEb SAEb S47 2 12 it1 Info1b
+SAEb SAEb S48 2 12 it1 Info1b
+SAEb SAEb S48 4 1 it1 Info1b
+SAEb SAEb S49 1 16 it1 Info1b
+SAEb SAEb S49 4 12 it1 Info1b
+SAEc SAEc S46 2 16 it1 Info1c
+SAEc SAEc S47 2 1 it1 Info1c
+SAEc SAEc S48 2 12 it1 Info1c
+SAEc SAEc S48 4 5 it1 Info1c
+SAEc SAEc S49 0 5 it1 Info1c
+SAEc SAEc S49 3 5 it1 Info1c
+SAEd SAEd S46 4 1 it1 Info1d
+SAEd SAEd S47 2 5 it1 Info1d
+SAEd SAEd S48 2 1 it1 Info1d
+SAEd SAEd S48 4 1 it1 Info1d
+SAEd SAEd S49 0 5 it1 Info1d
+SAEd SAEd S49 4 5 it1 Info1d

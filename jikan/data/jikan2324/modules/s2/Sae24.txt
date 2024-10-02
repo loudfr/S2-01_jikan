@@ -1,0 +1,202 @@
+Couleur 230 230 250
+Info "S2.04 Installation de services reseau"
+Cible Info1
+Alias SAE24
+Lot TDx
+  AliasLot bd2
+  AffichageDuNom
+  Tache SDfax
+    Matiere BD2
+    Cout TD
+    Duree 4
+    Etudiant Info1x
+    Enseignant FAbd
+    Salles 4 TD27 SC3 SCC TD13
+  Tache SDpax
+    Matiere M4
+    Cout TD
+    Duree 4
+    Etudiant Info1x
+    Enseignant PAde
+    Salles 4 TD27 SC3 SCC TD13
+Lot TDy
+  AliasLot bd2
+  AffichageDuNom
+  Tache SDfay
+    Matiere BD2
+    Cout TD
+    Duree 4
+    Etudiant Info1y
+    Enseignant FAbd
+    Salles 4 SC3 TD27 SCC TD13
+  Tache SDpay
+    Matiere M4
+    Cout TD
+    Duree 4
+    Etudiant Info1y
+    Enseignant PAde
+    Salles 4 SC3 TD27 SCC TD13
+Lot TPa
+  AliasLot bd2
+  AffichageDuNom
+  Tache SPfaa
+    Matiere BD2
+    Cout TP
+    Duree 4
+    Etudiant Info1a
+    Enseignant FAbd
+    Salles 4 Mul TR IG Res
+  Tache SPpaa
+    Matiere M4
+    Cout TP
+    Duree 4
+    Etudiant Info1a
+    Enseignant PAde
+    Salles 4 Mul TR IG Res
+  Tache SPeva
+    Matiere M4
+    Cout TP
+    Duree 4
+    Etudiant Info1a
+    Enseignant PAde
+    Salles 8 Mul TR IG Res TD13 SCC SC3 TD27
+  Tache SPaca
+    Matiere A2
+    Cout TP
+    Duree 4
+    Etudiant Info1a
+    Enseignant ACas
+    Salles 4 Mul TR IG Res
+Lot TPb
+  AliasLot bd2
+  AffichageDuNom
+  Tache SPfab
+    Matiere BD2
+    Cout TP
+    Duree 4
+    Etudiant Info1b
+    Enseignant FAbd
+    Salles 4 Mul TR IG Res
+  Tache SPpab
+    Matiere M4
+    Cout TP
+    Duree 4
+    Etudiant Info1b
+    Enseignant PAde
+    Salles 4 Mul TR IG Res
+  Tache SPevb
+    Matiere M4
+    Cout TP
+    Duree 4
+    Etudiant Info1b
+    Enseignant PAde
+    Salles 8 Mul TR IG Res TD13 SCC SC3 TD27
+  Tache SPacb
+    Matiere A2
+    Cout TP
+    Duree 4
+    Etudiant Info1b
+    Enseignant ACas
+    Salles 4 Mul TR IG Res
+Lot TPc
+  AliasLot bd2
+  AffichageDuNom
+  Tache SPfac
+    Matiere BD2
+    Cout TP
+    Duree 4
+    Etudiant Info1c
+    Enseignant FAbd
+    Salles 4 Mul TR IG Res
+  Tache SPpac
+    Matiere M4
+    Cout TP
+    Duree 4
+    Etudiant Info1c
+    Enseignant PAde
+    Salles 4 Mul TR IG Res
+  Tache SPevc
+    Matiere M4
+    Cout TP
+    Duree 4
+    Etudiant Info1c
+    Enseignant PAde
+    Salles 8 Mul TR IG Res TD13 SCC SC3 TD27
+  Tache SPacc
+    Matiere A2
+    Cout TP
+    Duree 4
+    Etudiant Info1c
+    Enseignant ACas
+    Salles 4 Mul TR IG Res
+Lot TPd
+  AliasLot bd2
+  AffichageDuNom
+  Tache SPfad
+    Matiere BD2
+    Cout TP
+    Duree 4
+    Etudiant Info1d
+    Enseignant FAbd
+    Salles 4 Mul TR IG Res
+  Tache SPpad
+    Matiere M4
+    Cout TP
+    Duree 4
+    Etudiant Info1d
+    Enseignant PAde
+    Salles 4 Mul TR IG Res
+  Tache SPevd
+    Matiere M4
+    Cout TP
+    Duree 4
+    Etudiant Info1d
+    Enseignant PAde
+    Salles 8 Mul TR IG Res TD13 SCC SC3 TD27
+  Tache SPacd
+    Matiere A2
+    Cout TP
+    Duree 4
+    Etudiant Info1d
+    Enseignant ACas
+    Salles 4 Mul TR IG Res
+Lot SAEa
+  AliasLot PRJ
+  AffichageDuNom
+  Numerotation
+  Tache SAEa
+    Matiere BD2
+    Cout GR
+    Duree 4
+    Etudiant Info1a
+    Repetition 6
+Lot SAEb
+  AliasLot PRJ
+  AffichageDuNom
+  Numerotation
+  Tache SAEb
+    Matiere BD2
+    Cout GR
+    Duree 4
+    Etudiant Info1b
+    Repetition 6
+Lot SAEc
+  AliasLot PRJ
+  AffichageDuNom
+  Numerotation
+  Tache SAEc
+    Matiere BD2
+    Cout GR
+    Duree 4
+    Etudiant Info1c
+    Repetition 6
+Lot SAEd
+  AliasLot PRJ
+  AffichageDuNom
+  Numerotation
+  Tache SAEd
+    Matiere BD2
+    Cout GR
+    Duree 4
+    Etudiant Info1d
+    Repetition 6

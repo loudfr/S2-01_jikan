@@ -1,0 +1,45 @@
+Couleur 140 210 110
+Info "R3.01 Developpement web"
+Cible Info2
+Lot CM AffichageDuNom
+  Numerotation
+  Tache CM
+    Cout CM
+    Duree 4
+    Etudiant Info2
+    Enseignant EMic
+    Salles 3 Amphi SC1 SConf
+    Repetition 4
+Lot TPa
+  AliasLot TP
+  AffichageDuNom
+  Numerotation
+  Tache TPa
+    Cout TP
+    Duree 8
+    Etudiant Info2A
+    Enseignant EMic
+    Salles 2 IG Mul
+    Repetition 5
+Lot TPb
+  AliasLot TP
+  AffichageDuNom
+  Numerotation
+  Tache TPb
+    Cout TP
+    Duree 8
+    Etudiant Info2B
+    Enseignant HRos
+    Salles 4 IG TR Mul Res
+    Repetition 5
+Lot TPc
+  AliasLot TP
+  AffichageDuNom
+  Numerotation
+  Tache TPc
+    Cout TP
+    Duree 8
+    Etudiant Info2C
+    Enseignant HRos
+    Salles 4 IG TR Mul Res
+    Repetition 5

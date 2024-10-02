@@ -1,0 +1,14 @@
+Info "Enseignants du dpt INFO"
+ABou
+ACas
+ARic
+BDav
+DBol
+EMed
+KAbi
+OCas
+PAde
+PEve
+PVil
+SAbi
+SDie

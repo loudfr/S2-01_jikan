@@ -1,0 +1,44 @@
+Soutenance Sout S3 3 1 it7 Info2 SDie ABou FAbd DBol BDav Amphi
+TDweb2 SDweb2 S41 1 5 it3 Info2 EMic SC1
+TDdev4x SDdev4x S37 0 12 it3 Info2x DBol SC3
+TDdev4y SDdev4y S37 0 5 it3 Info2y DBol SC3
+TDdev5x SDdev5x S38 2 12 it3 Info2x DBol SCC
+TDdev5y SDdev5y S38 2 16 it3 Info2y DBol SCC
+TDqd2x SDqd2x S47 0 5 it3 Info2x DBol SC3
+TDqd2y SDqd2y S47 1 5 it3 Info2y DBol SC3
+TDasr5x SDasr5x S47 2 12 it3 Info2x ABou TD27
+TDasr5x SDasr5x S48 3 1 it3 Info2x ABou TD27
+TDasr5y SDasr5y S47 2 16 it3 Info2y ABou SC3
+TDasr5y SDasr5y S48 3 5 it3 Info2y ABou TD27
+TDasr6x SDasr6x S3 0 16 it3 Info2x SDie SC3
+TDasr6y SDasr6y S3 0 12 it3 Info2y SDie SC3
+TDm6x SDm6x S41 2 16 it3 Info2x PAde TD13
+TDm6x SDm6x S46 2 12 it3 Info2x PAde SC3
+TDm6y SDm6y S41 2 5 it3 Info2y PAde TD13
+TDm6y SDm6y S46 2 5 it3 Info2y PAde SC3
+TDm7x SDm7x S48 2 12 it3 Info2x PAde SC3
+TDm7y SDm7y S48 2 16 it3 Info2y PAde SC3
+TDgp3x SDgp3x S38 0 5 it3 Info2x BDav TD13
+TDgp3x SDgp3x S37 0 5 it3 Info2x BDav TD13
+TDgp3x SDgp3x S42 4 5 it3 Info2x BDav SC3
+TDgp3y SDgp3y S38 0 16 it3 Info2y BDav TD13
+TDgp3y SDgp3y S37 0 12 it3 Info2y BDav TD27
+TDgp3y SDgp3y S42 4 1 it3 Info2y BDav SC3
+TDdr2x SDdr2x S48 2 1 it3 Info2x MPri SC3
+TDdr2x SDdr2x S1 2 1 it3 Info2x MPri SC3
+TDdr2x SDdr2x S2 2 1 it3 Info2x MPri SC3
+TDdr2x SDdr2x S3 2 1 it3 Info2x MPri SC3
+TDdr2y SDdr2y S48 2 5 it3 Info2y MPri SC3
+TDdr2y SDdr2y S1 2 5 it3 Info2y MPri SC3
+TDdr2y SDdr2y S2 2 5 it3 Info2y MPri SC3
+TDdr2y SDdr2y S3 2 5 it3 Info2y MPri SC3
+TDa3x SDa3x S2 2 16 it3 Info2x ACas SCC
+TDa3x SDa3x S3 0 12 it3 Info2x ACas SCC
+TDa3y SDa3y S2 2 12 it3 Info2y ACas SCC
+TDa3y SDa3y S3 0 5 it3 Info2y ACas SCC
+TDc3x SDc3x S2 1 16 it3 Info2x SNdo TD27
+TDc3x SDc3x S1 4 16 it3 Info2x SNdo SCC
+TDc3y SDc3y S2 1 5 it3 Info2y SNdo SC3
+TDc3y SDc3y S1 4 12 it3 Info2y SNdo SCC
+TDppp3x SDppp3x S38 4 16 it4 Info2x BDav IG Mul
+TDppp3y SDppp3y S38 4 1 it4 Info2y BDav IG Mul

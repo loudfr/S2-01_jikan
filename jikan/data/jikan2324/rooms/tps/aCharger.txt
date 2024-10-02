@@ -1,0 +1,13 @@
+Info "Salles de TP pour Info"
+IG
+Mul
+TR
+Res
+Tim
+IN
+Alab
+Guy
+Ada
+Mae
+Tur
+SII1

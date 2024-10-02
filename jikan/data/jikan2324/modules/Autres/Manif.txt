@@ -1,0 +1,96 @@
+Couleur 170 250 140
+Info "Manifestations diverses et avariees"
+MasquageDuNom
+MasquageDesEns
+Lot Prepa-JPO
+  AffichageDuNom
+  Tache PrepaJPO
+    Cout GR
+    Duree 4
+    Etudiant Info1
+    Etudiant Info2
+    Enseignant BDav
+    Repetition 2
+Lot JPO
+  AffichageDuNom
+  Tache JPO
+    Cout GR
+    Duree 17
+    Etudiant Info1
+    Etudiant Info2
+    Enseignant OCas
+    Enseignant ABou
+    Enseignant PEve
+    Enseignant SDie
+    Enseignant ACas
+    Enseignant PVil
+    Enseignant DBol
+    Enseignant PAde
+    Enseignant FAbd
+    Enseignant EMed
+    Enseignant HRos
+    Repetition 2
+Lot FIG
+  AffichageDuNom
+  Tache FIG
+    Cout GR
+    Duree 4
+    Salle Amphi
+    Salle SC1
+    Repetition 11
+  Tache FIGetu
+    Cout GR
+    Duree 8
+    Etudiant Info1
+    Etudiant Info2
+    Salle Amphi
+    Salle SC1
+Lot FS
+  AffichageDuNom
+  Tache FS
+    Cout GR
+    Duree 4
+    Salle TD13
+    Enseignant PVil
+    Repetition 4
+  Tache PrepaFS
+    Cout GR
+    Duree 4
+    Salle TD13
+    Repetition 2
+Lot Deodasup
+  AffichageDuNom
+  Tache Deodasup
+    Cout GR
+    Duree 4
+    Etudiant Info2
+Lot Challenge24hINFO
+  AffichageDuNom
+  Tache Challenge24hINFO
+    Cout GR
+    Duree 8
+    Etudiant Info1
+    Salle Nancy
+    Repetition 3
+Lot DouzeHeures
+  AffichageDuNom
+  Tache DouzeHeuresEtudiants
+    Cout GR
+    Duree 8
+    Etudiant Info1
+    Salle Epinal
+    Repetition 2
+Lot Entreprise
+  AffichageDuNom
+  Tache Entreprise
+    Cout GR
+    Duree 4
+    Etudiant Info2
+    Salle Amphi
+Lot PoursEtud
+  AffichageDuNom
+  Tache PoursEtud
+    Cout GR
+    Duree 2
+    Etudiant Info2
+    Salles 3 Amphi TD13 SC3

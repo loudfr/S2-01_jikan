@@ -1,0 +1,17 @@
+CM CM S6 1 1 it3 Info2 EMic SC1
+CM CM S6 1 5 it3 Info2 EMic SC1
+CM CM S7 1 1 it3 Info2 EMic SC1
+CM CM S7 1 5 it3 Info2 EMic SC1
+CM CM S8 1 1 it3 Info2 EMic SC1
+TDx TDx S8 1 5 it3 Info2x EMic TD13
+TDx TDx S8 1 12 it3 Info2x EMic TD13
+TDx TMx S8 1 16 it3 Info2x EMic IG
+TDy TDy S8 1 5 it3 Info2y HRos SC3
+TDy TDy S8 4 1 it3 Info2y HRos TD13
+TDy TMy S8 4 5 it3 Info2y HRos IG
+TPa TPa S6 1 12 it3 Info2A EMic IG
+TPa TPa S7 2 12 it3 Info2A HRos Mul
+TPb TPb S6 1 12 it3 Info2B HRos Mul
+TPb TPb S7 1 12 it3 Info2B HRos Mul
+TPc TPc S6 4 12 it3 Info2C HRos TR
+TPc TPc S7 1 12 it3 Info2C EMic IG

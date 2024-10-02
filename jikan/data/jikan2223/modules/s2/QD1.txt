@@ -1,0 +1,128 @@
+Couleur 150 230 120
+Info "R2.03 Qualite de developpement"
+Cible Info1
+Lot CM
+  AffichageDuNom
+  Numerotation
+  Tache CM
+    Cout CM
+    Duree 4
+    Etudiant Info1
+    Enseignant PEve
+    Salles 2 Amphi SConf
+Lot TDx
+  AliasLot TD
+  AffichageDuNom
+  Numerotation
+  Tache TDx
+    Cout TD
+    Duree 4
+    Etudiant Info1x
+    Enseignant PEve
+    Salles 4 SCC SC3 TD27 TD13
+Lot TDy
+  AliasLot TD
+  AffichageDuNom
+  Numerotation
+  Tache TDy
+    Cout TD
+    Duree 4
+    Etudiant Info1y
+    Enseignant PEve
+    Salles 4 SCC SC3 TD27 TD13
+Lot TPa
+  AliasLot TP
+  AffichageDuNom
+  Numerotation
+  Tache TPpea
+    Cout TP
+    Duree 4
+    Etudiant Info1a
+    Enseignant PEve
+    Salles 4 IG TR Mul Res
+    Repetition 3
+  Tache TPema
+    Cout TP
+    Duree 4
+    Etudiant Info1a
+    Enseignant PEve
+    Salles 2 IG Mul
+  Tache TPsda
+    Cout TP
+    Duree 4
+    Etudiant Info1a
+    Enseignant SDie
+    Salles 4 IG TR Mul Res
+    Repetition 3
+Lot TPb
+  AliasLot TP
+  AffichageDuNom
+  Numerotation
+  Tache TPpeb
+    Cout TP
+    Duree 4
+    Etudiant Info1b
+    Enseignant PEve
+    Salles 4 TR IG Mul Res
+    Repetition 3
+  Tache TPemb
+    Cout TP
+    Duree 4
+    Etudiant Info1b
+    Enseignant PEve
+    Salles 2 IG Mul
+  Tache TPsdb
+    Cout TP
+    Duree 4
+    Etudiant Info1b
+    Enseignant SDie
+    Salles 4 TR IG Mul Res
+    Repetition 3
+Lot TPc
+  AliasLot TP
+  AffichageDuNom
+  Numerotation
+  Tache TPpec
+    Cout TP
+    Duree 4
+    Etudiant Info1c
+    Enseignant PEve
+    Salles 4 TR IG Mul Res
+    Repetition 3
+  Tache TPemc
+    Cout TP
+    Duree 4
+    Etudiant Info1c
+    Enseignant PEve
+    Salles 2 IG Mul
+  Tache TPsdc
+    Cout TP
+    Duree 4
+    Etudiant Info1c
+    Enseignant SDie
+    Salles 4 TR IG Mul Res
+    Repetition 3
+Lot TPd
+  AliasLot TP
+  AffichageDuNom
+  Numerotation
+  Tache TPped
+    Cout TP
+    Duree 4
+    Etudiant Info1d
+    Enseignant PEve
+    Salles 4 TR IG Mul Res
+    Repetition 3
+  Tache TPemd
+    Cout TP
+    Duree 4
+    Etudiant Info1d
+    Enseignant PEve
+    Salles 2 IG Mul
+  Tache TPsdd
+    Cout TP
+    Duree 4
+    Etudiant Info1d
+    Enseignant SDie
+    Salles 4 TR IG Mul Res
+    Repetition 3

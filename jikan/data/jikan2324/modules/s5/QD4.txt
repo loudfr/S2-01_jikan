@@ -1,0 +1,57 @@
+Couleur 170 150 140
+Info "R5.A08 Qualite de developpement"
+Cible Info3
+Lot CM
+  AffichageDuNom
+  Numerotation
+  Tache CM
+    Cout CM
+    Duree 4
+    Etudiant Info3
+    Enseignant OCas
+    Salles 2 Amphi SC3
+Lot TD
+  AliasLot TD
+  AffichageDuNom
+  Numerotation
+  Tache TD
+    Cout TD
+    Duree 4
+    Etudiant Info3
+    Enseignant OCas
+    Salles 5 Res Mul IG Tim TR
+    Repetition 3
+Lot TPx
+  AliasLot TP
+  AffichageDuNom
+  Numerotation
+  Tache TPx2
+    Cout TP
+    Duree 4
+    Etudiant Info3x
+    Enseignant OCas
+    Salles 5 Res Mul IG Tim TR
+  Tache TPx4
+    Cout TP
+    Duree 8
+    Etudiant Info3x
+    Enseignant OCas
+    Salles 5 Res Mul IG Tim TR
+    Repetition 2
+Lot TPy
+  AliasLot TP
+  AffichageDuNom
+  Numerotation
+  Tache TPy2
+    Cout TP
+    Duree 4
+    Etudiant Info3y
+    Enseignant OCas
+    Salles 5 Res Mul IG Tim TR
+  Tache TPy4
+    Cout TP
+    Duree 8
+    Etudiant Info3y
+    Enseignant OCas
+    Salles 5 Res Mul IG Tim TR
+    Repetition 2

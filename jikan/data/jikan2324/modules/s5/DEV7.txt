@@ -1,0 +1,34 @@
+Couleur 120 210 90
+Info "R5.A07 Automatisation de la chaine de production"
+Cible Info3
+Lot CM
+  AffichageDuNom
+  Numerotation
+  Tache CM
+    Cout CM
+    Duree 4
+    Etudiant Info3
+    Enseignant HRos
+    Salles 2 Amphi SC3
+Lot TPx
+  AliasLot TP
+  AffichageDuNom
+  Numerotation
+  Tache TPx
+    Cout TP
+    Duree 4
+    Etudiant Info3x
+    Enseignant HRos
+    Salles 5 Mul IG TR IN Tim
+    Repetition 4
+Lot TPy
+  AliasLot TP
+  AffichageDuNom
+  Numerotation
+  Tache TPy
+    Cout TP
+    Duree 4
+    Etudiant Info3y
+    Enseignant HRos
+    Salles 5 Mul IG TR IN Tim
+    Repetition 4

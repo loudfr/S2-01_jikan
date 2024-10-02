@@ -1,0 +1,8 @@
+Couleur 220 100 100
+Info "DUT INFO, 3e annee"
+Partition 12
+Groupes 2 Info3x Info3y
+Groupes 4 Info3a Info3b Info3c Info3d
+Groupes 3 Info3A Info3B Info3C
+Groupes 6 Info3a1 Info3a2 Info3b1 Info3b2 Info3c1 Info3c2
+Groupes 4 IPx IPy IPz PE

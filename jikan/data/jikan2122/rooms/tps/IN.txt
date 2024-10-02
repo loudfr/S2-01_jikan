@@ -1,0 +1,2 @@
+Couleur 127 225 100
+Info "Salle Imagerie Numerique, 1er etage"

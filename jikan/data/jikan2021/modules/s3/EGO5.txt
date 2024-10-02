@@ -1,0 +1,82 @@
+Couleur 150 170 220
+Info "Droit des technologies de l'information et de la communication"
+Lot CG
+  Tache CG
+    Cout CM
+    Duree 4
+    Etudiant Info2
+    Enseignant PVil
+    Salles 4 SC3 Amphi SConf SC1
+Lot CM
+  AffichageDuNom
+  Numerotation
+  Tache CM
+    Cout CM
+    Duree 4
+    Etudiant Info2
+    Enseignant MPri
+    Salles 2 SC3 Amphi
+    Repetition 5
+Lot Eval
+  AffichageDuNom
+  Tache Eval
+    Cout CM
+    Duree 4
+    Etudiant Info2
+    Enseignant MPri
+    Salle Amphi
+Lot TDx
+  AliasLot TD
+  AffichageDuNom
+  Numerotation
+  Tache TDx
+    Cout TD
+    Duree 4
+    Etudiant Info2x
+    Enseignant MPri
+    Salles 5 TD27 SC3 SCC TD26 TD13
+    Repetition 5
+Lot TDy
+  AliasLot TD
+  AffichageDuNom
+  Numerotation
+  Tache TDy
+    Cout TD
+    Duree 4
+    Etudiant Info2y
+    Enseignant MPri
+    Salles 5 TD27 SC3 SCC TD26 TD13
+    Repetition 5
+Lot TPa
+  AliasLot TP
+  AffichageDuNom
+  Numerotation
+  Tache TQa
+    Cout TP
+    Duree 4
+    Etudiant Info2A
+    Enseignant MPri
+    Salles 5 TD27 SC3 SCC TD26 TD13
+    Repetition 5
+Lot TPb
+  AliasLot TP
+  AffichageDuNom
+  Numerotation
+  Tache TQb
+    Cout TP
+    Duree 4
+    Etudiant Info2B
+    Enseignant MPri
+    Salles 5 TD27 SC3 SCC TD26 TD13
+    Repetition 5
+Lot TPc
+  AliasLot TP
+  AffichageDuNom
+  Numerotation
+  Tache TQc
+    Cout TP
+    Duree 4
+    Etudiant Info2C
+    Enseignant MPri
+    Salles 5 TD27 SC3 SCC TD26 TD13
+    Repetition 5

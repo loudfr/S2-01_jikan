@@ -1,0 +1,101 @@
+Couleur 70 230 80
+Info "R1.06 Mathematiques discretes"
+Cible Info1
+Lot Eval
+  AffichageDuNom
+  Tache Eval
+    Cout CM
+    Duree 4
+    Etudiant Info1
+    Enseignant PAde
+    Salle Amphi
+Lot TDx
+  AliasLot TD
+  AffichageDuNom
+  Numerotation
+  Tache TDx
+    Cout TD
+    Duree 4
+    Etudiant Info1x
+    Enseignant PAde
+    Salles 5 SC3 SCC TD13 TD26 TD27
+    Repetition 14
+Lot TDy
+  AliasLot TD
+  AffichageDuNom
+  Numerotation
+  Tache TDy
+    Cout TD
+    Duree 4
+    Etudiant Info1y
+    Enseignant PAde
+    Salles 5 SC3 SCC TD13 TD26 TD27
+    Repetition 14
+Lot TPa
+  AliasLot TP
+  AffichageDuNom
+  Numerotation
+  Tache TPa
+    Cout TP
+    Duree 4
+    Etudiant Info1a
+    Enseignant PAde
+    Salles 4 TR Mul IG Res
+    Repetition 4
+  Tache TQa
+    Cout TP
+    Duree 4
+    Etudiant Info1a
+    Enseignant PAde
+    Salles 5 TD27 TD13 SCC SC3 SCC
+Lot TPb
+  AliasLot TP
+  AffichageDuNom
+  Numerotation
+  Tache TPb
+    Cout TP
+    Duree 4
+    Etudiant Info1b
+    Enseignant PAde
+    Salles 4 TR Mul IG Res
+    Repetition 4
+  Tache TQb
+    Cout TP
+    Duree 4
+    Etudiant Info1b
+    Enseignant PAde
+    Salles 5 TD27 TD13 SCC SC3 SCC
+Lot TPc
+  AliasLot TP
+  AffichageDuNom
+  Numerotation
+  Tache TPc
+    Cout TP
+    Duree 4
+    Etudiant Info1c
+    Enseignant PAde
+    Salles 4 TR Mul IG Res
+    Repetition 4
+  Tache TQc
+    Cout TP
+    Duree 4
+    Etudiant Info1c
+    Enseignant PAde
+    Salles 5 TD27 TD13 SCC SC3 SCC
+Lot TPd
+  AliasLot TP
+  AffichageDuNom
+  Numerotation
+  Tache TPd
+    Cout TP
+    Duree 4
+    Etudiant Info1d
+    Enseignant PAde
+    Salles 4 TR Mul IG Res
+    Repetition 4
+  Tache TQd
+    Cout TP
+    Duree 4
+    Etudiant Info1d
+    Enseignant PAde
+    Salles 5 TD27 TD13 SCC SC3 SCC

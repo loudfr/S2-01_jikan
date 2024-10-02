@@ -1,0 +1,7 @@
+Soutenance Sout S11 4 1 it3 Info3 EMed Amphi
+TDdev8 SDdev8 S8 1 1 it3 Info3 DBol IN
+TDdev8 SDdev8 S5 1 12 it3 Info3 DBol IN
+TDeco3 SDeco3 S11 0 5 it3 Info3 BDav SC3
+TDdr3 SDdr3 S7 2 5 it3 Info3 MPri SC3
+TDc6 SDc6 S11 0 16 it3 Info3 SNdo SCC
+TDppp6 SDppp6 S8 0 12 it3 Info3 BDav SC3

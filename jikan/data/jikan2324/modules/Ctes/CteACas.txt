@@ -1,0 +1,10 @@
+Couleur 210 184 205
+Info "Contraintes specifiques aux enseignants d'anglais"
+Lot GEII
+  AffichageDuNom
+  MasquageDuModule
+  Tache RI
+    Cout GR
+    Duree 4
+    Enseignant ACas
+    Repetition 40

@@ -1,0 +1,231 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+  <head><title>Even Jikan</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+  </head>
+  <body bgcolor="#BEFEDE" text="#000000" style="font-family:verdana">
+    <h2>Pr&eacute;sentation de Jikan</h2>
+
+    <h3>--> Avertissement</h3>
+    <p> Attention, la base de donn&eacute;es (r&eacute;pertoire <em>data</em>)
+        est actualis&eacute;e automatiquement en quittant (pas de demande de
+        confirmation). En cas de besoin, bouton droit sur "QUITTER", ou bien
+        CTRL_C dans le terminal. </p>         
+    <p> Cette base de donn&eacute;es est fournie &agrave; titre d'exemple.
+        Toute ressemblance avec des situations existantes n'est pas le fruit
+        du hazard, mais elle ne saurait en aucun cas se substituer &agrave;
+        la version officielle accessible sur ADE. </p>
+
+    <h3>--> Ex&eacute;cution</h3>
+    <p> <tt>java -jar jikan.jar</tt> </p>
+    <h3>--> La vue</h3>
+    <p> La zone d'&eacute;cran principale de Jikan montre l'&eacute;tat de
+        la semaine en cours pour l'&eacute;l&eacute;ment
+        s&eacute;lectionn&eacute; (groupe d'&eacute;tudiants, enseignant,
+        salle ou module). </p>
+    <p> L'espace en dessous de la zone principale pr&eacute;sente les semaines
+        de la p&eacute;riode de cours (ann&eacute;e universitaire dans le cas
+        pr&eacute;sent). Les semaines sont accessibles par leur bouton
+        num&eacute;rot&eacute;. Les curseurs indiquent la charge de
+        l'&eacute;l&eacute;ment s&eacute;lectionn&eacute; pour chaque
+        semaine. </p>
+    <p> L'espace &agrave; droite de la zone principale permet de
+        s&eacute;lectionner les &eacute;l&eacute;ments ou les t&acirc;ches
+        &agrave; placer dans l'agenda. </p>
+    <p> La premi&egrave;re colonne de droite permet de s&eacute;lectionner
+        des groupes de formations, des groupes d'enseignants, des groupes
+        de salles, des groupes de promotions d'&eacute;tudiants ou des
+        groupes de modules. </p>
+        Les groupes sont d&eacute;ploy&eacute;s dans la 2e colonne.
+        La vue centrale pr&eacute;sente l'emploi du temps de la formation
+        ou de la ressource s&eacute;lectionn&eacute;e dans la 2e colonne. </p>
+    <p> Les groupes de modules, une fois choisis dans la 1e colonne, sont
+        pr&eacute;sent&eacute;s dans la 3e colonne. </p>
+    <p> Les t&acirc;ches non encore plac&eacute;es du module choisi sont
+        affich&eacute;es dans la 4e colonne. </p>
+    <p> Il est possible de s&eacute;lectionner une t&acirc;che (plac&eacute;e
+        ou non encore plac&eacute;e) en cliquant dessus. On peut alors la
+        replacer dans le calendrier en cliquant sur l'emplacement
+        souhait&eacute;. Les indisponibilit&eacute;s sont automatiquement
+        affich&eacute;es et g&eacute;r&eacute;es. La couleur jaune signifie
+        &agrave; &eacute;viter si possible.</p>
+
+    <h3>--> Le contr&ocirc;leur</h3>
+    <h4>Actions de la souris</h4>
+    <p> Bouton gauche : s&eacute;lectionner ou placer. </p>
+    <p> Bouton droit : demander de l'information. </p>
+    <p> Pour quitter <b><u>sans sauver</u></b>, bouton droit sur
+        "QUITTER". </p>
+    <h4>Actions du clavier</h4>
+    <p> Q ou ESC : enregistrer et fermer l'application. </p>
+    <p> CTRL-P : editer la semaine de la ressource visualis&eacute;e. </p>
+    <p> CTRL-X : retirer la t&acirc;che s&eacute;lectionn&eacute;e de la
+        semaine. </p>
+    <p> ESPACE : tout d&eacute;selectionner. </p>
+    <p> Fl&egrave;che Gauche : afficher la semaine pr&eacute;c&eacute;dente.
+    </p>
+    <p> Fl&egrave;che Droite : afficher la semaine suivante. </p>
+    <p> Fl&egrave;che Haute : afficher la semaine de la ressource
+        pr&eacute;c&eacute;dente.
+    </p>
+    <p> Fl&egrave;che Basse : afficher la semaine de la ressource
+        d'&eacute;tudiants suivante. </p>
+    <p> a (resp. b, c, ...) : changer la 1e (resp 2e, 3e, ...) salle. </p>
+    <p> A (resp. B, C, ...) : changer le 1e (resp 2e, 3e, ...) enseignant. </p>
+    <h4>Options &agrave; l'ex&eacute;cution</h4>
+    <p> --groups : force l'affichage du groupe &eacute;tudiant sur le
+        planning d'un enseignant, d'une salle ou d'un module. </p>
+    <p> --duties : &eacute;dite les plannings des enseignants au format
+        LaTeX </p>
+    <h3>-->Le mod&egrave;le</h3>
+    <h4>Structures de donn&eacute;es</h4>
+    <p> Dans Jikan, les formations (exemple : <tt>s2</tt> pour le 2e semestre
+        du DUT INFO) sont constitu&eacute;es de modules
+        (exemple : <tt>ACD3 </tt>). </p>
+    <p> Un module est morcel&eacute; en lots
+        (exemples : <tt>CM</tt>, <tt>TDx</tt>, <tt>TPa</tt>). </p>
+    <p> Chaque lot est compos&eacute; de t&acirc;ches (exemples : CMui pour
+        la partie prog ou CMerg pour la partie ergonomie). </p>
+    <p> Une num&eacute;rotation des t&acirc;ches peut &ecirc;tre
+        affich&eacute;e pour chaque lot. </p>
+    <dl>
+      <dt> Des ressources sont associ&eacute;es aux t&acirc;ches : </dt>
+      <dd> - des partitions de promotions d'&eacute;tudiants, </dd>
+      <dd> - des enseignants, </dd>
+      <dd> - des salles. </dd>
+    </dl>
+    <p> Les promotions d'&eacute;tudiants peuvent &ecirc;tre
+        partitionn&eacute;es de plusieurs mani&egrave;res (au complet,
+        en groupes TD, en groupes TP, en parcours, ...). </p>
+    <h4>Mod&eacute;lisation d'une ann&eacute;e universitaire</h4>
+    <p> Cr&eacute;er un sous-r&eacute;pertoire <tt>version</tt> dans le
+        r&eacute;pertoire <tt>data</tt>. </p>
+    <h4>Mod&eacute;lisation d'un calendrier</h4>
+    <p> Cr&eacute;er un fichier <tt>calendar.txt</tt> dans le
+        r&eacute;pertoire <tt>version</tt>. </p>
+    <dl>
+    <dd> <tt>Annee</tt> : Ann&eacute;e du d&eacute;but de la formation. </dd>
+    <dd> <tt>PremiereSemaine</tt> : Num&eacute;ro de la 1e semaine de la
+         formation. </dd>
+    <dd> <tt>DerniereSemaineCivile</tt> : Num&eacute;ro de la derni&egrave;re
+         semaine de l'ann&eacute;e du d&eacute;but de la formation
+         (optionnel). </dd>
+    <dd> <tt>NbSemaines</tt> : Nombre de semaines de la formation. </dd>
+    <dd> <tt>DureeSemaines</tt> : Nombre de jours pris en compte dans
+         une semaine. </dd>
+    <dd> <tt>ContrainteReguliere</tt> : D&eacute;finition des cr&eacute;neaux
+         remplissables pour chaque jour de la semaine. </dd>
+    <dd> <tt>ContrainteOccasionnelle</tt> : D&eacute;finition de
+         cr&eacute;neaux remplissables pour des jours particuliers. </dd>
+    <dd> <tt>Vacances</tt> : D&eacute;finition d'une semaine
+         f&eacute;ri&eacute;e. </dd>
+    <dd> <tt>Ferie</tt> : D&eacute;finition d'un jour f&eacute;ri&eacute;. </dd>
+    <dd> <tt>Journees</tt> : D&eacute;finition des cr&eacute;neaux des
+         journ&eacute;es (dur&eacute;e en minutes de chaque cr&eacute;neau,
+         index du premier cr&eacute;neau affich&eacute;, index du nombre
+         de cr&eacute;naux affich&eacute;s). </dd>
+    </dl>
+    <h4>Mod&eacute;lisation de salles</h4>
+    <p> Cr&eacute;er un r&eacute;pertoire <tt>rooms</tt> dans le
+        r&eacute;pertoire <tt>version</tt>. <br>
+        Cr&eacute;er un sous-r&eacute;pertoire pour chaque groupe de
+        salles. <br>
+        Cr&eacute;er un fichier pour chaque salle. </p>
+    <dl>
+    <dd> <tt>Couleur</tt> : Composantes rouge, verte et bleue de la
+        salle. </dd>
+    <dd> <tt>Info</tt> : Nom complet de la salle. </dd>
+    </dl>
+    <h4>Mod&eacute;lisation de promotions d'&eacute;tudiants</h4>
+    <p> Cr&eacute;er un r&eacute;pertoire <tt>students</tt> dans le
+        r&eacute;pertoire <tt>version</tt>. <br>
+        Cr&eacute;er un sous-r&eacute;pertoire pour chaque groupe de
+        promotions. <br>
+        Cr&eacute;er un fichier pour chaque promotion. </p>
+    <dl>
+    <dd> <tt>Couleur</tt> : Composantes rouge, verte et bleue de la
+        promotion. </dd>
+    <dd> <tt>Info</tt> : Nom complet de la promotion. </dd>
+    <dd> <tt>Partition</tt> : PPCM des tailles de chaque partition. </dd>
+    <dd> <tt>Groupes</tt> : D&eacute;finition d'une partition
+        (taille, nom de chaque partie). </dd>
+    </dl>
+    <h4>Mod&eacute;lisation d'enseignants</h4>
+    <p> Cr&eacute;er un r&eacute;pertoire <tt>teachers</tt> dans le
+        r&eacute;pertoire <tt>version</tt>. <br>
+        Cr&eacute;er un sous-r&eacute;pertoire pour chaque groupe
+        d'enseignants. <br>
+        Cr&eacute;er un fichier pour chaque enseignant. </p>
+    <dl>
+    <dd> <tt>Couleur</tt> : Composantes rouge, verte et bleue de
+        l'enseignant. </dd>
+    <dd> <tt>Info</tt> : Nom complet de l'enseignant. </dd>
+    <dd> <tt>ContrainteReguliere</tt> : P&eacute;riode d'indisponibilit&eacute;
+        dans la semaine. </dd>
+    <dd> <tt>ContrainteOccasionnelle</tt> : P&eacute;riode
+        d'indisponibilit&eacute; dans l'annee. </dd>
+    <dd> <tt>RelacheContrainte</tt> : Relachement d'une indisponibilit&eacute;
+        hebdomadaire. </dd>
+    </dl>
+    <h4>Mod&eacute;lisation de modules</h4>
+    <p> Cr&eacute;er un r&eacute;pertoire <tt>modules</tt> dans le
+        r&eacute;pertoire <tt>version</tt>. <br>
+        Cr&eacute;er un sous-r&eacute;pertoire pour chaque groupe
+        de modules. <br>
+        Cr&eacute;er un fichier pour chaque module. </p>
+    <dl>
+    <dd> <tt>Couleur</tt> : Composantes rouge, verte et bleue du module. </dd>
+    <dd> <tt>Info</tt> : Nom complet du module. </dd>
+    <dd> <tt>Alias</tt> : Sp&eacute;cification d'un nom pour l'afffichage des
+        cr&eacute;neaux du module. </dd>
+    <dd> <tt>Cible</tt> : Nom de la promotion d'&eacute;tudiants
+        destinatrice du module. Cette information permet d'afficher le
+        planning du module par groupes d'&eacute;tudiants. Si cette
+        information est fournie, les groupes d'&eacute;tudiants
+        associ&eacute;s aux t&acirc;ches de ce module doivent
+        imp&eacute;rativement faire partie de la promotion destinatrice. </dd>
+    <dd> <tt>AffichageAdministratif</tt> : Affichage uniquement sur l'interface
+        (pas d'affichage sur les versions &eacute;dit&eacute;es). </dd>
+    <dd> <tt>MasquageDuNom</tt> : Effacement du nom du module sur les
+        cr&eacute;neaux (affich&eacute; par d&eacute;faut). </dd>
+    <dd> <tt>MasquageDesEns</tt> : Effacement du nom des enseignants sur les
+        cr&eacute;neaux (affich&eacute; par d&eacute;faut). </dd>
+    <dd> <tt>MasquageDesEtu</tt> : Effacement du nom des promotions
+        d'&eacute;tudiants sur les cr&eacute;neaux (affich&eacute; par
+        d&eacute;faut). </dd>
+    <dd> <tt>NoTex</tt> : Affichage uniquement sur l'interface
+        (pas d'affichage sur les versions &eacute;dit&eacute;es). </dd>
+    </dl>
+    <dl>
+    <dd> <tt>Lot</tt> : D&eacute;finition d'un lot. </dd>
+    <dd> <tt>AliasLot</tt> : Sp&eacute;cification d'un nom pour l'afffichage
+        des cr&eacute;neaux du lot. </dd>
+    <dd> <tt>AffichageDuNom</tt> : Affichage du nom du lot sur les
+        cr&eacute;neaux (pas affich&eacute; par d&eacute;faut). </dd>
+    <dd> <tt>MasquageDuModule</tt> : Effacement du nom du module sur les
+        cr&eacute;neaux de ce lot (affich&eacute; par d&eacute;faut). </dd>
+    <dd> <tt>Numerotation</tt> : Affichage du num&eacute;ro du lot sur les
+        cr&eacute;neaux (pas affich&eacute; par d&eacute;faut). </dd>
+    </dl>
+    <dl>
+    <dd> <tt>Tache</tt> : D&eacute;finition d'une t&acirc;che. </dd>
+    <dd> <tt>Cout</tt> : Sp&eacute;cification du co&ucirc;t de la
+        t&acirc;che (pour la comptabilit&eacute; de la formation). </dd>
+    <dd> <tt>Duree</tt> : Sp&eacute;cification de la dur&eacute;e de la
+        t&acirc;che (en nombre de cr&eacute;neaux). </dd>
+    <dd> <tt>Etudiant</tt> : Partition de promotion d'&eacute;tudiants
+        associ&eacute;e &agrave; la t&acirc;che. </dd>
+    <dd> <tt>Etudiants</tt> : Choix de partitions de promotion
+        d'&eacute;tudiants associ&eacute;es &agrave; la t&acirc;che. </dd>
+    <dd> <tt>Enseignant</tt> : Enseignant associ&eacute; &agrave; la
+        t&acirc;che. </dd>
+    <dd> <tt>Enseignants</tt> : Choix d'enseignants associ&eacute;s &agrave;
+        la t&acirc;che. </dd>
+    <dd> <tt>Salle</tt> : Salle associ&eacute;e &agrave; la
+        t&acirc;che. </dd>
+    <dd> <tt>Salles</tt> : Choix de salles associ&eacute;es &agrave;
+        la t&acirc;che. </dd>
+    <dd> <tt>Repetition</tt> : Nombre d'occurences de la t&acirc;che. </dd>
+    </dl>
+  </body>
+</html>

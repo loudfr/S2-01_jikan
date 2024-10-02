@@ -1,0 +1,15 @@
+Info "Enseignants du dpt INFO"
+ABou
+ACas
+ATer
+BDav
+DBol
+EMed
+FAbd
+HRos
+OCas
+PAde
+PEve
+PVil
+SDie
+SNdo

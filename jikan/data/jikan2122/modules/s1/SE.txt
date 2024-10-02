@@ -1,0 +1,69 @@
+Couleur 180 190 80
+Info "Introduction aux systemes d'exploitation"
+Cible Info1
+Lot TDx
+  AliasLot TD
+  AffichageDuNom
+  Numerotation
+  Tache TDx
+    Cout TD
+    Duree 4
+    Etudiant Info1x
+    Enseignant ABou
+    Salles 2 Mul IG
+    Repetition 2
+Lot TDy
+  AliasLot TD
+  AffichageDuNom
+  Numerotation
+  Tache TDy
+    Cout TD
+    Duree 4
+    Etudiant Info1y
+    Enseignant ABou
+    Salles 2 Mul IG
+    Repetition 2
+Lot TPa
+  AliasLot TP
+  AffichageDuNom
+  Numerotation
+  Tache TPa
+    Cout TP
+    Duree 4
+    Etudiant Info1a
+    Enseignant SDie
+    Salles 4 Mul Res TR IG
+    Repetition 10
+Lot TPb
+  AliasLot TP
+  AffichageDuNom
+  Numerotation
+  Tache TPb
+    Cout TP
+    Duree 4
+    Etudiant Info1b
+    Enseignant ABou
+    Salles 4 Mul Res TR IG
+    Repetition 10
+Lot TPc
+  AliasLot TP
+  AffichageDuNom
+  Numerotation
+  Tache TPc
+    Cout TP
+    Duree 4
+    Etudiant Info1c
+    Enseignant ABou
+    Salles 4 Mul Res TR IG
+    Repetition 10
+Lot TPd
+  AliasLot TP
+  AffichageDuNom
+  Numerotation
+  Tache TPd
+    Cout TP
+    Duree 4
+    Etudiant Info1d
+    Enseignant SAbi
+    Salles 4 Mul Res TR IG
+    Repetition 10

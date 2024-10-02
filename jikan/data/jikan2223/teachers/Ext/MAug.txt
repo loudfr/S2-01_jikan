@@ -1,0 +1,8 @@
+Couleur 236 167 210
+Info "Mathilde Augier"
+
+ContrainteReguliere interdit 0 all
+ContrainteReguliere interdit 1 all
+ContrainteReguliere interdit 2 all
+ContrainteReguliere interdit 3 all
+ContrainteReguliere interdit 5 all

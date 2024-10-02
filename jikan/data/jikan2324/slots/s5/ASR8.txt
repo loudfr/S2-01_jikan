@@ -1,0 +1,9 @@
+CM CM S47 3 1 it3 Info3 HRos SC3
+TD TD S47 4 5 it3 Info3 HRos SC3
+TD TD S48 3 5 it3 Info3 HRos SC3
+TPx TPx S49 0 16 it3 Info3x HRos Mul
+TPx TPx S50 0 5 it3 Info3x HRos IN
+TPx TPx S2 0 12 it3 Info3x HRos Mul
+TPy TPy S49 0 12 it3 Info3y HRos Mul
+TPy TPy S50 0 12 it3 Info3y HRos IN
+TPy TPy S2 0 1 it3 Info3y HRos Mul

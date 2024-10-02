@@ -1,0 +1,10 @@
+CM CM S47 1 1 it3 Info3 OCas Amphi
+TD TD S47 3 5 it3 Info3 OCas Tim
+TD TD S48 1 5 it3 Info3 OCas TR
+TD TD S49 4 1 it3 Info3 OCas Tim
+TPx TPx2 S49 0 12 it3 Info3x OCas Tim
+TPx TPx4 S50 0 12 it3 Info3x OCas TR
+TPx TPx4 S2 0 1 it3 Info3x OCas Tim
+TPy TPy2 S49 0 16 it3 Info3y OCas Tim
+TPy TPy4 S50 1 12 it3 Info3y OCas TR
+TPy TPy4 S2 0 12 it3 Info3y OCas Tim

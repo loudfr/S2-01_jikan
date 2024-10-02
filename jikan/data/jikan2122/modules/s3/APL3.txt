@@ -1,0 +1,91 @@
+Couleur 200 80 160
+Info "Algorithmique avancee"
+Cible Info2
+Lot CM
+  AffichageDuNom
+  Numerotation
+  Tache CM
+    Cout CM
+    Duree 4
+    Etudiant Info2
+    Enseignant DBol
+    Salles 3 SC3 Amphi SC1
+    Repetition 3
+Lot Eval
+  AffichageDuNom
+  Numerotation
+  Tache Eval
+    Cout CM
+    Duree 4
+    Etudiant Info2
+    Enseignant DBol
+    Salle Amphi
+Lot TDx
+  AliasLot TD
+  AffichageDuNom
+  Numerotation
+  Tache TDx
+    Cout TD
+    Duree 4
+    Etudiant Info2x
+    Enseignant DBol
+    Salles 5 TD27 SCC SC3 TD13 TD26
+    Repetition 3
+  Tache TMx
+    Cout TD
+    Duree 4
+    Etudiant Info2x
+    Enseignant DBol
+    Salles 2 IG Mul
+    Repetition 2
+Lot TDy
+  AliasLot TD
+  AffichageDuNom
+  Numerotation
+  Tache TDy
+    Cout TD
+    Duree 4
+    Etudiant Info2y
+    Enseignant DBol
+    Salles 5 TD27 SCC SC3 TD13 TD26
+    Repetition 3
+  Tache TMy
+    Cout TD
+    Duree 4
+    Etudiant Info2y
+    Enseignant DBol
+    Salles 2 IG Mul
+    Repetition 2
+Lot TPa
+  AliasLot TP
+  AffichageDuNom
+  Numerotation
+  Tache TPa
+    Cout TP
+    Duree 4
+    Etudiant Info2A
+    Enseignant DBol
+    Salles 4 IG TR Mul Res
+    Repetition 6
+Lot TPb
+  AliasLot TP
+  AffichageDuNom
+  Numerotation
+  Tache TPb
+    Cout TP
+    Duree 4
+    Etudiant Info2B
+    Enseignant DBol
+    Salles 4 IG TR Mul Res
+    Repetition 6
+Lot TPc
+  AliasLot TP
+  AffichageDuNom
+  Numerotation
+  Tache TPc
+    Cout TP
+    Duree 4
+    Etudiant Info2C
+    Enseignant DBol
+    Salles 4 IG TR Mul Res
+    Repetition 6

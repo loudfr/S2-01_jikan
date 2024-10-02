@@ -1,0 +1,16 @@
+TDx TDxpa S46 3 1 it3 Info2x PAde SC3
+TDx TDxpa S47 1 12 it3 Info2x PAde TD27
+TDx TDxpa S2 0 12 it3 Info2x PAde SC3
+TDiniy TDypv S42 1 1 it3 Info2y PVil TD13
+TDinix TDxpv S42 1 12 it3 Info2x PVil TD13
+TDy TDypa S46 3 5 it3 Info2y PAde SC3
+TDy TDypa S47 0 12 it3 Info2y PAde SC3
+TDy TDypa S2 0 1 it3 Info2y PAde SC3
+TPa TPapa S47 4 16 it3 Info2A PAde TR
+TPa TPapa S48 2 5 it3 Info2A PAde TR
+TPa TPapa S1 2 12 it3 Info2A PAde TR
+TPa TPapv S3 1 1 it3 Info2A PVil IG
+TPc TPcpa S47 4 5 it3 Info2C PAde TR
+TPc TPcpa S48 2 1 it3 Info2C PAde TR
+TPc TPcpa S1 2 16 it3 Info2C PAde TR
+TPc TPcpv S3 1 12 it3 Info2C PVil IG

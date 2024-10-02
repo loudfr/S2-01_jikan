@@ -1,0 +1,22 @@
+Couleur 100 220 70
+Info "Conseil de l'institut"
+MasquageDesEns
+Lot ConseilIUT
+  Tache ConseilIUT
+    Cout GR
+    Duree 4
+    Enseignant OCas
+    Enseignant SDie
+    Enseignant PAde
+    Enseignant PEve
+    Enseignant PVil
+    Salle SCons
+    Repetition 5
+  Tache ConsIUT-nopv
+    Cout GR
+    Duree 4
+    Enseignant OCas
+    Enseignant SDie
+    Enseignant PAde
+    Enseignant PEve
+    Salle SCons

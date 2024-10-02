@@ -1,0 +1,13 @@
+Couleur 203 165 208
+Info "Marina Hubrecht-Prinz"
+
+ContrainteReguliere interdit 0 all
+ContrainteReguliere interdit 1 all
+ContrainteReguliere indesirable 2 ooooooooooooooooxxxxoo
+ContrainteReguliere interdit 3 all
+ContrainteReguliere interdit 4 all
+ContrainteReguliere interdit 5 all
+
+ContrainteOccasionnelle interdit S50 2 all
+ContrainteOccasionnelle interdit S51 2 all
+ContrainteOccasionnelle interdit S10 2 all

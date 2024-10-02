@@ -1,0 +1,40 @@
+Couleur 100 80 200
+Info "Reunions de departement INFO"
+MasquageDuNom
+MasquageDesEns
+Lot Reunion
+  AliasLot Rdpt
+  AffichageDuNom
+  Tache Rdpt
+    Cout GR
+    Duree 8
+    Enseignant BDav
+    Enseignant PVil
+    Enseignant PAde
+    Enseignant PEve
+    Enseignant DBol
+    Enseignant ACas
+    Enseignant OCas
+    Enseignant SDie
+    Enseignant ABou
+    Enseignant FAbd
+    Enseignant EMed
+    Enseignant HRos
+    Salles 3 SCons SRinfo SCC
+    Repetition 4
+Lot ACDI
+  AffichageDuNom
+  Tache ACDI
+    Cout GR
+    Duree 8
+    Enseignant SDie
+    Repetition 20
+Lot Jury-BUT
+  AffichageDuNom
+  Tache Jury-BUT
+    Cout GR
+    Duree 2
+    Enseignant OCas
+    Enseignant BDav
+    Enseignant SDie
+    Repetition 2

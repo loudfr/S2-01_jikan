@@ -1,0 +1,64 @@
+Couleur 150 234 200
+Info "TD de S6.01 Evolution d'une application existante"
+Cible Info3
+Alias SAE6
+Lot Soutenance
+  AliasLot sout
+  AffichageDuNom
+  Tache Sout
+    Cout GR
+    Duree 8
+    Etudiant Info3
+    Enseignant EMed
+    Salle Amphi
+Lot TDdev8
+  AliasLot dev8
+  AffichageDuNom
+  Tache SDdev8
+    Matiere DEV8
+    Cout TD
+    Duree 4
+    Etudiant Info3
+    Enseignant DBol
+    Salles 5 Mul IG TR Tim IN
+    Repetition 2
+Lot TDeco3
+  AliasLot eco3
+  AffichageDuNom
+  Tache SDeco3
+    Matiere ECO3
+    Cout TD
+    Duree 4
+    Etudiant Info3
+    Enseignant BDav
+    Salles 4 SC3 SCC TD27 TD13
+Lot TDdr3
+  AliasLot dr3
+  AffichageDuNom
+  Tache SDdr3
+    Matiere DR3
+    Cout TD
+    Duree 4
+    Etudiant Info3
+    Enseignant MPri
+    Salles 4 SC3 SCC TD27 TD13
+Lot TDc6
+  AliasLot c6
+  AffichageDuNom
+  Tache SDc6
+    Matiere C6
+    Cout TD
+    Duree 4
+    Etudiant Info3
+    Enseignant SNdo
+    Salles 4 SC3 SCC TD27 TD13
+Lot TDppp6
+  AliasLot ppp6
+  AffichageDuNom
+  Tache SDppp6
+    Matiere PPP6
+    Cout TD
+    Duree 4
+    Etudiant Info3
+    Enseignant BDav
+    Salles 4 SC3 SCC TD27 TD13

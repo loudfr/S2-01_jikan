@@ -1,0 +1,8 @@
+Couleur 240 236 102
+Info "Olivier Caspary"
+
+ContrainteOccasionnelle interdit S37 2 all
+ContrainteOccasionnelle interdit S41 2 all
+ContrainteOccasionnelle interdit S46 2 all
+ContrainteOccasionnelle interdit S50 2 all
+ContrainteOccasionnelle interdit S2 2 all

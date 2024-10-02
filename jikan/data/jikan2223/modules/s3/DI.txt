@@ -1,0 +1,47 @@
+Couleur 250 60 80
+Info "R3.16 Developpement integre"
+Cible Info2
+Lot TDx
+  AliasLot TD
+  AffichageDuNom
+  Numerotation
+  Tache TDx
+    Cout TD
+    Duree 4
+    Etudiant Info2x
+    Enseignant ATer
+    Salles 4 IG Mul TR IN
+    Repetition 6
+Lot TDy
+  AliasLot TD
+  AffichageDuNom
+  Numerotation
+  Tache TDy
+    Cout TD
+    Duree 4
+    Etudiant Info2y
+    Enseignant ATer
+    Salles 4 IG Mul TR IN
+    Repetition 6
+Lot TPa
+  AliasLot TP
+  AffichageDuNom
+  Numerotation
+  Tache TPa
+    Cout TD
+    Duree 4
+    Etudiant Info2A
+    Enseignant ATer
+    Salles 4 IG Mul TR IN
+    Repetition 4
+Lot TPc
+  AliasLot TP
+  AffichageDuNom
+  Numerotation
+  Tache TPc
+    Cout TD
+    Duree 4
+    Etudiant Info2C
+    Enseignant ATer
+    Salles 4 IG Mul TR IN
+    Repetition 4

@@ -1,0 +1,19 @@
+Info "Modules du 4eme semestre du DUT INFO"
+SR
+PR
+PM
+CR
+MS
+MD
+CE
+EC4
+ANG4
+TI
+PG
+IG
+MG
+SI
+MI
+CI
+PT4
+Stages

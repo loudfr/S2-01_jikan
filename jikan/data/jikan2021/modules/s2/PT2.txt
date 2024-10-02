@@ -1,0 +1,11 @@
+Couleur 100 180 200
+Info "Projet tutore 2"
+Lot Soutenance
+  AffichageDuNom
+  Tache Sout
+    Cout GR
+    Duree 8
+    Etudiant Info1
+    Enseignant ARic
+    Enseignant BDav
+    Salle Amphi

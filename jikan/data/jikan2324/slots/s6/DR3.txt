@@ -1,0 +1,5 @@
+CM CM S5 2 1 it3 Info3 MPri SC3
+TD TD S5 2 5 it3 Info3 MPri SC3
+TD TD S6 2 1 it3 Info3 MPri SC3
+TD TD S6 2 5 it3 Info3 MPri SC3
+TD TD S7 2 1 it3 Info3 MPri SC3

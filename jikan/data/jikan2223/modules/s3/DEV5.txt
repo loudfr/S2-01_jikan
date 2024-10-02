@@ -1,0 +1,54 @@
+Couleur 250 60 80
+Info "R3.03 Analyse"
+Cible Info2
+Lot CM
+  AffichageDuNom
+  Numerotation
+  Tache CM
+    Cout CM
+    Duree 4
+    Etudiant Info2
+    Enseignant DBol
+    Salles 2 Amphi SC3
+    Repetition 3
+Lot TDx
+  AliasLot TD
+  AffichageDuNom
+  Numerotation
+  Tache TDx
+    Cout TD
+    Duree 4
+    Etudiant Info2x
+    Enseignant DBol
+    Salles 4 TD13 SCC SC3 TD27
+Lot TDy
+  AliasLot TD
+  AffichageDuNom Numerotation
+  Tache TDy
+    Cout TD
+    Duree 4
+    Etudiant Info2y
+    Enseignant DBol
+    Salles 4 TD13 SCC SC3 TD27
+Lot TPa
+  AliasLot TP
+  AffichageDuNom
+  Numerotation
+  Tache TPa
+    Cout TP
+    Duree 4
+    Etudiant Info2A
+    Enseignant DBol
+    Salles 4 Mul IG TR IN
+    Repetition 3
+Lot TPc
+  AliasLot TP
+  AffichageDuNom
+  Numerotation
+  Tache TPc
+    Cout TP
+    Duree 4
+    Etudiant Info2C
+    Enseignant DBol
+    Salles 4 Mul IG TR IN
+    Repetition 3

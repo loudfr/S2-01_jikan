@@ -1,0 +1,4 @@
+TDx TDx S6 4 5 it3 Info2x BDav TD13
+TDx TDx S7 0 16 it3 Info2x BDav TD27
+TDy TDy S6 4 1 it3 Info2y BDav TD13
+TDy TDy S7 0 12 it3 Info2y BDav TD27

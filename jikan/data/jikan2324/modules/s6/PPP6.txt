@@ -1,0 +1,13 @@
+Couleur 150 230 216
+Info "R6.04 PPP"
+Cible Info3
+Lot TD
+  AffichageDuNom
+  Numerotation
+  Tache TD
+    Cout TD
+    Duree 4
+    Etudiant Info3
+    Enseignant BDav
+    Salles 4 TD13 TD27 SCC SC3
+    Repetition 3

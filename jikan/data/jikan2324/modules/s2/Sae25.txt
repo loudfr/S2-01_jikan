@@ -1,0 +1,108 @@
+Couleur 230 250 230
+Info "S2.05 Gestion d'un projet"
+Cible Info1
+Alias SAE25
+Lot TDx
+  AliasLot gp2
+  AffichageDuNom
+  Tache SMx
+    Matiere GP2
+    Cout TD
+    Duree 4
+    Etudiant Info1x
+    Enseignant BDav
+    Salles 4 IG Mul TR IN
+Lot TDy
+  AliasLot gp2
+  AffichageDuNom
+  Tache SMy
+    Matiere GP2
+    Cout TD
+    Duree 4
+    Etudiant Info1y
+    Enseignant BDav
+    Salles 4 IG Mul TR IN
+Lot TPa
+  AliasLot gp2
+  AffichageDuNom
+  Tache SPa
+    Matiere GP2
+    Cout TP
+    Duree 4
+    Etudiant Info1a
+    Enseignant BDav
+    Salles 5 IN Mul TR IG Res
+    Repetition 5
+Lot TPb
+  AliasLot gp2
+  AffichageDuNom
+  Tache SPb
+    Matiere GP2
+    Cout TP
+    Duree 4
+    Etudiant Info1b
+    Enseignant BDav
+    Salles 5 IN Mul TR IG Res
+    Repetition 5
+Lot TPc
+  AliasLot gp2
+  AffichageDuNom
+  Tache SPc
+    Matiere GP2
+    Cout TP
+    Duree 4
+    Etudiant Info1c
+    Enseignant BDav
+    Salles 5 IN Mul TR IG Res
+    Repetition 5
+Lot TPd
+  AliasLot gp2
+  AffichageDuNom
+  Tache SPd
+    Matiere GP2
+    Cout TP
+    Duree 4
+    Etudiant Info1d
+    Enseignant BDav
+    Salles 5 IN Mul TR IG Res
+    Repetition 5
+Lot SAEa
+  AliasLot PRJ
+  AffichageDuNom
+  Numerotation
+  Tache SAEa
+    Matiere GP2
+    Cout GR
+    Duree 4
+    Etudiant Info1a
+    Repetition 6
+Lot SAEb
+  AliasLot PRJ
+  AffichageDuNom
+  Numerotation
+  Tache SAEb
+    Matiere GP2
+    Cout GR
+    Duree 4
+    Etudiant Info1b
+    Repetition 6
+Lot SAEc
+  AliasLot PRJ
+  AffichageDuNom
+  Numerotation
+  Tache SAEc
+    Matiere GP2
+    Cout GR
+    Duree 4
+    Etudiant Info1c
+    Repetition 6
+Lot SAEd
+  AliasLot PRJ
+  AffichageDuNom
+  Numerotation
+  Tache SAEd
+    Matiere GP2
+    Cout GR
+    Duree 4
+    Etudiant Info1d
+    Repetition 6

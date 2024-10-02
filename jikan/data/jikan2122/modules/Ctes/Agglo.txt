@@ -1,0 +1,20 @@
+Couleur 197 126 245
+Info "Contraintes liees a la Communaute d'Agglou"
+AffichageAdministratif
+MasquageDuNom
+NoTex
+Lot Agg
+  AffichageDuNom
+  Tache agg-Amphi
+    Cout GR
+    Duree 4
+    Salle Amphi
+    Salle SCons
+    Salle Res
+    Repetition 20
+  Tache agg-SCons
+    Cout GR
+    Duree 4
+    Salle Amphi
+    Salle Res
+    Repetition 2

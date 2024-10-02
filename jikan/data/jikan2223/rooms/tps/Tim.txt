@@ -1,0 +1,2 @@
+Couleur 127 175 150
+Info "Salle Tim Berners-Lee, 1er etage"

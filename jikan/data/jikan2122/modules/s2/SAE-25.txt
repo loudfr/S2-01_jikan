@@ -1,0 +1,97 @@
+Couleur 130 170 160
+Info "Gestion d'un projet"
+Cible Info1
+Lot TDx
+  AliasLot TD
+  AffichageDuNom
+  Tache SDx
+    Cout TD
+    Duree 4
+    Etudiant Info1x
+    Enseignant BDav
+    Salles 3 IG Mul TR
+Lot TDy
+  AliasLot TD
+  AffichageDuNom
+  Tache SDy
+    Cout TD
+    Duree 4
+    Etudiant Info1y
+    Enseignant BDav
+    Salles 3 IG Mul TR
+Lot TPa
+  AliasLot TP
+  AffichageDuNom
+  Tache SPa
+    Cout TP
+    Duree 4
+    Etudiant Info1a
+    Enseignant BDav
+    Salles 4 Mul TR IG Res
+    Repetition 5
+Lot TPb
+  AliasLot TP
+  AffichageDuNom
+  Tache SPb
+    Cout TP
+    Duree 4
+    Etudiant Info1b
+    Enseignant BDav
+    Salles 4 Mul TR IG Res
+    Repetition 5
+Lot TPc
+  AliasLot TP
+  AffichageDuNom
+  Tache SPc
+    Cout TP
+    Duree 4
+    Etudiant Info1c
+    Enseignant BDav
+    Salles 4 Mul TR IG Res
+    Repetition 5
+Lot TPd
+  AliasLot TP
+  AffichageDuNom
+  Tache SPd
+    Cout TP
+    Duree 4
+    Etudiant Info1d
+    Enseignant BDav
+    Salles 4 Mul TR IG Res
+    Repetition 5
+Lot SAEa
+  AliasLot PRJ
+  AffichageDuNom
+  Numerotation
+  Tache SAEa
+    Cout GR
+    Duree 4
+    Etudiant Info1a
+    Repetition 6
+Lot SAEb
+  AliasLot PRJ
+  AffichageDuNom
+  Numerotation
+  Tache SAEb
+    Cout GR
+    Duree 4
+    Etudiant Info1b
+    Repetition 6
+Lot SAEc
+  AliasLot PRJ
+  AffichageDuNom
+  Numerotation
+  Tache SAEc
+    Cout GR
+    Duree 4
+    Etudiant Info1c
+    Repetition 6
+Lot SAEd
+  AliasLot PRJ
+  AffichageDuNom
+  Numerotation
+  Tache SAEd
+    Cout GR
+    Duree 4
+    Etudiant Info1d
+    Repetition 6

@@ -1,0 +1,11 @@
+Couleur 170 220 245 
+Info "Catherine Nutz"
+
+ContrainteReguliere interdit 1 ooooooooooooxxxxxxxxxx
+
+ContrainteOccasionnelle interdit S38 4 all
+ContrainteOccasionnelle interdit S40 4 all
+ContrainteOccasionnelle interdit S47 4 all
+ContrainteOccasionnelle interdit S50 3 all
+ContrainteOccasionnelle interdit S50 4 all
+ContrainteOccasionnelle interdit S39 3 all

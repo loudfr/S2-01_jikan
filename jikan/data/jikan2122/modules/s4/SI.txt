@@ -1,0 +1,28 @@
+Couleur 220 160 90
+Info "Synthese d'images"
+MasquageDuNom
+Lot TD
+  AliasLot SI
+  AffichageDuNom
+  Numerotation
+  Tache CM
+    Cout CM
+    Duree 4
+    Etudiant IN
+    Enseignant PEve
+    Salles 5 SCC SC3 TD13 TR Res
+    Repetition 3
+  Tache TD
+    Cout TD
+    Duree 4
+    Etudiant IN
+    Enseignant PEve
+    Salles 5 SCC SC3 TD13 TR Res
+    Repetition 4
+  Tache TP
+    Cout TP
+    Duree 4
+    Etudiant IN
+    Enseignant PEve
+    Salles 2 TR Res
+    Repetition 8

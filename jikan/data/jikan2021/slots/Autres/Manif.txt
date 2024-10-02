@@ -1,0 +1,8 @@
+Prepa-JPO PrepaJPO S6 4 12 it3 Info1 Info2 ARic
+TOEIC TOEIC S50 3 0 it3 Info2 Amphi ACas
+TOEIC prepaTOEIC S50 2 16 it2 ACas Amphi
+TOEIC prepaTOEIC S50 3 5 it2 ACas Amphi
+FS FS S41 1 1 it2 TD13 PVil
+FS FS S41 1 5 it2 TD13 PVil
+FS FS S41 1 12 it2 TD13 PVil
+FS FS S41 1 16 it2 TD13 PVil

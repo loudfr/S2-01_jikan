@@ -1,0 +1,12 @@
+TDx TDx S18 1 12 it3 Info2x SDie TD27
+TDx TDx S18 2 1 it3 Info2x SDie SCC
+TDx TDx S19 1 1 it3 Info2x SDie SCC
+TDy TDy S18 1 16 it3 Info2y SDie TD27
+TDy TDy S18 2 5 it3 Info2y SDie SCC
+TDy TDy S19 1 5 it3 Info2y SDie SCC
+TPa TPa S19 3 1 it3 Info2A SDie IG
+TPa TPa S20 1 16 it3 Info2A SDie IG
+TPa TPa S23 2 5 it3 Info2A SDie IG
+TPc TPc S19 3 5 it3 Info2C SDie IG
+TPc TPc S20 1 12 it3 Info2C SDie IG
+TPc TPc S23 2 1 it3 Info2C SDie IG

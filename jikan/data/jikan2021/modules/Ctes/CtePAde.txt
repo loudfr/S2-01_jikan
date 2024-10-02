@@ -1,0 +1,33 @@
+Couleur 210 184 205
+Info "Contraintes specifiques aux enseignants de mathematiques"
+Lot C2i
+  AffichageDuNom
+  MasquageDuModule
+  Tache C2i-theorie
+    Cout GR
+    Duree 3
+    Enseignant PAde
+    Salle Amphi
+  Tache C2i-pratique
+    Cout GR
+    Duree 5
+    Enseignant PAde
+    Salle IG
+    Salle Mul
+    Salle TR
+Lot TM
+  AffichageDuNom
+  MasquageDuModule
+  Tache TM
+    Cout GR
+    Duree 4
+    Enseignant PAde
+    Repetition 40
+Lot RI
+  AffichageDuNom
+  MasquageDuModule
+  Tache RI
+    Cout GR
+    Duree 4
+    Enseignant PAde
+    Repetition 40

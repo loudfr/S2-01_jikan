@@ -1,0 +1,27 @@
+Couleur 100 200 100
+Info "Stage de 2e annee en entreprise"
+MasquageDuNom
+MasquageDesEns
+Lot Depart
+  AffichageDuNom
+  Tache Depart
+    Cout GR
+    Duree 1
+    Etudiant Info2
+Lot Soutenances
+  AffichageDuNom
+  Tache Soutenances
+    Cout GR
+    Duree 8
+    Etudiant Info2
+    Etudiant Info1
+    Enseignant PEve
+    Enseignant SDie
+    Enseignant PVil
+    Enseignant PAde
+    Enseignant ACas
+    Enseignant OCas
+    Enseignant DBol
+    Enseignant ABou
+    Enseignant BDav
+    Enseignant FAbd

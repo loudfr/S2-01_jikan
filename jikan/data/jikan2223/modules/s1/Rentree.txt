@@ -1,0 +1,65 @@
+Couleur 210 140 210
+Info "Rentree 1e annee"
+MasquageDuNom
+MasquageDesEns
+Lot RentreeS1
+  AliasLot Rentree-S1
+  AffichageDuNom
+  Tache RentreeS1
+    Cout GR
+    Duree 7
+    Etudiant Info1
+    Enseignant SDie
+    Enseignant BDav
+    Enseignant PEve
+    Enseignant PVil
+    Enseignant DBol
+    Enseignant ACas
+    Salle Amphi
+Lot Internat
+  AffichageDuNom
+  Tache Internat
+    Cout GR
+    Duree 4
+    Etudiant Info1
+    Etudiant Info2
+    Salle Amphi
+Lot Integ
+  AliasLot Integration
+  AffichageDuNom
+  Tache Integ
+    Cout GR
+    Duree 8
+    Etudiant Info1
+    Etudiant Info2
+    Repetition 2
+Lot RentreeU
+  AliasLot Rentree-Univ
+  AffichageDuNom
+  Tache RentreeU
+    Cout GR
+    Duree 4
+    Etudiant Info1
+    Salle Amphi
+Lot Doc
+  AffichageDuNom
+  Tache Doca
+    Cout GR
+    Duree 2
+    Etudiant Info1a
+    Enseignant PSar
+  Tache Docb
+    Cout GR
+    Duree 2
+    Etudiant Info1b
+    Enseignant PSar
+  Tache Docc
+    Cout GR
+    Duree 2
+    Etudiant Info1c
+    Enseignant PSar
+  Tache Docd
+    Cout GR
+    Duree 2
+    Etudiant Info1d
+    Enseignant PSar

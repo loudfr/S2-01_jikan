@@ -1,0 +1,126 @@
+Couleur 200 140 60
+Info "Structures de donnees et algorithmes fondamentaux"
+Lot CM
+  AffichageDuNom
+  Numerotation
+  Tache CM
+    Cout CM
+    Duree 4
+    Etudiant Info1
+    Enseignant EKer
+    Salles 3 Amphi SC3 SConf
+    Repetition 3
+  Tache EV2
+    Cout CM
+    Duree 4
+    Etudiant Info1
+    Enseignant EKer
+    Salles 3 Amphi SC3 SConf
+Lot TDx
+  AliasLot TD
+  AffichageDuNom
+  Numerotation
+  Tache TDxEK
+    Cout TD
+    Duree 4
+    Etudiant Info1x
+    Enseignant EKer
+    Salles 5 TD27 SC3 SCC TD26 TD13
+    Repetition 3
+  Tache TDxAB
+    Cout TD
+    Duree 4
+    Etudiant Info1x
+    Enseignant ABou
+    Salles 5 TD27 SC3 SCC TD26 TD13
+    Repetition 4
+Lot TDy
+  AliasLot TD
+  AffichageDuNom
+  Numerotation
+  Tache TDyEK
+    Cout TD
+    Duree 4
+    Etudiant Info1y
+    Enseignant EKer
+    Salles 5 SC3 TD27 SCC TD26 TD13
+    Repetition 3
+  Tache TDyAB
+    Cout TD
+    Duree 4
+    Etudiant Info1y
+    Enseignant ABou
+    Salles 5 SC3 TD27 SCC TD26 TD13
+    Repetition 4
+Lot TPa
+  AliasLot TP
+  AffichageDuNom
+  Numerotation
+  Tache TPaEK
+    Cout TP
+    Duree 4
+    Etudiant Info1a
+    Enseignant EKer
+    Salles 4 IG TR Mul Res
+    Repetition 5
+  Tache TPaAB
+    Cout TP
+    Duree 4
+    Etudiant Info1a
+    Enseignant ABou
+    Salles 4 IG TR Mul Res
+    Repetition 4
+Lot TPb
+  AliasLot TP
+  AffichageDuNom
+  Numerotation
+  Tache TPbEK
+    Cout TP
+    Duree 4
+    Etudiant Info1b
+    Enseignant EKer
+    Salles 4 IG TR Mul Res
+    Repetition 5
+  Tache TPbAB
+    Cout TP
+    Duree 4
+    Etudiant Info1b
+    Enseignant ABou
+    Salles 4 IG TR Mul Res
+    Repetition 4
+Lot TPc
+  AliasLot TP
+  AffichageDuNom
+  Numerotation
+  Tache TPcEK
+    Cout TP
+    Duree 4
+    Etudiant Info1c
+    Enseignant EKer
+    Salles 4 TR IG Mul Res
+    Repetition 5
+  Tache TPcAB
+    Cout TP
+    Duree 4
+    Etudiant Info1c
+    Enseignant ABou
+    Salles 4 TR IG Mul Res
+    Repetition 4
+Lot TPd
+  AliasLot TP
+  AffichageDuNom
+  Numerotation
+  Tache TPdEK
+    Cout TP
+    Duree 4
+    Etudiant Info1d
+    Enseignant EKer
+    Salles 4 TR IG Mul Res
+    Repetition 5
+  Tache TPdAB
+    Cout TP
+    Duree 4
+    Etudiant Info1d
+    Enseignant ABou
+    Salles 4 TR IG Mul Res
+    Repetition 4

@@ -1,0 +1,7 @@
+CM CM S36 4 1 it5 IPx IPy IPz JFic Mae
+TD TD S36 4 5 it5 IPx IPy IPz JFic Mae
+TD TD S37 4 1 it5 IPx IPy IPz JFic Mae
+TD TD S37 4 5 it5 IPx IPy IPz JFic Mae
+TP TP S36 4 12 it5 IPx IPy IPz JFic Mae
+TP TP S36 4 16 it5 IPx IPy IPz JFic Mae
+TP TP S37 4 12 it5 IPx IPy IPz JFic Mae

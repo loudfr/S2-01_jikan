@@ -1,0 +1,30 @@
+Couleur 140 120 230
+Info "Assemblee des chefs de departement"
+MasquageDuNom
+MasquageDesEns
+Lot ACDI
+  AffichageDuNom
+  Tache ACDI
+    Cout GR
+    Duree 8
+    Enseignant ARic
+    Repetition 20
+  Tache ACDI-DF
+    Cout GR
+    Duree 8
+    Enseignant DFin
+    Repetition 6
+Lot ACDI-EGO
+  AffichageDuNom
+  Tache EGO
+    Cout GR
+    Duree 8
+    Enseignant BDav
+    Repetition 6
+Lot ACDI-EC
+  AffichageDuNom
+  Tache EC
+    Cout GR
+    Duree 8
+    Enseignant ARic
+    Repetition 6

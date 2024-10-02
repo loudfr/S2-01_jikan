@@ -1,0 +1,52 @@
+Couleur 210 135 184
+Info "R6.A07 Synthese d'images numeriques"
+Cible Info3
+Lot CM
+  AffichageDuNom
+  Numerotation
+  Tache CM
+    Cout CM
+    Duree 4
+    Etudiant Info3
+    Enseignant PEve
+    Salles 3 Amphi SC3 SCC
+    Repetition 2
+  Tache EV2
+    Cout CM
+    Duree 4
+    Etudiant Info3
+    Enseignant PEve
+    Salles 2 Amphi SC3
+Lot TD
+  AliasLot TD
+  AffichageDuNom
+  Numerotation
+  Tache TD
+    Cout TD
+    Duree 4
+    Etudiant Info3
+    Enseignant PEve
+    Salles 6 TD13 TD27 SCC SC3 IG TR
+    Repetition 3
+Lot TPx
+  AliasLot TP
+  AffichageDuNom
+  Numerotation
+  Tache TPx
+    Cout TP
+    Duree 4
+    Etudiant Info3x
+    Enseignant PEve
+    Salles 6 Mul IG TR IN TD13 Res
+    Repetition 5
+Lot TPy
+  AliasLot TP
+  AffichageDuNom
+  Numerotation
+  Tache TPy
+    Cout TP
+    Duree 4
+    Etudiant Info3y
+    Enseignant PEve
+    Salles 6 Mul IG TR IN TD13 Res
+    Repetition 5

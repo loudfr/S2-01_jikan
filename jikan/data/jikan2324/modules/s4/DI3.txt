@@ -1,0 +1,37 @@
+Couleur 150 170 110
+Info "R4.A14 Developpement Ios"
+Cible Info2
+Lot CM
+  AliasLot CM
+  AffichageDuNom
+  Tache CM
+    Cout CM
+    Duree 4
+    Etudiant Info2A
+    Etudiant IPe
+    Enseignant JFic
+    Salles 4 SC3 Amphi SCC Mae
+Lot TD
+  AliasLot TD
+  AffichageDuNom
+  Numerotation
+  Tache TD
+    Cout TD
+    Duree 4
+    Etudiant Info2A
+    Etudiant IPe
+    Enseignant JFic
+    Salles 2 Tim Mae
+    Repetition 3
+Lot TP
+  AliasLot TP
+  AffichageDuNom
+  Numerotation
+  Tache TP
+    Cout TP
+    Duree 4
+    Etudiant Info2A
+    Etudiant IPe
+    Enseignant JFic
+    Salles 2 Tim Mae
+    Repetition 4

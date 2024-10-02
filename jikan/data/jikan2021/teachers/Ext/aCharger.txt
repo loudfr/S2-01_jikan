@@ -1,0 +1,13 @@
+Info "Enseignants non permanents"
+BDev
+CMag
+CVal
+EKer
+EMic
+JMou
+KBet
+MEno
+MPri
+NEmo
+PFlo
+PGue

@@ -1,0 +1,4 @@
+TPdev8x SPdev8x S8 1 12 it3 Info3x DBol IN
+TPdev8y SPdev8y S8 1 16 it3 Info3y DBol IN
+TPqd5x SPqd5x S11 4 12 it3 Info3x MFai Tim
+TPqd5y SPqd5y S11 4 16 it3 Info3y MFai Tim

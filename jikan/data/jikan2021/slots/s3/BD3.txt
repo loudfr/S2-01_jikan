@@ -1,0 +1,11 @@
+CM CM S47 4 5 it3 Info2 KBet Amphi
+CM CM S47 1 1 it3 Info2 KBet Amphi
+CM CM S48 4 1 it3 Info2 KBet Amphi
+TDx TMx S49 2 5 it3 Info2x KBet Mul
+TDx TMx S49 0 12 it3 Info2x KBet Mul
+TDx TMx S50 4 1 it3 Info2x KBet Mul
+TDx TMx S50 1 1 it3 Info2x KBet Mul
+TDy TMy S49 2 12 it3 Info2y KBet IG
+TDy TMy S49 0 16 it3 Info2y KBet IG
+TDy TMy S50 4 5 it3 Info2y KBet IG
+TDy TMy S50 1 5 it3 Info2y KBet IG

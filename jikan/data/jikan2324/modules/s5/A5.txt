@@ -1,0 +1,36 @@
+Couleur 200 190 150
+Info "R5.A14 Anglais"
+Cible Info3
+Lot TD
+  AliasLot TD
+  AffichageDuNom
+  Numerotation
+  Tache TD
+    Cout TD
+    Duree 4
+    Etudiant Info3
+    Enseignant ACas
+    Salles 4 SC3 SCC TD13 TD27
+    Repetition 7
+Lot TPx
+  AliasLot TP
+  AffichageDuNom
+  Numerotation
+  Tache TPx
+    Cout TP
+    Duree 4
+    Etudiant Info3x
+    Enseignant ACas
+    Salles 6 IG Mul TR IN Res Tim
+    Repetition 5
+Lot TPy
+  AliasLot TP
+  AffichageDuNom
+  Numerotation
+  Tache TPy
+    Cout TP
+    Duree 4
+    Etudiant Info3y
+    Enseignant ACas
+    Salles 6 IG Mul TR IN Res Tim
+    Repetition 5

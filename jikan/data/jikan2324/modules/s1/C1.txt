@@ -1,0 +1,69 @@
+Couleur 190 190 110
+Info "R1.11 Bases de la communication"
+Cible Info1
+Lot TDx
+  AliasLot TD
+  AffichageDuNom
+  Numerotation
+  Tache TDx
+    Cout TD
+    Duree 4
+    Etudiant Info1x
+    Enseignant SNdo
+    Salle SCC
+    Repetition 8
+Lot TDy
+  AliasLot TD
+  AffichageDuNom
+  Numerotation
+  Tache TDy
+    Cout TD
+    Duree 4
+    Etudiant Info1y
+    Enseignant SNdo
+    Salle SCC
+    Repetition 8
+Lot TPa
+  AliasLot TP
+  AffichageDuNom
+  Numerotation
+  Tache TPa
+    Cout TP
+    Duree 4
+    Etudiant Info1a
+    Enseignant SNdo
+    Salles 6 Res IN IG TR Mul SCC
+    Repetition 5
+Lot TPb
+  AliasLot TP
+  AffichageDuNom
+  Numerotation
+  Tache TPb
+    Cout TP
+    Duree 4
+    Etudiant Info1b
+    Enseignant SNdo
+    Salles 6 Res IN IG TR Mul SCC
+    Repetition 5
+Lot TPc
+  AliasLot TP
+  AffichageDuNom
+  Numerotation
+  Tache TPc
+    Cout TP
+    Duree 4
+    Etudiant Info1c
+    Enseignant SNdo
+    Salles 6 Res IN IG TR Mul SCC
+    Repetition 5
+Lot TPd
+  AliasLot TP
+  AffichageDuNom
+  Numerotation
+  Tache TPd
+    Cout TP
+    Duree 4
+    Etudiant Info1d
+    Enseignant SNdo
+    Salles 6 Res IN IG TR Mul SCC
+    Repetition 5

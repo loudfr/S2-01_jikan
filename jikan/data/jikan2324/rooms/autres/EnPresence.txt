@@ -1,0 +1,2 @@
+Couleur 120 190 246
+Info "Activite en presentiel IUT"

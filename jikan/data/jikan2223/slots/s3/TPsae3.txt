@@ -1,0 +1,58 @@
+TPweb2 SPweb S41 1 12 it5 Info2A Info2C EMic IG Mul
+TPweb2 SPweb S41 1 16 it5 Info2A Info2C EMic IG Mul
+TPweb2a SPweb2a S42 1 16 it3 Info2A EMic IG
+TPweb2c SPweb2c S42 1 5 it3 Info2C EMic IG
+TPdev4a SPdev4a S38 0 16 it3 Info2A DBol Mul
+TPdev4c SPdev4c S38 2 5 it3 Info2C DBol Mul
+TPdev5a SPdev5a S2 3 1 it3 Info2A DBol Mul
+TPdev5c SPdev5c S2 3 5 it3 Info2C DBol Mul
+TPqd2a SPqd2a S2 1 5 it3 Info2A DBol Mul
+TPqd2a SPqd2a S2 1 1 it3 Info2A DBol Mul
+TPqd2c SPqd2c S2 1 12 it3 Info2C DBol Mul
+TPqd2c SPqd2c S2 1 16 it3 Info2C DBol Mul
+TPasr5a SPasr5a S2 3 5 it3 Info2A ABou IG
+TPasr5c SPasr5c S2 3 1 it3 Info2C ABou IG
+TPasr6a SPasr6a S1 4 12 it3 Info2A SDie Mul
+TPasr6c SPasr6c S1 4 16 it3 Info2C SDie Mul
+TPm6a SPm6a S48 0 12 it3 Info2A PAde TR
+TPm6c SPm6c S48 0 16 it3 Info2C PAde TR
+TPm7a SPm7a S2 2 12 it3 Info2A PAde TR
+TPm7a SPm7a S1 1 16 it3 Info2A PAde TR
+TPm7c SPm7c S2 2 16 it3 Info2C PAde TR
+TPm7c SPm7c S1 1 1 it3 Info2C PAde TR
+TPgp3a SPgp3a S46 4 12 it3 Info2A BDav TR
+TPgp3c SPgp3c S46 4 16 it3 Info2C BDav TR
+TPa3a SPa3a S3 2 5 it3 Info2A ACas Mul
+TPa3c SPa3c S3 2 1 it3 Info2C ACas Mul
+TPc3a SPc3a S3 4 5 it3 Info2A SNdo IN
+TPc3c SPc3c S3 4 12 it3 Info2C SNdo IN
+SAE SAE S49 0 1 it1 Info2
+SAE SAE S49 0 12 it1 Info2
+SAE SAE S49 1 1 it1 Info2
+SAE SAE S49 1 12 it1 Info2
+SAE SAE S49 2 1 it1 Info2
+SAE SAE S49 2 12 it1 Info2
+SAE SAE S49 3 1 it1 Info2
+SAE SAE S49 4 1 it1 Info2
+SAE SAE S50 0 1 it1 Info2
+SAE SAE S50 2 1 it1 Info2
+SAE SAE S50 1 1 it1 Info2
+SAE SAE S50 3 1 it1 Info2
+SAE SAE S50 4 1 it1 Info2
+SAE SAE S50 4 12 it1 Info2
+SAE SAE S49 4 12 it1 Info2
+SAE SAE S50 2 12 it1 Info2
+SAE SAE S50 1 12 it1 Info2
+SAE SAE S50 0 12 it1 Info2
+SAE SAE S43 2 12 it1 Info2
+SAE SAE S45 0 1 it1 Info2
+SAE SAE S45 0 12 it1 Info2
+SAE SAE S45 1 1 it1 Info2
+SAE SAE S45 1 12 it1 Info2
+SAE SAE S45 2 1 it1 Info2
+SAE SAE S45 2 12 it1 Info2
+SAE SAE S43 0 1 it1 Info2
+SAE SAE S43 0 12 it1 Info2
+SAE SAE S43 1 1 it1 Info2
+SAE SAE S43 1 12 it1 Info2
+SAE SAE S43 2 1 it1 Info2

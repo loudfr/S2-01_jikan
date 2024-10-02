@@ -1,0 +1,30 @@
+TDx SDx S50 1 12 it3 Info1x SDie TD27
+TDy SDy S50 1 12 it3 Info1y FAbd SC3
+TPa SPa S49 3 1 it3 Info1a SDie Mul
+TPb SPb S49 3 1 it3 Info1b FAbd IG
+TPc SPc S49 3 5 it3 Info1c FAbd IG
+TPd SPd S49 3 5 it3 Info1d SDie Mul
+SAEa SAEa S48 3 5 it1 Info1a
+SAEa SAEa S48 3 1 it1 Info1a
+SAEa SAEa S47 2 12 it1 Info1a
+SAEa SAEa S47 1 16 it1 Info1a
+SAEa SAEa S46 2 16 it1 Info1a
+SAEa SAEa S49 0 12 it1 Info1a
+SAEb SAEb S48 4 5 it1 Info1b
+SAEb SAEb S48 3 1 it1 Info1b
+SAEb SAEb S47 2 16 it1 Info1b
+SAEb SAEb S47 1 16 it1 Info1b
+SAEb SAEb S46 4 12 it1 Info1b
+SAEb SAEb S49 0 12 it1 Info1b
+SAEc SAEc S48 4 5 it1 Info1c
+SAEc SAEc S48 4 1 it1 Info1c
+SAEc SAEc S47 2 12 it1 Info1c
+SAEc SAEc S47 0 16 it1 Info1c
+SAEc SAEc S46 4 16 it1 Info1c
+SAEc SAEc S49 0 1 it1 Info1c
+SAEd SAEd S48 3 5 it1 Info1d
+SAEd SAEd S48 4 1 it1 Info1d
+SAEd SAEd S47 2 12 it1 Info1d
+SAEd SAEd S47 0 16 it1 Info1d
+SAEd SAEd S46 2 16 it1 Info1d
+SAEd SAEd S49 0 1 it1 Info1d

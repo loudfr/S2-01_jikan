@@ -1,0 +1,30 @@
+TDx SDxek S50 0 1 it3 Info1x EKer TD13
+TDy SDyek S50 0 5 it3 Info1y EKer TD13
+TPa SPaek S1 1 1 it3 Info1a EKer Mul
+TPb SPbek S1 1 12 it3 Info1b EKer Mul
+TPc SPcek S1 1 5 it3 Info1c EKer Mul
+TPd SPdek S1 1 16 it3 Info1d EKer Mul
+SAEa SAEa S50 3 5 it1 Info1a
+SAEa SAEa S1 2 12 it1 Info1a
+SAEa SAEa S1 3 5 it1 Info1a
+SAEa SAEa S2 0 16 it1 Info1a
+SAEa SAEa S2 1 16 it1 Info1a
+SAEa SAEa S2 2 5 it1 Info1a
+SAEb SAEb S50 3 5 it1 Info1b
+SAEb SAEb S1 2 12 it1 Info1b
+SAEb SAEb S1 3 1 it1 Info1b
+SAEb SAEb S2 0 16 it1 Info1b
+SAEb SAEb S2 1 5 it1 Info1b
+SAEb SAEb S2 2 12 it1 Info1b
+SAEc SAEc S50 2 12 it1 Info1c
+SAEc SAEc S1 2 5 it1 Info1c
+SAEc SAEc S1 4 1 it1 Info1c
+SAEc SAEc S2 0 12 it1 Info1c
+SAEc SAEc S2 1 1 it1 Info1c
+SAEc SAEc S2 2 5 it1 Info1c
+SAEd SAEd S50 3 5 it1 Info1d
+SAEd SAEd S1 2 1 it1 Info1d
+SAEd SAEd S1 4 1 it1 Info1d
+SAEd SAEd S2 0 12 it1 Info1d
+SAEd SAEd S2 1 12 it1 Info1d
+SAEd SAEd S2 2 5 it1 Info1d

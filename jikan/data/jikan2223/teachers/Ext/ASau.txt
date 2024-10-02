@@ -1,0 +1,8 @@
+Couleur 229 235 220
+Info "Aude Saunier"
+
+ContrainteReguliere interdit 0 all
+ContrainteReguliere interdit 1 all
+ContrainteReguliere indesirable 2 xooooooooxxxxxxxxxxxxx
+ContrainteReguliere interdit 3 all
+ContrainteReguliere interdit 4 all

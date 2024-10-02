@@ -1,0 +1,10 @@
+Couleur 185 221 212
+Info "Clemence Cuny"
+
+ContrainteReguliere interdit 0 oxxxxooooooooooooooooo
+ContrainteReguliere interdit 1 oxxxxooooooooooooooooo
+ContrainteReguliere interdit 2 all
+ContrainteReguliere interdit 3 oxxxxooooooooooooooooo
+ContrainteReguliere indesirable 4 oxxxxooooooooooooooooo
+ContrainteReguliere interdit 5 all
+RelacheContrainte S50 3 all

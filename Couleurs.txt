@@ -1,0 +1,40 @@
+***************IL NE FAUT PAS METTRE LES VIRGULES*****************
+Rouge : 255, 0, 0                       Vert : 0, 255, 0
+
+Bleu : 0, 0, 255                         Jaune : 255, 255, 0
+
+Cyan : 0, 255, 255                      Magenta : 255, 0, 255
+
+Blanc : 255, 255, 255                   Noir : 0, 0, 0
+
+Gris : 128, 128, 128                    Orange : 255, 165, 0
+
+Rose : 255, 192, 203                    Violet : 128, 0, 128
+
+Vert clair : 144, 238, 144              Bleu ciel : 135, 206, 250
+
+Brun : 165, 42, 42                       Or : 255, 215, 0
+
+Turquoise : 64, 224, 208                Bleu marine : 0, 0, 128
+
+Indigo : 75, 0, 130                      Olive : 128, 128, 0
+
+Gris foncé : 64, 64, 64	                Gris clair : 192, 192, 192
+
+Corail : 255, 127, 80                   Sarcelle : 0, 128, 128
+
+Lavande : 230, 230, 250                 Pourpre : 128, 0, 128
+
+Fuchsia : 255, 0, 255                   Citron vert : 50, 205, 50
+
+Aqua : 0, 255, 255                       Kaki : 240, 230, 140
+
+Magenta foncé : 139, 0, 139             Sable : 244, 164, 96
+
+Azur : 240, 255, 255                    Chartreuse : 127, 255, 0
+
+Gris acier : 176, 196, 222              Cramoisi : 220, 20, 60
+
+Chocolat : 210, 105, 30                 Or antique : 207, 181, 59
+
+Turquoise foncé : 0, 206, 209           Bourgogne : 128, 0, 32

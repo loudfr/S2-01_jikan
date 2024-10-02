@@ -1,0 +1,45 @@
+Couleur 120 130 230
+Info "R4.06 Communication interne"
+Cible Info2
+Lot TDx
+  AliasLot TD
+  AffichageDuNom
+  Numerotation
+  Tache TDx
+    Cout TD
+    Duree 4
+    Etudiant Info2x
+    Enseignant SNdo
+    Salles 4 SC3 SCC TD13 TD27
+    Repetition 5
+Lot TDy
+  AliasLot TD
+  AffichageDuNom
+  Numerotation
+  Tache TDy
+    Cout TD
+    Duree 4
+    Etudiant Info2y
+    Enseignant SNdo
+    Salles 4 SC3 SCC TD13 TD27
+    Repetition 5
+Lot TQa
+  AliasLot TP
+  AffichageDuNom
+  Numerotation
+  Tache TPa
+    Cout TP
+    Duree 4
+    Etudiant Info2A
+    Enseignant SNdo
+    Salles 8 SC3 SCC TD13 TD27 IN TR Mul IG
+Lot TQc
+  AliasLot TP
+  AffichageDuNom
+  Numerotation
+  Tache TPc
+    Cout TP
+    Duree 4
+    Etudiant Info2C
+    Enseignant SNdo
+    Salles 8 SC3 SCC TD13 TD27 IN TR Mul IG

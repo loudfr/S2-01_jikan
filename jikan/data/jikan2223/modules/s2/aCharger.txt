@@ -1,0 +1,21 @@
+Info "Modules du 2eme semestre du BUT INFO"
+DEV2
+DEV3
+QD1
+ASR3
+ASR4
+BD2
+M3
+M4
+M5
+GP2
+DR1
+A2
+C2
+PPP2
+Sae21
+Sae22
+Sae23
+Sae24
+Sae25
+Sae26

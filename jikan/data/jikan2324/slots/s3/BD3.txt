@@ -1,0 +1,16 @@
+TDx TMx S36 1 12 it3 Info2x FBea IG
+TDx TMx S37 3 1 it3 Info2x FBea IG
+TDy TMy S36 1 16 it3 Info2y FBea IG
+TDy TMy S37 3 5 it3 Info2y FBea IG
+TPa TPa S38 4 16 it3 Info2A FBea TR
+TPa TPa S39 2 12 it3 Info2A FBea Res
+TPa TPa S40 2 16 it3 Info2A FBea IG
+TPa TPa S41 2 16 it3 Info2A FBea IN
+TPb TPb S38 4 12 it3 Info2B FBea TR
+TPb TPb S39 2 16 it3 Info2B FBea Res
+TPb TPb S40 4 5 it3 Info2B FBea IG
+TPb TPb S41 4 12 it3 Info2B FBea IN
+TPc TPc S38 2 5 it3 Info2C FBea TR
+TPc TPc S39 3 5 it3 Info2C FBea Res
+TPc TPc S40 4 12 it3 Info2C FBea IG
+TPc TPc S41 4 16 it3 Info2C FBea IN

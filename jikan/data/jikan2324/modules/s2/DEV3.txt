@@ -1,0 +1,142 @@
+Couleur 220 70 150
+Info "R2.02 Developpement d'applications avec IHM"
+Cible Info1
+Lot CM
+  AffichageDuNom
+  Numerotation
+  Tache CMui
+    Cout CM
+    Duree 4
+    Etudiant Info1
+    Enseignant PVil
+    Salle Amphi
+    Repetition 3
+  Tache CMer
+    Cout CM
+    Duree 4
+    Etudiant Info1
+    Enseignants 2 JMou PEve
+    Salle Amphi
+    Repetition 2
+Lot TDx
+  AliasLot TD
+  AffichageDuNom
+  Numerotation
+  Tache TDx
+    Cout TD
+    Duree 4
+    Etudiant Info1x
+    Enseignant PVil
+    Salles 4 SCC SC3 TD27 TD13
+    Repetition 2
+Lot TDy
+  AliasLot TD
+  AffichageDuNom
+  Numerotation
+  Tache TDy
+    Cout TD
+    Duree 4
+    Etudiant Info1y
+    Enseignant PVil
+    Salles 4 SCC SC3 TD27 TD13
+    Repetition 2
+Lot TPa
+  AliasLot TP
+  AffichageDuNom
+  Numerotation
+  Tache TPuia
+    Cout TP
+    Duree 4
+    Etudiant Info1a
+    Enseignant PVil
+    Salles 5 TR IG Mul Res IN
+    Repetition 3
+  Tache TPoca
+    Cout TP
+    Duree 8
+    Etudiant Info1a
+    Enseignant OCas
+    Salles 5 IG Mul TR Res Tim
+    Repetition 2
+  Tache TPera
+    Cout TP
+    Duree 4
+    Etudiant Info1a
+    Enseignants 3 JMou PEve EKer
+    Salles 4 IG Mul TR Res
+    Repetition 3
+Lot TPb
+  AliasLot TP
+  AffichageDuNom
+  Numerotation
+  Tache TPuib
+    Cout TP
+    Duree 4
+    Etudiant Info1b
+    Enseignant EMic
+    Salles 4 IG Mul TR Res
+    Repetition 3
+  Tache TPocb
+    Cout TP
+    Duree 8
+    Etudiant Info1b
+    Enseignant OCas
+    Salles 5 IG Mul TR Res Tim
+    Repetition 2
+  Tache TPerb
+    Cout TP
+    Duree 4
+    Etudiant Info1b
+    Enseignants 3 JMou PEve EKer
+    Salles 4 IG Mul TR Res
+    Repetition 3
+Lot TPc
+  AliasLot TP
+  AffichageDuNom
+  Numerotation
+  Tache TPuic
+    Cout TP
+    Duree 4
+    Etudiant Info1c
+    Enseignant EMic
+    Salles 4 IG Mul TR Res
+    Repetition 3
+  Tache TPocc
+    Cout TP
+    Duree 8
+    Etudiant Info1c
+    Enseignant OCas
+    Salles 5 IG Mul TR Res Tim
+    Repetition 2
+  Tache TPerc
+    Cout TP
+    Duree 4
+    Etudiant Info1c
+    Enseignants 3 JMou PEve EKer
+    Salles 4 IG Mul TR Res
+    Repetition 3
+Lot TPd
+  AliasLot TP
+  AffichageDuNom
+  Numerotation
+  Tache TPuid
+    Cout TP
+    Duree 4
+    Etudiant Info1d
+    Enseignant PVil
+    Salles 5 TR IG Mul Res IN
+    Repetition 3
+  Tache TPocd
+    Cout TP
+    Duree 8
+    Etudiant Info1d
+    Enseignant OCas
+    Salles 5 IG Mul TR Res Tim
+    Repetition 2
+  Tache TPerd
+    Cout TP
+    Duree 4
+    Etudiant Info1d
+    Enseignants 3 JMou PEve EKer
+    Salles 4 IG Mul TR Res
+    Repetition 3

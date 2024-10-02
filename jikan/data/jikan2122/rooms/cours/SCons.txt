@@ -1,0 +1,2 @@
+Couleur 187 165 227
+Info "Salle du Conseil, 1er etage"

@@ -1,0 +1,9 @@
+Couleur 249 255 163
+Info "Anna Ricci"
+
+ContrainteReguliere interdit 1 ooooooooooooxxxxxxxxoo
+
+RelacheContrainte S40 1 xoooooooooooooooxxxxxx
+RelacheContrainte S48 1 xoooooooooooooooxxxxxx
+RelacheContrainte S12 1 xoooooooooooooooxxxxxx
+RelacheContrainte S25 1 xoooooooooooooooxxxxxx

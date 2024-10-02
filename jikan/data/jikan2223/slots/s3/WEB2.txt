@@ -1,0 +1,13 @@
+CM CM S36 1 1 it3 Info2 EMic SC1
+CM CM S36 1 5 it3 Info2 EMic SC1
+CM CM S37 1 1 it3 Info2 EMic SC1
+TP TP S36 1 12 it5 Info2A Info2C EMic IG Mul
+TP TP S36 1 16 it5 Info2A Info2C EMic IG Mul
+TP TP S37 1 5 it5 Info2A Info2C EMic IG Mul
+TP TP S37 1 12 it5 Info2A Info2C EMic IG Mul
+TP TP S37 1 16 it5 Info2A Info2C EMic IG Mul
+TP TP S38 1 1 it5 Info2A Info2C EMic IG Mul
+TP TP S38 1 5 it5 Info2A Info2C EMic IG Mul
+TP TP S38 1 12 it5 Info2A Info2C EMic IG Mul
+TP TP S38 1 16 it5 Info2A Info2C EMic IG Mul
+TP TP S41 1 1 it5 Info2A Info2C EMic IG Mul

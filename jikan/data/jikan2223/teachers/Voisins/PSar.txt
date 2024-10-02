@@ -1,0 +1,11 @@
+Couleur 180 180 190 
+Info "Pauline Sarrazin"
+
+ContrainteReguliere indesirable 0 ooooooooxxooooooooxxxx
+ContrainteReguliere indesirable 1 ooooooooxxooooooooxxxx
+ContrainteReguliere indesirable 2 ooooooooxxooooooooxxxx
+ContrainteReguliere indesirable 3 ooooooooxxooooooooxxxx
+ContrainteReguliere indesirable 4 ooooooooxxooooooooxxxx
+
+ContrainteOccasionnelle interdit S37 0 ooooooooooooooooxxoooo
+ContrainteOccasionnelle interdit S37 3 oxxxxooooooooooooooooo

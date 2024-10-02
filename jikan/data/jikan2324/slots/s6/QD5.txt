@@ -1,0 +1,10 @@
+CM CM S5 4 12 it3 Info3 MFai SC3
+TD TD S5 4 16 it3 Info3 MFai Tim
+TD TD S6 4 12 it3 Info3 MFai Tim
+TD TD S6 4 16 it3 Info3 MFai Tim
+TPx TPx S7 4 12 it3 Info3x MFai Tim
+TPx TPx S8 4 12 it3 Info3x MFai Tim
+TPx TPx S10 4 12 it3 Info3x MFai Tim
+TPy TPy S7 4 16 it3 Info3y MFai Tim
+TPy TPy S8 4 16 it3 Info3y MFai Tim
+TPy TPy S10 4 16 it3 Info3y MFai Tim

@@ -1,0 +1,115 @@
+Couleur 70 230 80
+Info "Outils mathematiques fondamentaux"
+Cible Info1
+Lot CM
+  AffichageDuNom
+  Numerotation
+  Tache CM
+    Cout CM
+    Duree 4
+    Etudiant Info1
+    Enseignant PAde
+    Salles 3 Amphi SC3 SConf
+    Repetition 2
+Lot Eval
+  AffichageDuNom
+  Tache Eval
+    Cout CM
+    Duree 4
+    Etudiant Info1
+    Enseignant PAde
+    Salle Amphi
+Lot TDx
+  AliasLot TD
+  AffichageDuNom
+  Numerotation
+  Tache TDx
+    Cout TD
+    Duree 4
+    Etudiant Info1x
+    Enseignant PAde
+    Salles 5 SC3 TD27 SCC TD13 TD26
+    Repetition 4
+Lot TDy
+  AliasLot TD
+  AffichageDuNom
+  Numerotation
+  Tache TDy
+    Cout TD
+    Duree 4
+    Etudiant Info1y
+    Enseignant PAde
+    Salles 5 SC3 TD27 SCC TD13 TD26
+    Repetition 4
+Lot TPa
+  AliasLot TP
+  AffichageDuNom
+  Numerotation
+  Tache TPa
+    Cout TP
+    Duree 4
+    Etudiant Info1a
+    Enseignant PAde
+    Salles 4 TR Mul IG Res
+    Repetition 2
+  Tache TQa
+    Cout TP
+    Duree 4
+    Etudiant Info1a
+    Enseignant PAde
+    Salles 5 TD27 TD13 SCC SC3 TD26
+    Repetition 3
+Lot TPb
+  AliasLot TP
+  AffichageDuNom
+  Numerotation
+  Tache TPb
+    Cout TP
+    Duree 4
+    Etudiant Info1b
+    Enseignant PAde
+    Salles 4 TR Mul IG Res
+    Repetition 2
+  Tache TQb
+    Cout TP
+    Duree 4
+    Etudiant Info1b
+    Enseignant PAde
+    Salles 5 TD27 TD13 SCC SC3 TD26
+    Repetition 3
+Lot TPc
+  AliasLot TP
+  AffichageDuNom
+  Numerotation
+  Tache TPc
+    Cout TP
+    Duree 4
+    Etudiant Info1c
+    Enseignant PAde
+    Salles 4 TR Mul IG Res
+    Repetition 2
+  Tache TQc
+    Cout TP
+    Duree 4
+    Etudiant Info1c
+    Enseignant PAde
+    Salles 5 TD27 TD13 SCC SC3 TD26
+    Repetition 3
+Lot TPd
+  AliasLot TP
+  AffichageDuNom
+  Numerotation
+  Tache TPd
+    Cout TP
+    Duree 4
+    Etudiant Info1d
+    Enseignant PAde
+    Salles 4 TR Mul IG Res
+    Repetition 2
+  Tache TQd
+    Cout TP
+    Duree 4
+    Etudiant Info1d
+    Enseignant PAde
+    Salles 5 TD27 TD13 SCC SC3 TD26
+    Repetition 3

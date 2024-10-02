@@ -1,0 +1,82 @@
+Couleur 230 250 200
+Info "Projet tutore : projet de synthese"
+MasquageDuNom
+MasquageDesEns
+Lot Parrainage
+  AffichageDuNom
+  Numerotation
+  Tache Parrain
+    Cout GR
+    Duree 8
+    Etudiant Info2
+    Etudiant Info1
+    Salle Amphi
+Lot Sout.PT
+  AffichageDuNom
+  Tache Sout.PT
+    Cout GR
+    Duree 8
+    Etudiant Info2
+    Etudiant Info1
+    Enseignant PVil
+    Enseignant SDie
+    Enseignant ARic
+    Enseignant ACas
+    Enseignant BDav
+    Enseignant PEve
+    Enseignant OCas
+    Enseignant DBol
+    Enseignant ABou
+    Enseignant BDav
+    Enseignant PAde
+    Enseignant SAbi
+    Enseignant KAbi
+    Salle Amphi
+Lot Projet
+  AliasLot PT
+  AffichageDuNom
+  Tache PT
+    Cout GR
+    Duree 4
+    Etudiant Info2
+    Repetition 33
+  Tache PT2
+    Cout GR
+    Duree 4
+    Etudiant Info2
+    Repetition 33
+  Tache PTx
+    Cout GR
+    Duree 4
+    Etudiant Info2x
+    Repetition 33
+  Tache PTy
+    Cout GR
+    Duree 4
+    Etudiant Info2y
+    Repetition 33
+  Tache PTa
+    Cout GR
+    Duree 4
+    Etudiant Info2A
+    Repetition 50
+  Tache PTb
+    Cout GR
+    Duree 4
+    Etudiant Info2B
+    Repetition 50
+  Tache PTc
+    Cout GR
+    Duree 4
+    Etudiant Info2C
+    Repetition 50
+  Tache PTb1
+    Cout GR
+    Duree 4
+    Etudiant Info2b1
+    Repetition 50
+  Tache PTb2
+    Cout GR
+    Duree 4
+    Etudiant Info2b2
+    Repetition 50

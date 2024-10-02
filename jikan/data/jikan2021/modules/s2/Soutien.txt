@@ -1,0 +1,12 @@
+Couleur 190 220 210
+Info "Soutien"
+Lot Soutien
+  AliasLot Seance
+  AffichageDuNom
+  Numerotation
+  Tache Soutien
+    Cout TD
+    Duree 2
+    Etudiant Info1
+    Salle TR
+    Repetition 20

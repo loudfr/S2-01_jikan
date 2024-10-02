@@ -1,0 +1,138 @@
+Couleur 220 250 250
+Info "S2.01 Developpement d'une application"
+Cible Info1
+Alias SAE21
+Lot TDx
+  AliasLot qd1
+  AffichageDuNom
+  Tache SDx
+    Matiere QD1
+    Cout TD
+    Duree 4
+    Etudiant Info1x
+    Enseignant PEve
+    Salles 5 TD27 SC3 SCC TD13 IN
+    Repetition 2
+Lot TDy
+  AliasLot dev3
+  AffichageDuNom
+  Tache SDy
+    Matiere DEV3
+    Cout TD
+    Duree 4
+    Etudiant Info1y
+    Enseignant PVil
+    Salles 4 SC3 TD27 SCC TD13
+    Repetition 2
+Lot TPa
+  AliasLot dev3
+  AffichageDuNom
+  Tache SP4pea
+    Matiere QD1
+    Cout TP
+    Duree 8
+    Etudiant Info1a
+    Enseignant PEve
+    Salles 4 Mul TR IG Res
+  Tache SP2pea
+    Matiere DEV3
+    Cout TP
+    Duree 4
+    Etudiant Info1a
+    Enseignant PEve
+    Salles 4 Mul TR IG Res
+    Repetition 2
+Lot TPb
+  AliasLot dev3
+  AffichageDuNom
+  Tache SP4peb
+    Matiere QD1
+    Cout TP
+    Duree 8
+    Etudiant Info1b
+    Enseignant PEve
+    Salles 4 Mul TR IG Res
+  Tache SP2peb
+    Matiere DEV3
+    Cout TP
+    Duree 4
+    Etudiant Info1b
+    Enseignant PEve
+    Salles 4 Mul TR IG Res
+    Repetition 2
+Lot TPc
+  AliasLot dev3
+  AffichageDuNom
+  Tache SPpvc
+    Matiere DEV3
+    Cout TP
+    Duree 8
+    Etudiant Info1c
+    Enseignant PVil
+    Salles 4 Mul TR IG Res
+  Tache SP2pec
+    Matiere DEV3
+    Cout TP
+    Duree 4
+    Etudiant Info1c
+    Enseignant PEve
+    Salles 4 Mul TR IG Res
+    Repetition 2
+Lot TPd
+  AliasLot dev3
+  AffichageDuNom
+  Tache SPpvd
+    Matiere DEV3
+    Cout TP
+    Duree 8
+    Etudiant Info1d
+    Enseignant PVil
+    Salles 4 Mul TR IG Res
+  Tache SP2ped
+    Matiere DEV3
+    Cout TP
+    Duree 4
+    Etudiant Info1d
+    Enseignant PEve
+    Salles 4 Mul TR IG Res
+    Repetition 2
+Lot SAEa
+  AliasLot PRJ
+  AffichageDuNom
+  Numerotation
+  Tache SAEa
+    Matiere DEV3
+    Cout GR
+    Duree 4
+    Etudiant Info1a
+    Repetition 6
+Lot SAEb
+  AliasLot PRJ
+  AffichageDuNom
+  Numerotation
+  Tache SAEb
+    Matiere DEV3
+    Cout GR
+    Duree 4
+    Etudiant Info1b
+    Repetition 6
+Lot SAEc
+  AliasLot PRJ
+  AffichageDuNom
+  Numerotation
+  Tache SAEc
+    Matiere DEV3
+    Cout GR
+    Duree 4
+    Etudiant Info1c
+    Repetition 6
+Lot SAEd
+  AliasLot PRJ
+  AffichageDuNom
+  Numerotation
+  Tache SAEd
+    Matiere DEV3
+    Cout GR
+    Duree 4
+    Etudiant Info1d
+    Repetition 6

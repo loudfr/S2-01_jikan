@@ -1,0 +1,174 @@
+Couleur 250 250 220
+Info "S2.03 Installation de services reseau"
+Cible Info1
+Alias SAE23
+Lot TDx
+  AliasLot asr4
+  AffichageDuNom
+  Tache SDr1x
+    Matiere ASR3
+    Cout TD
+    Duree 4
+    Etudiant Info1x
+    Enseignant SDie
+    Salles 4 TD27 SC3 SCC TD13
+  Tache SDr2x
+    Matiere ASR4
+    Cout TD
+    Duree 4
+    Etudiant Info1x
+    Enseignant SDie
+    Salles 4 TD27 SC3 SCC TD13
+Lot TDy
+  AliasLot asr4
+  AffichageDuNom
+  Tache SDr1y
+    Matiere ASR3
+    Cout TD
+    Duree 4
+    Etudiant Info1y
+    Enseignant SDie
+    Salles 4 SC3 TD27 SCC TD13
+  Tache SDr2y
+    Matiere ASR4
+    Cout TD
+    Duree 4
+    Etudiant Info1y
+    Enseignant SDie
+    Salles 4 SC3 TD27 SCC TD13
+Lot TPa
+  AliasLot asr4
+  AffichageDuNom
+  Tache SPsda
+    Matiere ASR4
+    Cout TP
+    Duree 4
+    Etudiant Info1a
+    Enseignant SDie
+    Salles 4 Mul TR IG Res
+  Tache SPaca
+    Matiere A2
+    Cout TP
+    Duree 4
+    Etudiant Info1a
+    Enseignant ACas
+    Salles 5 IN Mul TR IG Res
+  Tache SPaka
+    Matiere C2
+    Cout TP
+    Duree 4
+    Etudiant Info1a
+    Enseignant AKri
+    Salles 5 IN Mul TR IG Res
+Lot TPb
+  AliasLot asr4
+  AffichageDuNom
+  Tache SPsdb
+    Matiere ASR4
+    Cout TP
+    Duree 4
+    Etudiant Info1b
+    Enseignant SDie
+    Salles 4 Mul TR IG Res
+  Tache SPacb
+    Matiere A2
+    Cout TP
+    Duree 4
+    Etudiant Info1b
+    Enseignant ACas
+    Salles 5 IN Mul TR IG Res
+  Tache SPakb
+    Matiere C2
+    Cout TP
+    Duree 4
+    Etudiant Info1b
+    Enseignant AKri
+    Salles 5 IN Mul TR IG Res
+Lot TPc
+  AliasLot asr4
+  AffichageDuNom
+  Tache SPsdc
+    Matiere ASR4
+    Cout TP
+    Duree 4
+    Etudiant Info1c
+    Enseignant SDie
+    Salles 4 Mul TR IG Res
+  Tache SPacc
+    Matiere A2
+    Cout TP
+    Duree 4
+    Etudiant Info1c
+    Enseignant ACas
+    Salles 5 IN Mul TR IG Res
+  Tache SPakc
+    Matiere C2
+    Cout TP
+    Duree 4
+    Etudiant Info1c
+    Enseignant AKri
+    Salles 5 IN Mul TR IG Res
+Lot TPd
+  AliasLot asr4
+  AffichageDuNom
+  Tache SPsdd
+    Matiere ASR4
+    Cout TP
+    Duree 4
+    Etudiant Info1d
+    Enseignant SDie
+    Salles 4 Mul TR IG Res
+  Tache SPacd
+    Matiere A2
+    Cout TP
+    Duree 4
+    Etudiant Info1d
+    Enseignant ACas
+    Salles 5 IN Mul TR IG Res
+  Tache SPakd
+    Matiere C2
+    Cout TP
+    Duree 4
+    Etudiant Info1d
+    Enseignant AKri
+    Salles 5 IN Mul TR IG Res
+Lot SAEa
+  AliasLot PRJ
+  AffichageDuNom
+  Numerotation
+  Tache SAEa
+    Matiere ASR4
+    Cout GR
+    Duree 4
+    Etudiant Info1a
+    Repetition 8
+Lot SAEb
+  AliasLot PRJ
+  AffichageDuNom
+  Numerotation
+  Tache SAEb
+    Matiere ASR4
+    Cout GR
+    Duree 4
+    Etudiant Info1b
+    Repetition 8
+Lot SAEc
+  AliasLot PRJ
+  AffichageDuNom
+  Numerotation
+  Tache SAEc
+    Matiere ASR4
+    Cout GR
+    Duree 4
+    Etudiant Info1c
+    Repetition 8
+Lot SAEd
+  AliasLot PRJ
+  AffichageDuNom
+  Numerotation
+  Tache SAEd
+    Matiere ASR4
+    Cout GR
+    Duree 4
+    Etudiant Info1d
+    Repetition 8

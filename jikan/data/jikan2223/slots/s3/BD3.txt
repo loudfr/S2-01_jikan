@@ -1,0 +1,12 @@
+TDx TMx S2 2 5 it3 Info2x FBea Mul
+TDx TMx S1 2 16 it3 Info2x FBea Mul
+TDx TMx S48 3 5 it3 Info2x FBea IG
+TDx TMx S1 4 5 it3 Info2x FBea TR
+TDx TMx S2 4 5 it3 Info2x FBea TR
+TDx TMx S3 0 5 it3 Info2x FBea IG
+TDy TMy S2 2 1 it3 Info2y FBea Mul
+TDy TMy S1 2 12 it3 Info2y FBea Mul
+TDy TMy S48 3 1 it3 Info2y FBea IG
+TDy TMy S1 4 1 it3 Info2y FBea TR
+TDy TMy S2 4 1 it3 Info2y FBea TR
+TDy TMy S3 0 16 it3 Info2y FBea IG

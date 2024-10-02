@@ -1,0 +1,16 @@
+TD TD S36 1 16 it3 Info3 CCun SC3
+TD TD S42 0 16 it3 Info3 CCun SC3
+TD TD S43 0 16 it3 Info3 CCun TD13
+TD TD S48 3 12 it3 Info3 CCun SC3
+TD TD S50 3 1 it3 Info3 CCun SC3
+TD TD S2 1 16 it3 Info3 CCun SC3
+TPx TPx S37 1 12 it3 Info3x CCun TD13
+TPx TPx S42 1 16 it3 Info3x CCun SC3
+TPx TPx S47 0 16 it3 Info3x CCun SC3
+TPx TPx S48 1 12 it3 Info3x CCun SC3
+TPx TPx S49 1 16 it3 Info3x CCun SC3
+TPy TPy S37 1 5 it3 Info3y CCun TD13
+TPy TPy S43 0 12 it3 Info3y CCun TD13
+TPy TPy S47 3 12 it3 Info3y CCun SC3
+TPy TPy S48 1 16 it3 Info3y CCun SC3
+TPy TPy S49 1 12 it3 Info3y CCun SC3

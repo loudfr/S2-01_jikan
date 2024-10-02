@@ -1,0 +1,27 @@
+Annee 2023
+PremiereSemaine 35
+NbSemaines 44
+DureeSemaines 6
+ContrainteReguliere 0 xooooooooxxxooooooooxxxx
+ContrainteReguliere 1 xooooooooxxxooooooooxxxx
+ContrainteReguliere 2 xooooooooxxxooooooooxxxx
+ContrainteReguliere 3 xooooooooxxxooooooooxxxx
+ContrainteReguliere 4 xooooooooxxxooooooooxxxx
+ContrainteReguliere 5 ooooooooxxxxxxxxxxxxxxxx
+ContrainteOccasionnelle S39 1 xooooooooxxxooooooooooxx
+ContrainteOccasionnelle S6 5 xxoooooooooooooooooxxxxx
+Vacances 44
+Vacances 52
+Vacances 1
+Vacances 9
+Vacances 17
+Vacances 18
+Ferie 43 5
+Ferie 51 5
+Ferie 8 5
+Ferie 14 0
+Ferie 16 5
+Ferie 19 2
+Ferie 19 3
+Ferie 21 0
+Journees 30 16 24

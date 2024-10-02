@@ -1,0 +1,103 @@
+Couleur 160 150 170
+Info "Connaitre le monde professionnel"
+Cible Info1
+Lot TDx
+  AliasLot TD
+  AffichageDuNom
+  Numerotation
+  Tache TDx
+    Cout TD
+    Duree 4
+    Etudiant Info1x
+    Enseignant ARic
+    Salle Alab
+Lot TDy
+  AliasLot TD
+  AffichageDuNom
+  Numerotation
+  Tache TDy
+    Cout TD
+    Duree 4
+    Etudiant Info1y
+    Enseignant ARic
+    Salle Alab
+Lot TPa
+  AliasLot TP
+  AffichageDuNom
+  Tache TPa
+    Cout TP
+    Duree 4
+    Etudiant Info1a
+    Enseignant ARic
+    Salle Alab
+Lot TPb
+  AliasLot TP
+  AffichageDuNom
+  Tache TPb
+    Cout TP
+    Duree 4
+    Etudiant Info1b
+    Enseignant ARic
+    Salle Alab
+Lot TPc
+  AliasLot TP
+  AffichageDuNom
+  Tache TPc
+    Cout TP
+    Duree 4
+    Etudiant Info1c
+    Enseignant ARic
+    Salle Alab
+Lot TPd
+  AliasLot TP
+  AffichageDuNom
+  Tache TPd
+    Cout TP
+    Duree 4
+    Etudiant Info1d
+    Enseignant ARic
+    Salle Alab
+Lot PFa
+  AliasLot PF
+  AffichageDuNom
+  Numerotation
+  Tache PFa
+    Cout TP
+    Duree 4
+    Etudiant Info1a
+    Enseignant ARic
+    Salles 5 Alab SCC TD27 SC3 TD13
+    Repetition 2
+Lot PFb
+  AliasLot PF
+  AffichageDuNom
+  Numerotation
+  Tache PFb
+    Cout TP
+    Duree 4
+    Etudiant Info1b
+    Enseignant ARic
+    Salles 5 Alab SCC TD27 SC3 TD13
+    Repetition 2
+Lot PFc
+  AliasLot PF
+  AffichageDuNom
+  Numerotation
+  Tache PFc
+    Cout TP
+    Duree 4
+    Etudiant Info1c
+    Enseignant ARic
+    Salles 5 Alab SCC TD27 SC3 TD13
+    Repetition 2
+Lot PFd
+  AliasLot PF
+  AffichageDuNom
+  Numerotation
+  Tache PFd
+    Cout TP
+    Duree 4
+    Etudiant Info1d
+    Enseignant ARic
+    Salles 5 Alab SCC TD27 SC3 TD13
+    Repetition 2

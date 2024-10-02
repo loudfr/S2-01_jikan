@@ -1,0 +1,18 @@
+Couleur 244 122 192
+Info "Nicolas Gaillard"
+
+ContrainteReguliere interdit 2 all
+ContrainteOccasionnelle interdit S16 0 all
+ContrainteOccasionnelle interdit S16 1 all
+ContrainteOccasionnelle interdit S16 3 all
+ContrainteOccasionnelle interdit S16 4 all
+ContrainteOccasionnelle interdit S16 5 all
+ContrainteOccasionnelle interdit S19 0 all
+ContrainteOccasionnelle interdit S19 1 all
+ContrainteOccasionnelle interdit S19 4 all
+ContrainteOccasionnelle interdit S19 5 all
+ContrainteOccasionnelle interdit S20 0 all
+ContrainteOccasionnelle interdit S20 1 all
+ContrainteOccasionnelle interdit S20 3 all
+ContrainteOccasionnelle interdit S20 4 all
+ContrainteOccasionnelle interdit S20 5 all

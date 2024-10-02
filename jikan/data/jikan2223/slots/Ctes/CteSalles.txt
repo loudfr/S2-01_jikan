@@ -1,0 +1,8 @@
+ctesSalles Amphi S45 0 1 it1 Amphi
+ctesSalles Amphi S45 0 5 it1 Amphi
+ctesSalles Amphi S45 1 1 it1 Amphi
+ctesSalles Amphi S45 1 5 it1 Amphi
+ctesSalles Amphi S45 0 12 it1 Amphi
+ctesSalles Amphi S45 0 16 it1 Amphi
+ctesSalles Amphi S45 1 12 it1 Amphi
+ctesSalles Amphi S45 1 16 it1 Amphi

@@ -1,0 +1,132 @@
+Couleur 230 250 230
+Info "S1.05 : Recueil de petits besoins"
+Cible Info1
+Alias SAE15
+Lot TDx
+  AliasLot c1
+  AffichageDuNom
+  Tache SDx
+    Matiere C1
+    Cout TD
+    Duree 4
+    Etudiant Info1x
+    Enseignant SNdo
+    Salles 4 SCC TD13 TD27 SC3
+Lot TDy
+  AliasLot c1
+  AffichageDuNom
+  Tache SDy
+    Matiere C1
+    Cout TD
+    Duree 4
+    Etudiant Info1y
+    Enseignant SNdo
+    Salles 4 SCC TD13 TD27 SC3
+Lot TPa
+  AliasLot web1
+  AffichageDuNom
+  Tache SPaab
+    Matiere WEB1
+    Cout TP
+    Duree 4
+    Etudiant Info1a
+    Enseignant ABic
+    Salles 5 IG TR Mul Res IN
+  Tache SPasn
+    Matiere C1
+    Cout TD
+    Duree 4
+    Etudiant Info1a
+    Enseignant SNdo
+    Salles 9 SCC TD13 TD27 SC3 IN Res TR Mul IG
+Lot TPb
+  AliasLot web1
+  AffichageDuNom
+  Tache SPbab
+    Matiere WEB1
+    Cout TP
+    Duree 4
+    Etudiant Info1b
+    Enseignant ABic
+    Salles 5 IG TR Mul Res IN
+  Tache SPbsn
+    Matiere C1
+    Cout TD
+    Duree 4
+    Etudiant Info1b
+    Enseignant SNdo
+    Salles 9 SCC TD13 TD27 SC3 IN Res TR Mul IG
+Lot TPc
+  AliasLot web1
+  AffichageDuNom
+  Tache SPcab
+    Matiere WEB1
+    Cout TP
+    Duree 4
+    Etudiant Info1c
+    Enseignant ABic
+    Salles 5 IG TR Mul Res IN
+  Tache SPcsn
+    Matiere C1
+    Cout TD
+    Duree 4
+    Etudiant Info1c
+    Enseignant SNdo
+    Salles 9 SCC TD13 TD27 SC3 IN Res TR Mul IG
+Lot TPd
+  AliasLot web1
+  AffichageDuNom
+  Tache SPdab
+    Matiere WEB1
+    Cout TP
+    Duree 4
+    Etudiant Info1d
+    Enseignant ABic
+    Salles 5 IG TR Mul Res IN
+  Tache SPdsn
+    Matiere C1
+    Cout TD
+    Duree 4
+    Etudiant Info1d
+    Enseignant SNdo
+    Salles 9 SCC TD13 TD27 SC3 IN Res TR Mul IG
+Lot SAEa
+  AliasLot PRJ
+  AffichageDuNom
+  Numerotation
+  Tache SAEa
+    Matiere WEB1
+    Cout GR
+    Duree 4
+    Etudiant Info1a
+    Repetition 6
+Lot SAEb
+  AliasLot PRJ
+  AffichageDuNom
+  Numerotation
+  Tache SAEb
+    Matiere WEB1
+    Cout GR
+    Duree 4
+    Etudiant Info1b
+    Repetition 6
+Lot SAEc
+  AliasLot PRJ
+  AffichageDuNom
+  Numerotation
+  Tache SAEc
+    Matiere WEB1
+    Cout GR
+    Duree 4
+    Etudiant Info1c
+    Repetition 6
+Lot SAEd
+  AliasLot PRJ
+  AffichageDuNom
+  Numerotation
+  Tache SAEd
+    Matiere WEB1
+    Cout GR
+    Duree 4
+    Etudiant Info1d
+    Repetition 6

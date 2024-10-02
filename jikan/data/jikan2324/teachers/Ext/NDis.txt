@@ -1,0 +1,15 @@
+Couleur 206 158 234
+Info "Nicolas Diss"
+
+ContrainteReguliere interdit 0 all
+ContrainteReguliere interdit 1 xooooxxxxxxxxxxxxxxxxx
+ContrainteReguliere interdit 2 xooooxxxxxxxxxxxxxxxxx
+ContrainteReguliere interdit 3 all
+ContrainteReguliere interdit 4 xooooxxxxxxxxxxxooooxx
+RelacheContrainte S8 3 xxxxxooooxxxooooooooxx
+RelacheContrainte S10 3 xxxxxooooxxxooooooooxx
+RelacheContrainte S12 3 xxxxxooooxxxooooooooxx
+RelacheContrainte S14 3 xxxxxooooxxxooooooooxx
+RelacheContrainte S20 3 xxxxxooooxxxooooooooxx
+RelacheContrainte S22 3 xxxxxooooxxxooooooooxx
+RelacheContrainte S24 3 xxxxxooooxxxooooooooxx

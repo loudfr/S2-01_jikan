@@ -1,0 +1,2 @@
+Couleur 160 195 214
+Info "Salle de cours SC2, 1e etage"

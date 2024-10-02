@@ -1,0 +1,9 @@
+Couleur 223 185 238
+Info "Clementine Valence"
+
+ContrainteReguliere interdit 0 ooooooooooooxxxxxxxxoo
+ContrainteReguliere indesirable 2 oxxxxoooooooxxxxxxxxoo
+ContrainteReguliere interdit 2 oxxxxooooooooooooooooo
+ContrainteReguliere interdit 3 oooooxxxxoooxxxxxxxxoo
+ContrainteReguliere interdit 4 all
+ContrainteReguliere indesirable 5 all

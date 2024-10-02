@@ -1,0 +1,28 @@
+TPa SAEabd S48 1 12 it3 Info1a BDev IG
+TPb SAEbbd S48 1 5 it3 Info1b BDev Res
+TPc SAEcbd S48 1 1 it3 Info1c BDev Mul
+TPd SAEdbd S48 1 16 it3 Info1d BDev Res
+SAEa SAEa S46 2 12 it1 Info1a
+SAEa SAEa S46 2 16 it1 Info1a
+SAEa SAEa S46 3 12 it1 Info1a
+SAEa SAEa S46 3 16 it1 Info1a
+SAEa SAEa S47 3 12 it1 Info1a
+SAEa SAEa S47 3 16 it1 Info1a
+SAEb SAEb S46 2 12 it1 Info1b
+SAEb SAEb S46 2 16 it1 Info1b
+SAEb SAEb S46 3 12 it1 Info1b
+SAEb SAEb S46 3 16 it1 Info1b
+SAEb SAEb S47 3 12 it1 Info1b
+SAEb SAEb S47 3 16 it1 Info1b
+SAEc SAEc S46 2 12 it1 Info1c
+SAEc SAEc S46 2 16 it1 Info1c
+SAEc SAEc S46 3 12 it1 Info1c
+SAEc SAEc S46 3 16 it1 Info1c
+SAEc SAEc S47 3 12 it1 Info1c
+SAEc SAEc S47 3 16 it1 Info1c
+SAEd SAEd S46 3 12 it1 Info1d
+SAEd SAEd S46 3 16 it1 Info1d
+SAEd SAEd S46 1 1 it1 Info1d
+SAEd SAEd S46 1 5 it1 Info1d
+SAEd SAEd S47 3 12 it1 Info1d
+SAEd SAEd S47 3 16 it1 Info1d

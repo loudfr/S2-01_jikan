@@ -1,0 +1,10 @@
+TPa TQa S18 1 5 it3 Info2A PAde TD13
+TPa TQa S19 1 16 it3 Info2A PAde TD27
+TPa TQa S20 2 5 it3 Info2A PAde TD13
+TPa TPa S19 3 5 it3 Info2A PAde TR
+TPa TPa S24 0 16 it3 Info2A PAde TR
+TPc TQc S18 1 1 it3 Info2C PAde TD13
+TPc TQc S19 1 12 it3 Info2C PAde TD27
+TPc TQc S20 2 1 it3 Info2C PAde TD13
+TPc TPc S19 3 1 it3 Info2C PAde TR
+TPc TPc S24 0 12 it3 Info2C PAde TR

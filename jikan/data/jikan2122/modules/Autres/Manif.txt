@@ -1,0 +1,200 @@
+Couleur 100 220 70
+Info "Manifestations diverses et avariees"
+MasquageDuNom
+MasquageDesEns
+Lot Prepa-JPO
+  AffichageDuNom
+  Tache PrepaJPO
+    Cout GR
+    Duree 4
+    Etudiant Info1
+    Etudiant Info2
+    Enseignant ARic
+    Repetition 2
+  Tache PrepaJPQ
+    Cout GR
+    Duree 4
+    Etudiant Info1
+    Etudiant WM2
+    Enseignant ARic
+    Enseignant BDav
+    Repetition 2
+Lot JPO
+  AffichageDuNom
+  Tache JPO
+    Cout GR
+    Duree 17
+    Etudiant Info1
+    Etudiant Info2
+    Enseignant OCas
+    Enseignant ABou
+    Enseignant PEve
+    Enseignant SDie
+    Enseignant ARic
+    Enseignant ACas
+    Enseignant PVil
+    Enseignant DBol
+    Enseignant PAde
+    Enseignant EMed
+    Enseignant KAbi
+    Enseignant SAbi
+    Repetition 2
+Lot TOEIC
+  AffichageDuNom
+  Tache TOEIC
+    Cout GR
+    Duree 5
+    Etudiant Info2
+    Salle Amphi
+    Enseignant ACas
+  Tache prepaTOEIC
+    Cout GR
+    Duree 4
+    Enseignant ACas
+    Salle Amphi
+    Repetition 2
+Lot FIG
+  AffichageDuNom
+  Tache FIG
+    Cout GR
+    Duree 4
+    Salle Amphi
+    Salle SC1
+    Repetition 11
+  Tache FIGetu
+    Cout GR
+    Duree 8
+    Etudiant Info1
+    Etudiant Info2
+    Salle Amphi
+    Salle SC1
+Lot FS
+  AffichageDuNom
+  Tache FS
+    Cout GR
+    Duree 4
+    Salle TD13
+    Enseignant PVil
+    Repetition 4
+  Tache PrepaFS
+    Cout GR
+    Duree 4
+    Salle TD13
+    Repetition 2
+Lot Deodasup
+  AffichageDuNom
+  Tache Deodasup
+    Cout GR
+    Duree 4
+    Etudiant Info2
+Lot Challenge24hINFO
+  AffichageDuNom
+  Tache Challenge24hINFO
+    Cout GR
+    Duree 8
+    Etudiant Info1
+    Salle Nancy
+    Repetition 3
+Lot DouzeHeures
+  AffichageDuNom
+  Tache DouzeHeuresEtudiants
+    Cout GR
+    Duree 8
+    Etudiant Info1
+    Salle Epinal
+    Repetition 2
+Lot SST
+  AffichageDuNom
+  Tache SST
+    Cout GR
+    Duree 4
+    Etudiant Info1
+    Salle SCons
+    Repetition 7
+Lot Entreprise
+  AffichageDuNom
+  Tache Entreprise
+    Cout GR
+    Duree 4
+    Etudiant Info2
+    Salle Amphi
+Lot C2i
+  AffichageDuNom
+  Tache C2iTheorie
+    Cout GR
+    Duree 3
+    Etudiant Info2
+    Salle Amphi
+  Tache C2iPratik
+    Cout GR
+    Duree 5
+    Salle IG
+    Salle Mul
+    Etudiant Info2
+  Tache C2iTest
+    Cout GR
+    Duree 4
+    Etudiant Info1
+    Repetition 3
+Lot Integration
+  AffichageDuNom
+  Tache Rallye
+    Cout GR
+    Duree 8
+    Etudiant Info1
+    Etudiant Info2
+    Repetition 2
+Lot PoursEt
+  AffichageDuNom
+  Tache PoursEt
+    Cout GR
+    Duree 4
+    Etudiant Info2
+    Salle Amphi
+  Tache PoursEt2
+    Cout GR
+    Duree 2
+    Etudiant Info2
+    Salle Amphi
+Lot JobLab
+  AffichageDuNom
+  MasquageDuModule
+  Tache JobLab
+    Cout GR
+    Duree 8
+    Etudiant Info2
+    Repetition 2
+Lot Ortodidakt
+  AffichageDuNom
+  Tache OrtoX
+    Cout TD
+    Duree 2
+    Etudiant Info1x
+    Enseignant GMel
+    Salles 2 IG Mul
+    Repetition 2
+  Tache OrtoY
+    Cout TD
+    Duree 2
+    Etudiant Info1y
+    Enseignant GMel
+    Salles 2 IG Mul
+    Repetition 2
+Lot PoursEtud
+  AffichageDuNom
+  Tache PoursEtud
+    Cout GR
+    Duree 2
+    Etudiant Info2
+    Salles 3 Amphi TD13 SC3
+Lot Pix
+  AffichageDuNom
+  Tache Pix
+    Cout GR
+    Duree 8
+    Etudiant Info1
+    Enseignant PAde
+    Enseignant BDev
+    Salle IG
+    Salle TR
+    Salle Mul

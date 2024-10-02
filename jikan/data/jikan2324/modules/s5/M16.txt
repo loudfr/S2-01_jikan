@@ -1,0 +1,50 @@
+Couleur 115 154 220
+Info "R5.A20 Complements de probabilites et statistique"
+Cible Info3
+Lot CM
+  AliasLot CM
+  AffichageDuNom
+  Numerotation
+  Tache CM
+    Cout TD
+    Duree 4
+    Etudiant PE
+    Enseignant PAde
+    Salles 2 Amphi SC3
+Lot EV
+  AliasLot EV
+  AffichageDuNom
+  Numerotation
+  Tache EV
+    Cout TD
+    Duree 4
+    Etudiant PE
+    Enseignant PAde
+    Salle Amphi
+Lot TD
+  AliasLot TD
+  AffichageDuNom
+  Numerotation
+  Tache TD
+    Cout TD
+    Duree 4
+    Etudiant PE
+    Enseignant PAde
+    Salles 4 TD13 TD27 SCC SC3
+    Repetition 2
+Lot TP
+  AliasLot TP
+  AffichageDuNom
+  Numerotation
+  Tache TQ
+    Cout TP
+    Duree 4
+    Etudiant PE
+    Enseignant PAde
+    Salles 4 TD13 TD27 SCC SC3
+  Tache TP
+    Cout TP
+    Duree 4
+    Etudiant PE
+    Enseignant PAde
+    Salles 4 Mul IG TR IN

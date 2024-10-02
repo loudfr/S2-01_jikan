@@ -1,0 +1,25 @@
+Couleur 40 200 190
+Info "R4.07 PPP"
+Cible Info2
+Lot TDx
+  AliasLot TD
+  AffichageDuNom
+  Numerotation
+  Tache TDx
+    Cout TD
+    Duree 4
+    Etudiant Info2x
+    Enseignant BDav
+    Salles 4 SC3 SCC TD13 TD27
+    Repetition 4
+Lot TDy
+  AliasLot TD
+  AffichageDuNom
+  Numerotation
+  Tache TDy
+    Cout TD
+    Duree 4
+    Etudiant Info2y
+    Enseignant BDav
+    Salles 4 SC3 SCC TD13 TD27
+    Repetition 4

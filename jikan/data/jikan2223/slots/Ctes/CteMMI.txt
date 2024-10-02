@@ -1,0 +1,12 @@
+MMI MMI-BDav S37 1 5 it1 BDav
+MMI MMI-BDav S37 3 1 it1 BDav
+MMI MMI-Amphi S41 1 5 it1 Amphi
+MMI MMI-Amphi S37 1 1 it1 Amphi
+MMI MMI-Amphi S36 1 1 it1 Amphi
+MMI MMI-Amphi S36 1 5 it1 Amphi
+MMI MMI-Amphi S4 2 1 it1 Amphi
+MMI MMI-Amphi S4 2 5 it1 Amphi
+MMI MMI-Amphi S5 2 1 it1 Amphi
+MMI MMI-Amphi S5 2 5 it1 Amphi
+MMI MMI-Amphi S23 1 5 it1 Amphi
+MMI MMI-Amphi S23 1 1 it1 Amphi

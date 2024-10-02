@@ -1,0 +1,59 @@
+Couleur 140 170 190
+Info "Travailler en anglais"
+Alias ANG
+Lot TDx
+  AliasLot TD
+  AffichageDuNom
+  Numerotation
+  Tache TDx
+    Cout TD
+    Duree 4
+    Etudiant WM1
+    Etudiant WM2
+    Enseignant ACas
+    Salles 5 SC3 SCC TD13 TD27 TD26
+    Repetition 7
+Lot TDy
+  AliasLot TD
+  AffichageDuNom
+  Numerotation
+  Tache TDy
+    Cout TD
+    Duree 4
+    Etudiant IN
+    Enseignant ACas
+    Salles 5 SC3 SCC TD13 TD27 TD26
+    Repetition 7
+Lot TPa
+  AliasLot TP
+  AffichageDuNom
+  Numerotation
+  Tache TPa
+    Cout TP
+    Duree 4
+    Etudiant WM1
+    Enseignant ACas
+    Salles 5 Res TR IG Mul IN
+    Repetition 8
+Lot TPb
+  AliasLot TP
+  AffichageDuNom
+  Numerotation
+  Tache TPb
+    Cout TP
+    Duree 4
+    Etudiant WM2
+    Enseignant ACas
+    Salles 5 Res TR IG Mul IN
+    Repetition 8
+Lot TPc
+  AliasLot TP
+  AffichageDuNom
+  Numerotation
+  Tache TPc
+    Cout TP
+    Duree 4
+    Etudiant IN
+    Enseignant ACas
+    Salles 5 Res TR IG Mul IN
+    Repetition 8

@@ -1,0 +1,40 @@
+SAE SAE S45 0 1 it1 Info2
+SAE SAE S45 0 12 it1 Info2
+SAE SAE S45 1 1 it1 Info2
+SAE SAE S45 1 12 it1 Info2
+SAE SAE S45 2 1 it1 Info2
+SAE SAE S45 2 12 it1 Info2
+SAE SAE S45 3 1 it1 Info2
+SAE SAE S45 3 12 it1 Info2
+SAE SAE S45 4 1 it1 Info2
+SAE SAE S45 4 12 it1 Info2
+SAE SAE S46 0 1 it1 Info2
+SAE SAE S46 0 12 it1 Info2
+SAE SAE S46 1 1 it1 Info2
+SAE SAE S46 1 12 it1 Info2
+SAE SAE S51 2 1 it1 Info2
+SAE SAE S51 2 12 it1 Info2
+SAE SAE S51 3 1 it1 Info2
+SAE SAE S51 4 1 it1 Info2
+SAE SAE S51 3 12 it1 Info2
+SAE SAE S51 4 12 it1 Info2
+SAE SAEcplt S51 0 16 it1 Info2
+SAE SAEcplt S46 3 16 it1 Info2
+SAE SAEcplt S46 4 16 it1 Info2
+SAE SAEcplt S51 1 16 it1 Info2
+SAE SAEcplt S46 2 16 it1 Info2
+SAE SAEpr S51 0 1 it2 Info2 EnPresentiel
+SAE SAEpr S51 0 5 it2 Info2 EnPresentiel
+SAE SAEpr S51 0 12 it2 Info2 EnPresentiel
+SAE SAEpr S46 4 1 it2 Info2 EnPresentiel
+SAE SAEpr S46 4 5 it2 Info2 EnPresentiel
+SAE SAEpr S46 4 12 it2 Info2 EnPresentiel
+SAE SAEpr S46 3 1 it2 Info2 EnPresentiel
+SAE SAEpr S46 3 5 it2 Info2 EnPresentiel
+SAE SAEpr S46 3 12 it2 Info2 EnPresentiel
+SAE SAEpr S51 1 1 it2 Info2 EnPresentiel
+SAE SAEpr S51 1 5 it2 Info2 EnPresentiel
+SAE SAEpr S51 1 12 it2 Info2 EnPresentiel
+SAE SAEpr S46 2 1 it2 Info2 EnPresentiel
+SAE SAEpr S46 2 5 it2 Info2 EnPresentiel
+SAE SAEpr S46 2 12 it2 Info2 EnPresentiel

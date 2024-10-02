@@ -1,0 +1,20 @@
+Info "Modules du 1er semestre du DUT INFO"
+Rentree
+DEV
+WEB
+ADO
+SE
+BD1
+MD
+MF
+GP1
+ECO
+AT
+C1
+PPP1
+SAE-1
+SAE-2
+SAE-3
+SAE-4
+SAE-5
+SAE-6

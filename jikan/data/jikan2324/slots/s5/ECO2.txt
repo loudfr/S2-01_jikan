@@ -1,0 +1,5 @@
+TD TD S36 3 1 it3 Info3 BDav SC3
+TD TD S35 4 16 it3 Info3 BDav SC3
+TD TD S39 4 5 it3 Info3 BDav SC3
+TD TD S3 0 5 it3 Info3 BDav SC3
+TD TD S2 4 5 it3 Info3 BDav SC3

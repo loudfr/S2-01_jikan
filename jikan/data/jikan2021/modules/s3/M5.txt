@@ -1,0 +1,96 @@
+Couleur 100 190 90
+Info "Probabilites et statistiques"
+Lot CM
+  AffichageDuNom
+  Numerotation
+  Tache CM
+    Cout CM
+    Duree 4
+    Etudiant Info2
+    Enseignant PAde
+    Salles 3 SC3 Amphi SConf
+    Repetition 6
+Lot Eval
+  AffichageDuNom
+  Tache Eval
+    Cout CM
+    Duree 4
+    Etudiant Info2
+    Enseignant PAde
+    Salle Amphi
+Lot TDx
+  AliasLot TD
+  AffichageDuNom
+  Numerotation
+  Tache TDx
+    Cout TD
+    Duree 4
+    Etudiant Info2x
+    Enseignant PAde
+    Salles 5 SC3 SCC TD13 TD27 TD26
+    Repetition 8
+Lot TDy
+  AliasLot TD
+  AffichageDuNom
+  Numerotation
+  Tache TDy
+    Cout TD
+    Duree 4
+    Etudiant Info2y
+    Enseignant PAde
+    Salles 5 SC3 SCC TD13 TD27 TD26
+    Repetition 8
+Lot TPa
+  AliasLot TP
+  AffichageDuNom
+  Numerotation
+  Tache TPa
+    Cout TP
+    Duree 4
+    Etudiant Info2A
+    Enseignant PAde
+    Salles 2 TR IG
+    Repetition 5
+  Tache TQa
+    Cout TP
+    Duree 4
+    Etudiant Info2A
+    Enseignant PAde
+    Salles 4 SC3 SCC TD27 TD13
+    Repetition 2
+Lot TPb
+  AliasLot TP
+  AffichageDuNom
+  Numerotation
+  Tache TPb
+    Cout TP
+    Duree 4
+    Etudiant Info2B
+    Enseignant PAde
+    Salles 2 TR IG
+    Repetition 5
+  Tache TQb
+    Cout TP
+    Duree 4
+    Etudiant Info2B
+    Enseignant PAde
+    Salles 4 SC3 SCC TD27 TD13
+    Repetition 2
+Lot TPc
+  AliasLot TP
+  AffichageDuNom
+  Numerotation
+  Tache TPc
+    Cout TP
+    Duree 4
+    Etudiant Info2C
+    Enseignant PAde
+    Salles 2 TR IG
+    Repetition 5
+  Tache TQc
+    Cout TP
+    Duree 4
+    Etudiant Info2C
+    Enseignant PAde
+    Salles 4 SC3 SCC TD27 TD13
+    Repetition 2

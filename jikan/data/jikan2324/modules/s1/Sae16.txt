@@ -1,0 +1,108 @@
+Couleur 250 230 230
+Info "S1.06 : Decouverte de l'environnement economique et ecologique"
+Cible Info1
+Alias SAE16
+Lot TDx
+  AliasLot gp1
+  AffichageDuNom
+  Tache SMx
+    Matiere GP1
+    Cout TD
+    Duree 4
+    Etudiant Info1x
+    Enseignant BDav
+    Salle IG
+    Salle Mul
+    Repetition 2
+Lot TDy
+  AliasLot gp1
+  AffichageDuNom
+  Tache SMy
+    Matiere GP1
+    Cout TD
+    Duree 4
+    Etudiant Info1y
+    Enseignant BDav
+    Salle IG
+    Salle Mul
+    Repetition 2
+Lot TPa
+  AliasLot gp1
+  AffichageDuNom
+  Tache SPapv
+    Matiere WEB1
+    Cout TP
+    Duree 4
+    Etudiant Info1a
+    Enseignant PVil
+    Salles 4 IG TR Mul Res
+Lot TPb
+  AliasLot gp1
+  AffichageDuNom
+  Tache SPbpv
+    Matiere WEB1
+    Cout TP
+    Duree 4
+    Etudiant Info1b
+    Enseignant PVil
+    Salles 4 IG TR Mul Res
+Lot TPc
+  AliasLot gp1
+  AffichageDuNom
+  Tache SPcpv
+    Matiere WEB1
+    Cout TP
+    Duree 4
+    Etudiant Info1c
+    Enseignant PVil
+    Salles 4 IG TR Mul Res
+Lot TPd
+  AliasLot gp1
+  AffichageDuNom
+  Tache SPdpv
+    Matiere WEB1
+    Cout TP
+    Duree 4
+    Etudiant Info1d
+    Enseignant PVil
+    Salles 4 IG TR Mul Res
+Lot SAEa
+  AliasLot PRJ
+  AffichageDuNom
+  Numerotation
+  Tache SAEa
+    Matiere GP1
+    Cout GR
+    Duree 4
+    Etudiant Info1a
+    Repetition 6
+Lot SAEb
+  AliasLot PRJ
+  AffichageDuNom
+  Numerotation
+  Tache SAEb
+    Matiere GP1
+    Cout GR
+    Duree 4
+    Etudiant Info1b
+    Repetition 6
+Lot SAEc
+  AliasLot PRJ
+  AffichageDuNom
+  Numerotation
+  Tache SAEc
+    Matiere GP1
+    Cout GR
+    Duree 4
+    Etudiant Info1c
+    Repetition 6
+Lot SAEd
+  AliasLot PRJ
+  AffichageDuNom
+  Numerotation
+  Tache SAEd
+    Matiere GP1
+    Cout GR
+    Duree 4
+    Etudiant Info1d
+    Repetition 6

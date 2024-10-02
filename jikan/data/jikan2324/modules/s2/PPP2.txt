@@ -1,0 +1,69 @@
+Couleur 170 160 180
+Info "R2.14 PPP Metiers de l'informatique"
+Cible Info1
+Lot PPPtdx
+  AliasLot TD
+  AffichageDuNom
+  Numerotation
+  Tache TDx
+    Cout TD
+    Duree 4
+    Etudiant Info1x
+    Enseignant DRon
+    Salles 4 SCC TD13 TD27 SC3
+    Repetition 4
+Lot PPPtdy
+  AliasLot TD
+  AffichageDuNom
+  Numerotation
+  Tache TDy
+    Cout TD
+    Duree 4
+    Etudiant Info1y
+    Enseignant DRon
+    Salles 4 SCC TD13 TD27 SC3
+    Repetition 4
+Lot PPPtpa
+  AliasLot TP
+  AffichageDuNom
+  Numerotation
+  Tache TPa
+    Cout TP
+    Duree 4
+    Etudiant Info1a
+    Enseignant NDis
+    Salles 4 SCC TD13 TD27 SC3
+    Repetition 2
+Lot PPPtpb
+  AliasLot TP
+  AffichageDuNom
+  Numerotation
+  Tache TPb
+    Cout TP
+    Duree 4
+    Etudiant Info1b
+    Enseignant NDis
+    Salles 4 SCC TD13 TD27 SC3
+    Repetition 2
+Lot PPPtpc
+  AliasLot TP
+  AffichageDuNom
+  Numerotation
+  Tache TPc
+    Cout TP
+    Duree 4
+    Etudiant Info1c
+    Enseignant NDis
+    Salles 4 SCC TD13 TD27 SC3
+    Repetition 2
+Lot PPPtpd
+  AliasLot TP
+  AffichageDuNom
+  Numerotation
+  Tache TPd
+    Cout TP
+    Duree 4
+    Etudiant Info1d
+    Enseignant NDis
+    Salles 4 SCC TD13 TD27 SC3
+    Repetition 2

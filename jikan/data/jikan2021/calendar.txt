@@ -1,0 +1,35 @@
+Annee 2020
+PremiereSemaine 36
+NbSemaines 43
+DureeSemaines 6
+ContrainteReguliere 0 xooooooooxxxooooooooxxxx
+ContrainteReguliere 1 xooooooooxxxooooooooxxxx
+ContrainteReguliere 2 xooooooooxxxooooooooxxxx
+ContrainteReguliere 3 xooooooooxxxooooooooxxxx
+ContrainteReguliere 4 xooooooooxxxooooooooxxxx
+ContrainteReguliere 5 ooooooooxxxxxxxxxxxxxxxx
+ContrainteOccasionnelle S38 0 oooooooooxxxooooooooxxxx
+ContrainteOccasionnelle S39 1 xooooooooxxxooooooooooxx
+ContrainteOccasionnelle S40 0 oooooooooxxxooooooooxxxx
+ContrainteOccasionnelle S50 3 oooooooooxxxooooooooxxxx
+ContrainteOccasionnelle S5 4 oooooooooxxxooooooooxxxx
+ContrainteOccasionnelle S6 5 xxoooooooooooooooooxxxxx
+ContrainteOccasionnelle S9 3 xooooooooxooooooooooxxxx
+ContrainteOccasionnelle S9 5 xxoooooooooooooooooxxxxx
+ContrainteOccasionnelle S21 0 oooooooooxxxoooooooxxxxx
+Vacances 44
+Vacances 52
+Vacances 53
+Vacances 8
+Vacances 17
+Vacances 18
+Ferie 46 2
+Ferie 51 5
+Ferie 7 5
+Ferie 14 0
+Ferie 16 5
+Ferie 19 3
+Ferie 19 4
+Ferie 19 5
+Ferie 21 0
+Journees 30 16 24

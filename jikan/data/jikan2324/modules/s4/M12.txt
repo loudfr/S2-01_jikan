@@ -1,0 +1,38 @@
+Couleur 160 180 220
+Info "R4.A.15 Complements d'analyse"
+Cible Info2
+Lot EV
+  AliasLot EV
+  AffichageDuNom
+  Numerotation
+  Tache EV
+    Cout CM
+    Duree 4
+    Etudiant TCa
+    Etudiant Info2y
+    Enseignant PAde
+    Salle Amphi
+Lot TD
+  AliasLot TD
+  AffichageDuNom
+  Numerotation
+  Tache TD
+    Cout TD
+    Duree 4
+    Etudiant TCa
+    Etudiant Info2y
+    Enseignant PAde
+    Salles 4 SC3 SCC TD13 TD27
+    Repetition 4
+Lot TP
+  AliasLot TP
+  AffichageDuNom
+  Numerotation
+  Tache TQ
+    Cout TP
+    Duree 4
+    Etudiant TCa
+    Etudiant Info2y
+    Enseignant PAde
+    Salles 4 SC3 SCC TD13 TD27
+    Repetition 3

@@ -1,0 +1,5 @@
+Couleur 0 255 0
+Info "TEST"
+Partition 4
+Groupes 2 info1a info1b
+Groupes 4 a1 a2 a3 a4

@@ -1,0 +1,13 @@
+CM CM S48 3 5 it3 Info2 SDie Amphi
+TDx TDx S48 4 16 it3 Info2x SDie SC3
+TDx TMx S49 4 5 it3 Info2x SDie IG
+TDx TMx S2 0 5 it3 Info2x SDie IG
+TDy TDy S48 4 12 it3 Info2y SDie SC3
+TDy TMy S49 4 12 it3 Info2y SDie IG
+TDy TMy S2 0 1 it3 Info2y SDie IG
+TPa TPa S50 0 12 it3 Info2A SDie IG
+TPa TPa S2 1 1 it3 Info2A SDie IG
+TPb TPb S50 1 1 it3 Info2B SDie Mul
+TPb TPb S2 0 12 it3 Info2B SDie IG
+TPc TPc S50 0 1 it3 Info2C SDie IG
+TPc TPc S2 1 12 it3 Info2C SDie IG

@@ -1,0 +1,9 @@
+Couleur 185 128 231
+Info "Pierre-Andre Guenego"
+
+ContrainteReguliere indesirable 0 all
+ContrainteReguliere indesirable 1 all
+ContrainteReguliere indesirable 2 all
+ContrainteReguliere indesirable 4 all
+ContrainteReguliere indesirable 5 all
+ContrainteReguliere interdit 1 ooooooooooooxxxxxxxxxx

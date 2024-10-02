@@ -1,0 +1,148 @@
+Couleur 78 178 162
+Info "Developpement d'interfaces web"
+Lot PIX
+  AffichageDuNom
+  Tache CM
+    Cout CM
+    Duree 2
+    Etudiant Info1
+    Enseignant BDev
+    Salle Amphi
+  Tache EV
+    Cout CM
+    Duree 2
+    Etudiant Info1
+    Enseignant BDev
+    Salle Amphi
+Lot TDx
+  AliasLot TD
+  AffichageDuNom
+  Numerotation
+  Tache TMx
+    Cout TD
+    Duree 4
+    Etudiant Info1x
+    Enseignant PVil
+    Salles 2 IG Mul
+    Repetition 2
+Lot TDy
+  AliasLot TD
+  AffichageDuNom
+  Numerotation
+  Tache TMy
+    Cout TD
+    Duree 4
+    Etudiant Info1y
+    Enseignant PVil
+    Salles 2 IG Mul
+    Repetition 2
+Lot TPa
+  AliasLot TP
+  AffichageDuNom
+  Numerotation
+  Tache TPa
+    Cout TP
+    Duree 4
+    Etudiant Info1a
+    Enseignant PVil
+    Salles 4 IG TR Mul Res
+    Repetition 4
+Lot TPb
+  AliasLot TP
+  AffichageDuNom
+  Numerotation
+  Tache TPb
+    Cout TP
+    Duree 4
+    Etudiant Info1b
+    Enseignant PVil
+    Salles 4 IG TR Mul Res
+    Repetition 4
+Lot TPc
+  AliasLot TP
+  AffichageDuNom
+  Numerotation
+  Tache TPc
+    Cout TP
+    Duree 4
+    Etudiant Info1c
+    Enseignant PVil
+    Salles 4 IG TR Mul Res
+    Repetition 4
+Lot TPd
+  AliasLot TP
+  AffichageDuNom
+  Numerotation
+  Tache TPd
+    Cout TP
+    Duree 4
+    Etudiant Info1d
+    Enseignant PVil
+    Salles 4 IG TR Mul Res
+    Repetition 4
+Lot PIXx
+  AliasLot TD-PIX
+  AffichageDuNom
+  Numerotation
+  Tache PIXx
+    Cout TP
+    Duree 4
+    Etudiant Info1x
+    Enseignant BDev
+    Salles 2 IG Mul
+    Repetition 3
+Lot PIXy
+  AliasLot TD-PIX
+  AffichageDuNom
+  Numerotation
+  Tache PIXy
+    Cout TP
+    Duree 4
+    Etudiant Info1y
+    Enseignant BDev
+    Salles 2 IG Mul
+    Repetition 3
+Lot PIXa
+  AliasLot TP-PIX
+  AffichageDuNom
+  Numerotation
+  Tache PIXa
+    Cout TP
+    Duree 4
+    Etudiant Info1a
+    Enseignant BDev
+    Salles 4 IG Mul TR Res
+    Repetition 4
+Lot PIXb
+  AliasLot TP-PIX
+  AffichageDuNom
+  Numerotation
+  Tache PIXb
+    Cout TP
+    Duree 4
+    Etudiant Info1b
+    Enseignant BDev
+    Salles 4 IG Mul TR Res
+    Repetition 4
+Lot PIXc
+  AliasLot TP-PIX
+  AffichageDuNom
+  Numerotation
+  Tache PIXc
+    Cout TP
+    Duree 4
+    Etudiant Info1c
+    Enseignant BDev
+    Salles 4 IG Mul TR Res
+    Repetition 4
+Lot PIXd
+  AliasLot TP-PIX
+  AffichageDuNom
+  Numerotation
+  Tache PIXd
+    Cout TP
+    Duree 4
+    Etudiant Info1d
+    Enseignant BDev
+    Salles 4 IG Mul TR Res
+    Repetition 4

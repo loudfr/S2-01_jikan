@@ -1,0 +1,58 @@
+Couleur 250 220 187
+Info "R3.13 Communication professionnelle"
+Cible Info2
+Lot TDx
+  AliasLot TD
+  AffichageDuNom
+  Numerotation
+  Tache TDx
+    Cout TD
+    Duree 4
+    Etudiant Info2x
+    Enseignant SNdo
+    Salles 4 SCC SC3 TD27 TD13
+    Repetition 7
+Lot TDy
+  AliasLot TD
+  AffichageDuNom
+  Numerotation
+  Tache TDy
+    Cout TD
+    Duree 4
+    Etudiant Info2y
+    Enseignant SNdo
+    Salles 4 SCC SC3 TD27 TD13
+    Repetition 7
+Lot TPa
+  AliasLot TP
+  AffichageDuNom
+  Numerotation
+  Tache TQa
+    Cout TP
+    Duree 4
+    Etudiant Info2A
+    Enseignant SNdo
+    Salles 7 SCC SC3 Res IN TR Mul IG
+    Repetition 3
+Lot TPb
+  AliasLot TP
+  AffichageDuNom
+  Numerotation
+  Tache TQb
+    Cout TP
+    Duree 4
+    Etudiant Info2B
+    Enseignant SNdo
+    Salles 7 SCC SC3 Res IN TR Mul IG
+    Repetition 3
+Lot TPc
+  AliasLot TP
+  AffichageDuNom
+  Numerotation
+  Tache TQc
+    Cout TP
+    Duree 4
+    Etudiant Info2C
+    Enseignant SNdo
+    Salles 7 SCC SC3 Res IN TR Mul IG
+    Repetition 3

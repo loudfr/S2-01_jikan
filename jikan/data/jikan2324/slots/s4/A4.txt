@@ -1,0 +1,7 @@
+TDx TDx S7 2 5 it3 Info2x ACas TD13
+TDx TDx S6 2 12 it3 Info2x ACas SC3
+TDy TDy S7 2 1 it3 Info2y ACas TD13
+TDy TDy S6 2 16 it3 Info2y ACas SC3
+TPa TPa S8 2 5 it3 Info2A ACas IN
+TPb TPb S7 2 12 it3 Info2B ACas IN
+TPc TPc S8 2 1 it3 Info2C ACas IN

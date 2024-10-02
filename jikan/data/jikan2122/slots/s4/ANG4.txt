@@ -1,0 +1,38 @@
+TDx TDx S4 2 12 it4 WM1 WM2 ACas SC3
+TDx TDx S5 4 5 it4 WM1 WM2 ACas SC3
+TDx TDx S6 4 1 it4 WM1 WM2 ACas SC3
+TDx TDx S9 3 5 it4 WM1 WM2 ACas SC3
+TDx TDx S10 3 1 it4 WM1 WM2 ACas SC3
+TDx TDx S11 0 5 it4 WM1 WM2 ACas SC3
+TDx TDx S13 0 1 it4 WM1 WM2 ACas SC3
+TDy TDy S4 2 5 it3 IN ACas TD13
+TDy TDy S5 4 1 it3 IN ACas TD13
+TDy TDy S6 3 12 it3 IN ACas TD13
+TDy TDy S9 3 1 it3 IN ACas TD13
+TDy TDy S10 3 5 it3 IN ACas TD13
+TDy TDy S11 0 1 it3 IN ACas SCC
+TDy TDy S13 0 5 it3 IN ACas SCC
+TPa TPa S4 4 5 it3 WM1 ACas Mul
+TPa TPa S5 2 12 it3 WM1 ACas Mul
+TPa TPa S6 2 12 it3 WM1 ACas Res
+TPa TPa S8 3 5 it3 WM1 ACas IG
+TPa TPa S9 1 12 it3 WM1 ACas IG
+TPa TPa S10 0 5 it3 WM1 ACas IG
+TPa TPa S11 3 16 it3 WM1 ACas Mul
+TPa TPa S12 3 5 it3 WM1 ACas Mul
+TPb TPb S4 3 5 it3 WM2 ACas IG
+TPb TPb S5 2 16 it3 WM2 ACas Mul
+TPb TPb S6 2 5 it3 WM2 ACas Res
+TPb TPb S8 3 1 it3 WM2 ACas Mul
+TPb TPb S9 1 1 it3 WM2 ACas Mul
+TPb TPb S10 1 5 it3 WM2 ACas Mul
+TPb TPb S11 3 1 it3 WM2 ACas TR
+TPb TPb S12 3 12 it3 WM2 ACas TR
+TPc TPc S4 3 16 it3 IN ACas TR
+TPc TPc S5 3 5 it3 IN ACas TR
+TPc TPc S6 2 1 it3 IN ACas Res
+TPc TPc S8 3 12 it3 IN ACas TR
+TPc TPc S9 1 5 it3 IN ACas Mul
+TPc TPc S10 2 1 it3 IN ACas TR
+TPc TPc S11 3 5 it3 IN ACas Res
+TPc TPc S12 3 1 it3 IN ACas Res

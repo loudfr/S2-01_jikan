@@ -1,0 +1,66 @@
+Couleur 190 130 160
+Info "Contraintes liees a la LP IG3D"
+AffichageAdministratif
+MasquageDuNom
+NoTex
+Lot IG3D
+  AffichageDuNom
+  Tache IG3D-Droit
+    Cout GR
+    Duree 4
+    Enseignant MPri
+    Repetition 5
+  Tache IG3D-ACas
+    Cout GR
+    Duree 4
+    Enseignant ACas
+    Repetition 40
+  Tache IG3D-IN
+    Cout GR
+    Duree 4
+    Salle IN
+    Repetition 160
+  Tache IG3D-TD13
+    Cout GR
+    Duree 4
+    Salle TD13
+    Repetition 80
+  Tache IG3D-Alab
+    Cout GR
+    Duree 4
+    Salle Alab
+    Repetition 30
+  Tache IG3D-Amphi
+    Cout GR
+    Duree 4
+    Salle Amphi
+    Repetition 10
+  Tache IG3D-SConf
+    Cout GR
+    Duree 4
+    Salle SConf
+    Repetition 30
+  Tache SoutInter
+    Cout GR
+    Duree 8
+    Salle SConf
+    Salle TD13
+    Enseignant DBol
+    Enseignant ACas
+    Enseignant PEve
+    Enseignant LMor
+    Enseignant PVil
+Lot IG3D-DBol
+  AffichageDuNom
+  Tache IG3D-DBol
+    Cout GR
+    Duree 4
+    Enseignant DBol
+    Repetition 60
+Lot IG3D-PVil
+  AffichageDuNom
+  Tache IG3D-PVil
+    Cout GR
+    Duree 4
+    Enseignant PVil
+    Repetition 50

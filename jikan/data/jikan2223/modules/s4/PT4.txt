@@ -1,0 +1,40 @@
+Couleur 230 250 220
+Info "Projet tutore : projet de specialite"
+Alias Projets
+MasquageDesEns
+Lot PT4-CM
+  Tache PT
+    Cout GR
+    Duree 4
+    Etudiant Info2
+    Repetition 33
+  Tache PT2
+    Cout GR
+    Duree 4
+    Etudiant Info2
+    Repetition 33
+  Tache PTx
+    Cout GR
+    Duree 4
+    Etudiant Info2x
+    Repetition 33
+  Tache PTy
+    Cout GR
+    Duree 4
+    Etudiant Info2y
+    Repetition 33
+  Tache PTa
+    Cout GR
+    Duree 4
+    Etudiant WM1
+    Repetition 50
+  Tache PTb
+    Cout GR
+    Duree 4
+    Etudiant WM2
+    Repetition 50
+  Tache PTc
+    Cout GR
+    Duree 4
+    Etudiant IN
+    Repetition 50

@@ -1,0 +1,16 @@
+Couleur 160 160 90
+Info "Rentree 2e annee"
+MasquageDuNom
+MasquageDesEns
+Lot RentreeS3
+  AliasLot Rentree-S3
+  AffichageDuNom
+  Tache Rentree-S3
+    Cout GR
+    Duree 4
+    Etudiant Info2
+    Enseignant SDie
+    Enseignant ABou
+    Enseignant BDav
+    Enseignant PVil
+    Salle Amphi

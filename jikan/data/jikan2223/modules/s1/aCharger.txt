@@ -1,0 +1,20 @@
+Info "Modules du 1er semestre du BUT INFO"
+Rentree
+DEV1
+WEB1
+ASR1
+ASR2
+BD1
+M1
+M2
+GP1
+ECO1
+A1
+C1
+PPP1
+Sae11
+Sae12
+Sae13
+Sae14
+Sae15
+Sae16

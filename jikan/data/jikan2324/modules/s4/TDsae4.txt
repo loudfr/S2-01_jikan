@@ -1,0 +1,114 @@
+Couleur 240 140 190
+Info "TD de S4.01 Developpement d'application"
+Cible Info2
+Alias SAE4
+Lot Soutenance
+  AliasLot sout
+  AffichageDuNom
+  Tache Sout
+    Cout GR
+    Duree 8
+    Etudiant Info2
+    Enseignant NGai
+    Enseignant ABou
+    Salle Amphi
+Lot TDx
+  AliasLot sae4
+  AffichageDuNom
+  Tache SDngx
+    Cout TD
+    Duree 4
+    Etudiant Info2x
+    Enseignant NGai
+    Salles 4 TD13 TD27 SCC SC3
+    Repetition 5
+Lot TDy
+  AliasLot sae4
+  AffichageDuNom
+  Tache SDngy
+    Cout TD
+    Duree 4
+    Etudiant Info2y
+    Enseignant NGai
+    Salles 4 TD13 TD27 SCC SC3
+    Repetition 5
+Lot TDweb3x
+  AliasLot web3
+  AffichageDuNom
+  Tache SDweb3x
+    Matiere WEB3
+    Cout TD
+    Duree 4
+    Etudiant Info2x
+    Enseignant EMic
+    Salle TD13
+Lot TDweb3y
+  AliasLot web3
+  AffichageDuNom
+  Tache SDweb3y
+    Matiere WEB3
+    Cout TD
+    Duree 4
+    Etudiant Info2y
+    Enseignant HRos
+    Salles 4 TD13 SC3 SCC TD27
+Lot TDdi2x
+  AliasLot di2
+  AffichageDuNom
+  Tache SDdi2x
+    Matiere DI2
+    Cout TD
+    Duree 4
+    Etudiant Info2x
+    Enseignant EMed
+    Salle Tim
+Lot TDdi2y
+  AliasLot di2
+  AffichageDuNom
+  Tache SDdi2y
+    Matiere DI2
+    Cout TD
+    Duree 4
+    Etudiant Info2y
+    Enseignant EMed
+    Salle Tim
+Lot TDm11x
+  AliasLot m11
+  AffichageDuNom
+  Tache SDm11x
+    Matiere M11
+    Cout TD
+    Duree 4
+    Etudiant Info2x
+    Enseignant PAde
+    Salles 4 SC3 TD27 SCC TD13
+Lot TDm11y
+  AliasLot m11
+  AffichageDuNom
+  Tache SDm11y
+    Matiere M11
+    Cout TD
+    Duree 4
+    Etudiant Info2y
+    Enseignant PAde
+    Salles 4 SC3 TD27 SCC TD13
+Lot TDa4x
+  AliasLot a4
+  AffichageDuNom
+  Tache SDa4x
+    Matiere A4
+    Cout TD
+    Duree 4
+    Etudiant Info2x
+    Enseignant ACas
+    Salles 4 SC3 TD27 SCC TD13
+Lot TDa4y
+  AliasLot a4
+  AffichageDuNom
+  Tache SDa4y
+    Matiere A4
+    Cout TD
+    Duree 4
+    Etudiant Info2y
+    Enseignant ACas
+    Salles 4 SC3 TD27 SCC TD13

@@ -1,0 +1,9 @@
+Couleur 255 133 247
+Info "Pierre-Frederic Villard"
+
+ContrainteReguliere interdit 4 all
+ContrainteOccasionnelle interdit S36 1 all
+ContrainteOccasionnelle interdit S42 1 all
+ContrainteOccasionnelle interdit S42 2 all
+ContrainteOccasionnelle indesirable S41 0 all
+ContrainteOccasionnelle indesirable S41 1 all

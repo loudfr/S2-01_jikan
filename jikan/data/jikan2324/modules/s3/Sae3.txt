@@ -1,0 +1,24 @@
+Couleur 250 220 250
+Info "PRJ de S3.01 Developpement appli"
+Cible Info2
+Alias SAE3
+Lot SAE
+  AliasLot PRJ
+  AffichageDuNom
+  Numerotation
+  Tache SAE
+    Cout GR
+    Duree 8
+    Etudiant Info2
+    Repetition 20
+  Tache SAEcplt
+    Cout GR
+    Duree 4
+    Etudiant Info2
+    Repetition 5
+  Tache SAEpr
+    Cout GR
+    Duree 4
+    Etudiant Info2
+    Salle EnPresentiel
+    Repetition 15

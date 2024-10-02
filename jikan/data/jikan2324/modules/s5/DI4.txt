@@ -1,0 +1,41 @@
+Couleur 170 150 140
+Info "R5.A17 Developpement integre"
+Cible Info3
+Lot CM
+  AffichageDuNom
+  Numerotation
+  Tache CM
+    Cout CM
+    Duree 4
+    Etudiant IPx
+    Etudiant IPy
+    Etudiant IPz
+    Enseignant EMed
+    Salles 3 Tim Amphi SC3
+    Repetition 3
+Lot TD
+  AliasLot TD
+  AffichageDuNom
+  Numerotation
+  Tache TD
+    Cout TD
+    Duree 4
+    Etudiant IPx
+    Etudiant IPy
+    Etudiant IPz
+    Enseignant EMed
+    Salle Tim
+    Repetition 4
+Lot TP
+  AliasLot TP
+  AffichageDuNom
+  Numerotation
+  Tache TP
+    Cout TP
+    Duree 4
+    Etudiant IPx
+    Etudiant IPy
+    Etudiant IPz
+    Enseignant EMed
+    Salle Tim
+    Repetition 6

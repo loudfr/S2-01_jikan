@@ -1,0 +1,98 @@
+Couleur 200 120 183
+Info "R4.A09 Management avance des systemes d'information"
+Cible Info2
+Lot CM
+  AffichageDuNom
+  Tache CM
+    Cout CM
+    Duree 4
+    Etudiant Info2
+    Enseignant BDav
+    Salles 2 Amphi SC3
+Lot TDx
+  AliasLot TD
+  AffichageDuNom
+  Numerotation
+  Tache TDbdx
+    Cout TD
+    Duree 4
+    Etudiant Info2x
+    Enseignant BDav
+    Salles 4 SCC TD13 SC3 TD27
+    Repetition 3
+  Tache TDmmx
+    Cout TD
+    Duree 4
+    Etudiant Info2x
+    Enseignant MMin
+    Salles 4 SCC TD13 SC3 TD27
+    Repetition 2
+Lot TDy
+  AliasLot TD
+  AffichageDuNom
+  Numerotation
+  Tache TDbdy
+    Cout TD
+    Duree 4
+    Etudiant Info2y
+    Enseignant BDav
+    Salles 4 SCC TD13 SC3 TD27
+    Repetition 3
+  Tache TDmmy
+    Cout TD
+    Duree 4
+    Etudiant Info2y
+    Enseignant MMin
+    Salles 4 SCC TD13 SC3 TD27
+    Repetition 2
+Lot TPa
+  AliasLot TP
+  AffichageDuNom
+  Numerotation
+  Tache TPbda
+    Cout TP
+    Duree 4
+    Etudiant Info2A
+    Enseignant BDav
+    Salles 6 Mul IG TR IN Tim Res
+    Repetition 3
+  Tache TPmma
+    Cout TP
+    Duree 4
+    Etudiant Info2A
+    Enseignant MMin
+    Salles 4 Mul IG TR Res
+Lot TPb
+  AliasLot TP
+  AffichageDuNom
+  Numerotation
+  Tache TPbdb
+    Cout TP
+    Duree 4
+    Etudiant Info2B
+    Enseignant BDav
+    Salles 6 Mul IG TR IN Tim Res
+    Repetition 3
+  Tache TPmmb
+    Cout TP
+    Duree 4
+    Etudiant Info2B
+    Enseignant MMin
+    Salles 4 Mul IG TR Res
+Lot TPc
+  AliasLot TP
+  AffichageDuNom
+  Numerotation
+  Tache TPbdc
+    Cout TP
+    Duree 4
+    Etudiant Info2C
+    Enseignant BDav
+    Salles 6 Mul IG TR IN Tim Res
+    Repetition 3
+  Tache TPmmc
+    Cout TP
+    Duree 4
+    Etudiant Info2C
+    Enseignant MMin
+    Salles 4 Mul IG TR Res

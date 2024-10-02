@@ -1,0 +1,69 @@
+Couleur 20 130 190
+Info "R2.13 Communication avec le milieu professionnel"
+Cible Info1
+Lot TDx
+  AliasLot TD
+  AffichageDuNom
+  Numerotation
+  Tache TDx
+    Cout TD
+    Duree 4
+    Etudiant Info1x
+    Enseignant AKri
+    Salles 3 SCC SC3 TD13
+    Repetition 5
+Lot TDy
+  AliasLot TD
+  AffichageDuNom
+  Numerotation
+  Tache TDy
+    Cout TD
+    Duree 4
+    Etudiant Info1y
+    Enseignant AKri
+    Salles 3 SCC SC3 TD13
+    Repetition 5
+Lot TPa
+  AliasLot TP
+  AffichageDuNom
+  Numerotation
+  Tache TQa
+    Cout TP
+    Duree 4
+    Etudiant Info1a
+    Enseignant AKri
+    Salles 4 SCC SC3 TD13 TD27
+    Repetition 3
+Lot TPb
+  AliasLot TP
+  AffichageDuNom
+  Numerotation
+  Tache TQb
+    Cout TP
+    Duree 4
+    Etudiant Info1b
+    Enseignant AKri
+    Salles 4 SCC SC3 TD13 TD27
+    Repetition 3
+Lot TPc
+  AliasLot TP
+  AffichageDuNom
+  Numerotation
+  Tache TQc
+    Cout TP
+    Duree 4
+    Etudiant Info1c
+    Enseignant AKri
+    Salles 4 SCC SC3 TD13 TD27
+    Repetition 3
+Lot TPd
+  AliasLot TP
+  AffichageDuNom
+  Numerotation
+  Tache TQd
+    Cout TP
+    Duree 4
+    Etudiant Info1d
+    Enseignant AKri
+    Salles 4 SCC SC3 TD13 TD27
+    Repetition 3

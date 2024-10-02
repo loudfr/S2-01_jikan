@@ -1,0 +1,105 @@
+Couleur 78 178 162
+Info "R1.02 Developpement d'interfaces web"
+Cible Info1
+Lot CM
+  AffichageDuNom
+  Tache CM
+    Cout CM
+    Duree 4
+    Etudiant Info1
+    Enseignant ABic
+    Salle Amphi
+Lot TDx
+  AliasLot TD
+  AffichageDuNom
+  Numerotation
+  Tache TMx
+    Cout TD
+    Duree 4
+    Etudiant Info1x
+    Enseignant PVil
+    Salles 4 IG Mul IN TR
+    Repetition 2
+Lot TDy
+  AliasLot TD
+  AffichageDuNom
+  Numerotation
+  Tache TMy
+    Cout TD
+    Duree 4
+    Etudiant Info1y
+    Enseignant PVil
+    Salles 4 IG Mul IN TR
+    Repetition 2
+Lot TPa
+  AliasLot TP
+  AffichageDuNom
+  Numerotation
+  Tache TPapv
+    Cout TP
+    Duree 4
+    Etudiant Info1a
+    Enseignant PVil
+    Salles 5 IG TR Mul Res IN
+    Repetition 3
+  Tache TPaab
+    Cout TP
+    Duree 4
+    Etudiant Info1a
+    Enseignant ABic
+    Salles 5 IN IG Mul TR Res
+    Repetition 3
+Lot TPb
+  AliasLot TP
+  AffichageDuNom
+  Numerotation
+  Tache TPbpv
+    Cout TP
+    Duree 4
+    Etudiant Info1b
+    Enseignant PVil
+    Salles 5 IG TR Mul Res IN
+    Repetition 3
+  Tache TPbab
+    Cout TP
+    Duree 4
+    Etudiant Info1b
+    Enseignant ABic
+    Salles 5 IN IG Mul TR Res
+    Repetition 3
+Lot TPc
+  AliasLot TP
+  AffichageDuNom
+  Numerotation
+  Tache TPcpv
+    Cout TP
+    Duree 4
+    Etudiant Info1c
+    Enseignant PVil
+    Salles 5 IG TR Mul Res IN
+    Repetition 3
+  Tache TPcab
+    Cout TP
+    Duree 4
+    Etudiant Info1c
+    Enseignant ABic
+    Salles 5 IN IG Mul TR Res
+    Repetition 3
+Lot TPd
+  AliasLot TP
+  AffichageDuNom
+  Numerotation
+  Tache TPdpv
+    Cout TP
+    Duree 4
+    Etudiant Info1d
+    Enseignant PVil
+    Salles 5 IG TR Mul Res IN
+    Repetition 3
+  Tache TPdab
+    Cout TP
+    Duree 4
+    Etudiant Info1d
+    Enseignant ABic
+    Salles 5 IN IG Mul TR Res
+    Repetition 3

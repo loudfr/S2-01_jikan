@@ -1,0 +1,9 @@
+Couleur 151 198 230
+Info "Patrick Adelbrecht"
+ 
+ContrainteReguliere indesirable 4 all
+ContrainteOccasionnelle interdit S41 2 ooooooooooooxxxxxxxxoo
+ContrainteOccasionnelle interdit S41 3 all
+ContrainteOccasionnelle interdit S50 3 all
+ContrainteOccasionnelle interdit S12 3 all
+ContrainteOccasionnelle interdit S21 2 all

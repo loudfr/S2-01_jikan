@@ -1,0 +1,35 @@
+Couleur 120 210 190
+Info "Services reseaux"
+Lot TPa
+  AliasLot TP
+  AffichageDuNom
+  Numerotation
+  Tache TPa
+    Cout TP
+    Duree 8
+    Etudiant Info2A
+    Enseignant SDie
+    Salle Res
+    Repetition 3
+Lot TPb
+  AliasLot TP
+  AffichageDuNom
+  Numerotation
+  Tache TPb
+    Cout TP
+    Duree 8
+    Etudiant Info2B
+    Enseignant SDie
+    Salle Res
+    Repetition 3
+Lot TPc
+  AliasLot TP
+  AffichageDuNom
+  Numerotation
+  Tache TPc
+    Cout TP
+    Duree 8
+    Etudiant Info2C
+    Enseignant SDie
+    Salle Res
+    Repetition 3

@@ -1,0 +1,32 @@
+Couleur 180 200 230
+Info "Contraintes liees a la LP TAM"
+AffichageAdministratif
+MasquageDuNom
+NoTex
+Lot TAM
+  AffichageDuNom
+  Tache TAM-PAde
+    Cout GR
+    Duree 4
+    Enseignant PAde
+    Repetition 90
+  Tache TAM-ACas
+    Cout GR
+    Duree 4
+    Enseignant ACas
+    Repetition 90
+  Tache TAM-LMor
+    Cout GR
+    Duree 4
+    Enseignant LMor
+    Repetition 60
+  Tache TAM-BDav
+    Cout GR
+    Duree 4
+    Enseignant BDav
+    Repetition 20
+  Tache TAM-ARic
+    Cout GR
+    Duree 4
+    Enseignant ARic
+    Repetition 60

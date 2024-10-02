@@ -1,0 +1,28 @@
+Couleur 185 221 212
+Info "Amandine Cardini"
+
+ContrainteReguliere interdit 4 all
+ContrainteReguliere indesirable 0 all
+ContrainteReguliere indesirable 1 xooooxxxxxxxxxxxooooxx
+ContrainteReguliere indesirable 2 xooooxxxxxxxxxxxooooxx
+ContrainteReguliere indesirable 3 xooooxxxxxxxxxxxooooxx
+ContrainteOccasionnelle interdit S4 0 all
+ContrainteOccasionnelle interdit S4 1 all
+ContrainteOccasionnelle interdit S4 2 all
+ContrainteOccasionnelle interdit S4 3 all
+ContrainteOccasionnelle interdit S8 0 all
+ContrainteOccasionnelle interdit S8 1 all
+ContrainteOccasionnelle interdit S8 2 all
+ContrainteOccasionnelle interdit S8 3 all
+ContrainteOccasionnelle interdit S12 0 all
+ContrainteOccasionnelle interdit S12 1 all
+ContrainteOccasionnelle interdit S12 2 all
+ContrainteOccasionnelle interdit S12 3 all
+ContrainteOccasionnelle interdit S17 0 all
+ContrainteOccasionnelle interdit S17 1 all
+ContrainteOccasionnelle interdit S17 2 all
+ContrainteOccasionnelle interdit S17 3 all
+ContrainteOccasionnelle interdit S21 0 all
+ContrainteOccasionnelle interdit S21 1 all
+ContrainteOccasionnelle interdit S21 2 all
+ContrainteOccasionnelle interdit S21 3 all

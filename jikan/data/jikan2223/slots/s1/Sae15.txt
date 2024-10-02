@@ -1,0 +1,40 @@
+TPa SPaab S50 4 5 it3 Info1a ABic IN
+TPa SPaar S49 0 5 it3 Info1a SNdo Res
+TPa SPaar S50 1 5 it3 Info1a SNdo IN
+TPa SPaar S1 1 12 it3 Info1a SNdo IN
+TPb SPbab S50 2 5 it3 Info1b ABic IN
+TPb SPbar S49 1 12 it3 Info1b SNdo Res
+TPb SPbar S50 1 16 it3 Info1b SNdo IN
+TPb SPbar S1 1 1 it3 Info1b SNdo IN
+TPc SPcab S50 4 12 it3 Info1c ABic IN
+TPc SPcar S49 0 12 it3 Info1c SNdo Res
+TPc SPcar S50 1 12 it3 Info1c SNdo IN
+TPc SPcar S1 1 16 it3 Info1c SNdo IN
+TPd SPdab S50 2 12 it3 Info1d ABic IN
+TPd SPdar S49 0 16 it3 Info1d SNdo Res
+TPd SPdar S50 1 1 it3 Info1d SNdo IN
+TPd SPdar S1 1 5 it3 Info1d SNdo IN
+SAEa SAEa S1 4 12 it1 Info1a
+SAEa SAEa S1 4 16 it1 Info1a
+SAEa SAEa S2 2 1 it1 Info1a
+SAEa SAEa S2 2 16 it1 Info1a
+SAEa SAEa S2 4 16 it1 Info1a
+SAEa SAEa S3 0 16 it1 Info1a
+SAEb SAEb S1 4 12 it1 Info1b
+SAEb SAEb S1 4 16 it1 Info1b
+SAEb SAEb S2 1 12 it1 Info1b
+SAEb SAEb S2 1 16 it1 Info1b
+SAEb SAEb S2 4 16 it1 Info1b
+SAEb SAEb S3 0 16 it1 Info1b
+SAEc SAEc S1 4 12 it1 Info1c
+SAEc SAEc S1 4 16 it1 Info1c
+SAEc SAEc S2 2 1 it1 Info1c
+SAEc SAEc S2 2 16 it1 Info1c
+SAEc SAEc S2 4 1 it1 Info1c
+SAEc SAEc S3 0 16 it1 Info1c
+SAEd SAEd S1 4 12 it1 Info1d
+SAEd SAEd S1 4 16 it1 Info1d
+SAEd SAEd S2 1 1 it1 Info1d
+SAEd SAEd S2 1 5 it1 Info1d
+SAEd SAEd S2 4 1 it1 Info1d
+SAEd SAEd S3 0 16 it1 Info1d

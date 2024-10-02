@@ -1,0 +1,12 @@
+Couleur 250 220 180
+Info "Contraintes liees a la LP SARI (golpah)"
+AffichageAdministratif
+MasquageDuNom
+NoTex
+Lot SARI
+  AffichageDuNom
+  Tache Acas
+    Cout GR
+    Duree 4
+    Enseignant ACas
+    Repetition 20

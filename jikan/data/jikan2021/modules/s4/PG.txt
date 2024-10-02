@@ -1,0 +1,28 @@
+Couleur 250 250 100
+Info "Programmation graphique"
+MasquageDuNom
+Lot TD
+  AliasLot PG
+  AffichageDuNom
+  Numerotation
+  Tache CM
+    Cout CM
+    Duree 4
+    Etudiant IN
+    Enseignant PEve
+    Salles 5 SCC SC3 TD27 TD13 SConf
+    Repetition 3
+  Tache TD
+    Cout TD
+    Duree 4
+    Etudiant IN
+    Enseignant PEve
+    Salles 5 SCC SC3 TD27 TD13 TR
+    Repetition 4
+  Tache TP
+    Cout TP
+    Duree 4
+    Etudiant IN
+    Enseignant PEve
+    Salles 4 IG TR Mul IN
+    Repetition 8

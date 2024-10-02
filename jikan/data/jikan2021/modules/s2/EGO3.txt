@@ -1,0 +1,150 @@
+Couleur 140 180 100
+Info "Environnement comptable, financier, juridique et social"
+Alias EGO3
+Lot CM
+  AffichageDuNom
+  Numerotation
+  Tache CM
+    Cout CM
+    Duree 4
+    Etudiant Info1
+    Enseignant BDav
+    Salle Amphi
+    Repetition 3
+  Tache CMcv
+    Cout CM
+    Duree 4
+    Etudiant Info1
+    Enseignant CVal
+    Salle Amphi
+    Repetition 2
+Lot Eval
+  AffichageDuNom
+  Tache Eval
+    Cout CM
+    Duree 4
+    Etudiant Info1
+    Enseignant BDav
+    Salle Amphi
+Lot TDx
+  AliasLot TD
+  AffichageDuNom
+  Numerotation
+  Tache TDx
+    Cout TD
+    Duree 4
+    Etudiant Info1x
+    Enseignant BDav
+    Salles 4 SCC TD27 SC3 TD13
+    Repetition 4
+  Tache TDcvx
+    Cout TD
+    Duree 4
+    Etudiant Info1x
+    Enseignant CVal
+    Salles 4 SCC TD27 SC3 TD13
+    Repetition 3
+  Tache TMx
+    Cout TD
+    Duree 4
+    Etudiant Info1x
+    Enseignant BDav
+    Salles 3 TR IG Mul
+    Repetition 2
+Lot TDy
+  AliasLot TD
+  AffichageDuNom
+  Numerotation
+  Tache TDy
+    Cout TD
+    Duree 4
+    Etudiant Info1y
+    Enseignant BDav
+    Salles 4 SCC TD27 SC3 TD13
+    Repetition 4
+  Tache TDcvy
+    Cout TD
+    Duree 4
+    Etudiant Info1y
+    Enseignant CVal
+    Salles 4 SCC TD27 SC3 TD13
+    Repetition 3
+  Tache TMy
+    Cout TD
+    Duree 4
+    Etudiant Info1y
+    Enseignant BDav
+    Salles 3 TR IG Mul
+    Repetition 2
+Lot TPa
+  AliasLot TP
+  AffichageDuNom
+  Numerotation
+  Tache TPa
+    Cout TP
+    Duree 4
+    Etudiant Info1a
+    Enseignant BDav
+    Salles 4 Res TR IG Mul
+    Repetition 3
+  Tache TQcva
+    Cout TP
+    Duree 4
+    Etudiant Info1a
+    Enseignant CVal
+    Salles 4 TD27 SCC SC3 TD13
+    Repetition 4
+Lot TPb
+  AliasLot TP
+  AffichageDuNom
+  Numerotation
+  Tache TPb
+    Cout TP
+    Duree 4
+    Etudiant Info1b
+    Enseignant BDav
+    Salles 4 Res TR IG Mul
+    Repetition 3
+  Tache TQcvb
+    Cout TP
+    Duree 4
+    Etudiant Info1b
+    Enseignant CVal
+    Salles 4 TD27 SCC SC3 TD13
+    Repetition 4
+Lot TPc
+  AliasLot TP
+  AffichageDuNom
+  Numerotation
+  Tache TPc
+    Cout TP
+    Duree 4
+    Etudiant Info1c
+    Enseignant BDav
+    Salles 4 Res TR IG Mul
+    Repetition 3
+  Tache TQcvc
+    Cout TP
+    Duree 4
+    Etudiant Info1c
+    Enseignant CVal
+    Salles 4 TD27 SCC SC3 TD13
+    Repetition 4
+Lot TPd
+  AliasLot TP
+  AffichageDuNom
+  Numerotation
+  Tache TPd
+    Cout TP
+    Duree 4
+    Etudiant Info1d
+    Enseignant BDav
+    Salles 4 Res TR IG Mul
+    Repetition 3
+  Tache TQcvd
+    Cout TP
+    Duree 4
+    Etudiant Info1d
+    Enseignant CVal
+    Salles 4 TD27 SCC SC3 TD13
+    Repetition 4

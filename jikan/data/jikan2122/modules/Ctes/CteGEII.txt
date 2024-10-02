@@ -1,0 +1,38 @@
+Couleur 230 120 180
+Info "Contraintes liees au departement GEII"
+AffichageAdministratif
+MasquageDuNom
+NoTex
+Lot GEII
+  MasquageDuModule
+  AffichageDuNom
+  Tache GEII-ARic
+    Cout GR
+    Duree 4
+    Enseignant ARic
+    Repetition 60
+  Tache GEII-CNut
+    Cout GR
+    Duree 4
+    Enseignant CNut
+    Repetition 80
+  Tache GEII-Alab
+    Cout GR
+    Duree 4
+    Salle Alab
+    Repetition 60
+  Tache GEII-SC3
+    Cout GR
+    Duree 4
+    Salle SC3
+    Repetition 60
+  Tache GEII-COV3
+    Cout GR
+    Duree 8
+    Salle SC3
+    Repetition 30
+  Tache GEII-COV1
+    Cout GR
+    Duree 8
+    Salle SC1
+    Repetition 30

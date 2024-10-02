@@ -1,0 +1,24 @@
+SDx SDxnd S7 4 1 it3 Info1x NDis TD27
+SDx SDxnd S11 4 1 it3 Info1x NDis TD27
+SDy SDynd S7 1 1 it3 Info1y NDis TD27
+SDy SDynd S11 1 1 it3 Info1y NDis TD27
+TPa SPa S10 2 1 it3 Info1a NDis TD27
+TPa SPa S14 3 1 it3 Info1a NDis TD27
+TPb SPa S10 3 1 it3 Info1b NDis TD27
+TPb SPa S14 2 1 it3 Info1b NDis TD27
+TPc SPc S10 1 1 it3 Info1c NDis TD27
+TPc SPc S14 1 1 it3 Info1c NDis TD27
+TPd SPd S10 4 1 it3 Info1d NDis TD27
+TPd SPd S14 4 1 it3 Info1d NDis TD27
+SAEa SAEa S15 2 12 it1 Info1a
+SAEa SAEa S15 4 12 it1 Info1a
+SAEa SAEa S15 0 16 it1 Info1a
+SAEb SAEb S15 4 1 it1 Info1b
+SAEb SAEb S15 2 5 it1 Info1b
+SAEb SAEb S15 0 16 it1 Info1b
+SAEc SAEc S15 2 5 it1 Info1c
+SAEc SAEc S15 4 16 it1 Info1c
+SAEc SAEc S15 0 16 it1 Info1c
+SAEd SAEd S15 2 5 it1 Info1d
+SAEd SAEd S15 4 5 it1 Info1d
+SAEd SAEd S15 0 16 it1 Info1d

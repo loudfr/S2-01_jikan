@@ -1,0 +1,11 @@
+Info "Salles de cours pour INFO"
+Amphi
+SCons
+SC1
+SConf
+SExt
+SC3
+SC2
+SRinfo
+Amph
+SCrz

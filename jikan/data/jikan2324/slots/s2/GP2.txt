@@ -1,0 +1,16 @@
+CM CM S4 3 5 it3 Info1 BDav Amphi
+CM CM S14 3 5 it3 Info1 BDav Amphi
+TDx TDx S4 4 16 it3 Info1x BDav SCC
+TDx TDx S5 1 12 it3 Info1x BDav SC3
+TDx TDx S7 1 1 it3 Info1x BDav SC3
+TDx TDx S8 4 1 it3 Info1x BDav SC3
+TDx TDx S11 0 12 it3 Info1x BDav TD27
+TDx TDx S15 4 16 it3 Info1x BDav SC3
+TDx TDx S15 1 1 it3 Info1x BDav SCC
+TDy TDy S4 4 12 it3 Info1y BDav SCC
+TDy TDy S5 1 5 it3 Info1y BDav SC3
+TDy TDy S7 1 5 it3 Info1y BDav SC3
+TDy TDy S8 4 5 it3 Info1y BDav SC3
+TDy TDy S11 0 16 it3 Info1y BDav TD27
+TDy TDy S15 4 12 it3 Info1y BDav SC3
+TDy TDy S15 1 5 it3 Info1y BDav SCC

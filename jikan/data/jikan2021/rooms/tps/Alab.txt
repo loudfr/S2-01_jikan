@@ -1,0 +1,2 @@
+Couleur 180 240 110
+Info "Salle @lab, 1er etage"

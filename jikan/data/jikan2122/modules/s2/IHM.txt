@@ -1,0 +1,165 @@
+Couleur 220 70 150
+Info "Developpement d'applications avec IHM"
+Lot CM
+  AffichageDuNom
+  Numerotation
+  Tache CMui
+    Cout CM
+    Duree 4
+    Etudiant Info1
+    Enseignant PVil
+    Salle Amphi
+    Repetition 3
+  Tache CMerg
+    Cout CM
+    Duree 4
+    Etudiant Info1
+    Enseignant PEve
+    Salle Amphi
+    Repetition 2
+Lot TDx
+  AliasLot TD
+  AffichageDuNom
+  Numerotation
+  Tache TDx
+    Cout TD
+    Duree 4
+    Etudiant Info1x
+    Enseignant PVil
+    Salles 4 SCC SC3 TD27 TD13
+    Repetition 3
+Lot TDy
+  AliasLot TD
+  AffichageDuNom
+  Numerotation
+  Tache TDy
+    Cout TD
+    Duree 4
+    Etudiant Info1y
+    Enseignant PVil
+    Salles 4 SCC SC3 TD27 TD13
+    Repetition 3
+Lot TPa
+  AliasLot TP
+  AffichageDuNom
+  Numerotation
+  Tache TPuia
+    Cout TP
+    Duree 4
+    Etudiant Info1a
+    Enseignant PVil
+    Salles 5 TR IG Mul Res IN
+    Repetition 4
+  Tache TPema
+    Cout TP
+    Duree 4
+    Etudiant Info1a
+    Enseignant EMic
+    Salles 4 IG Mul TR Res
+  Tache TPsaa
+    Cout TP
+    Duree 4
+    Etudiant Info1a
+    Enseignant SAbi
+    Salles 4 IG Mul TR Res
+    Repetition 2
+  Tache TPjma
+    Cout TP
+    Duree 4
+    Etudiant Info1a
+    Enseignant JMou
+    Salles 5 IG TR Mul Res Tur
+    Repetition 4
+Lot TPb
+  AliasLot TP
+  AffichageDuNom
+  Numerotation
+  Tache TPuib
+    Cout TP
+    Duree 4
+    Etudiant Info1b
+    Enseignant EMic
+    Salles 4 IG Mul TR Res
+    Repetition 4
+  Tache TPemb
+    Cout TP
+    Duree 4
+    Etudiant Info1b
+    Enseignant EMic
+    Salles 4 IG Mul TR Res
+  Tache TPsab
+    Cout TP
+    Duree 4
+    Etudiant Info1b
+    Enseignant SAbi
+    Salles 4 IG Mul TR Res
+    Repetition 2
+  Tache TPjmb
+    Cout TP
+    Duree 4
+    Etudiant Info1b
+    Enseignant JMou
+    Salles 5 IG TR Mul Res Tur
+    Repetition 4
+Lot TPc
+  AliasLot TP
+  AffichageDuNom
+  Numerotation
+  Tache TPuic
+    Cout TP
+    Duree 4
+    Etudiant Info1c
+    Enseignant EMic
+    Salles 4 IG Mul TR Res
+    Repetition 4
+  Tache TPemc
+    Cout TP
+    Duree 4
+    Etudiant Info1c
+    Enseignant EMic
+    Salles 4 IG Mul TR Res
+  Tache TPsac
+    Cout TP
+    Duree 4
+    Etudiant Info1c
+    Enseignant SAbi
+    Salles 4 IG Mul TR Res
+    Repetition 2
+  Tache TPjmc
+    Cout TP
+    Duree 4
+    Etudiant Info1c
+    Enseignant JMou
+    Salles 5 IG TR Mul Res Tur
+    Repetition 4
+Lot TPd
+  AliasLot TP
+  AffichageDuNom
+  Numerotation
+  Tache TPuid
+    Cout TP
+    Duree 4
+    Etudiant Info1d
+    Enseignant PVil
+    Salles 5 TR IG Mul Res IN
+    Repetition 4
+  Tache TPemd
+    Cout TP
+    Duree 4
+    Etudiant Info1d
+    Enseignant EMic
+    Salles 4 IG Mul TR Res
+  Tache TPsad
+    Cout TP
+    Duree 4
+    Etudiant Info1d
+    Enseignant SAbi
+    Salles 4 IG Mul TR Res
+    Repetition 2
+  Tache TPjmd
+    Cout TP
+    Duree 4
+    Etudiant Info1d
+    Enseignant JMou
+    Salles 5 IG TR Mul Res Tur
+    Repetition 4

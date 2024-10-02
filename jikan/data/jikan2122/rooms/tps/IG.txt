@@ -1,0 +1,2 @@
+Couleur 75 150 175
+Info "Salle Informatique Graphique, rdc"

@@ -1,0 +1,2 @@
+Couleur 100 200 50
+Info "Salle Multimedias, rdc"

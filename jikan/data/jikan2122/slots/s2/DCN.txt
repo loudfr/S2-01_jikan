@@ -1,0 +1,16 @@
+CM CM S18 0 5 it3 Info1 BDav Amphi
+Eval Eval S24 0 1 it3 Info1 BDav Amphi
+TDx TDx S17 3 1 it3 Info1x BDav SCC
+TDx TDx S19 0 12 it3 Info1x BDav TD27
+TDx TDx S19 1 5 it3 Info1x BDav SCC
+TDx TDx S20 0 1 it3 Info1x BDav SCC
+TDx TDx S21 0 12 it3 Info1x BDav SCC
+TDx TDx S22 0 5 it3 Info1x BDav SCC
+TDx TDx S23 1 5 it3 Info1x BDav SCC
+TDy TDy S17 3 5 it3 Info1y BDav SC3
+TDy TDy S19 0 5 it3 Info1y BDav SCC
+TDy TDy S19 1 12 it3 Info1y BDav SCC
+TDy TDy S20 0 5 it3 Info1y BDav SC3
+TDy TDy S21 0 5 it3 Info1y BDav SC3
+TDy TDy S22 0 12 it3 Info1y BDav SCC
+TDy TDy S23 1 12 it3 Info1y BDav SC3

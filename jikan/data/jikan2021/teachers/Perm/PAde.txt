@@ -1,0 +1,21 @@
+Couleur 151 198 230
+Info "Patrick Adelbrecht"
+
+ContrainteOccasionnelle interdit S10 0 all
+ContrainteOccasionnelle interdit S10 1 all
+ContrainteOccasionnelle interdit S10 2 all
+ContrainteOccasionnelle interdit S10 3 all
+ContrainteOccasionnelle interdit S10 4 all
+ContrainteOccasionnelle interdit S10 5 all
+ContrainteOccasionnelle interdit S20 0 all
+ContrainteOccasionnelle interdit S20 1 all
+ContrainteOccasionnelle interdit S20 2 all
+ContrainteOccasionnelle interdit S20 3 all
+ContrainteOccasionnelle interdit S20 4 all
+ContrainteOccasionnelle interdit S20 5 all
+ContrainteOccasionnelle interdit S24 0 all
+ContrainteOccasionnelle interdit S24 1 all
+ContrainteOccasionnelle interdit S24 2 all
+ContrainteOccasionnelle interdit S24 3 all
+ContrainteOccasionnelle interdit S24 4 all
+ContrainteOccasionnelle interdit S24 5 all

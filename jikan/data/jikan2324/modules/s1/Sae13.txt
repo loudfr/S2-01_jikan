@@ -1,0 +1,134 @@
+Couleur 250 250 220
+Info "S1.03 Installation d'un pote pour le developpement"
+Cible Info1
+Alias SAE13
+Lot TDx
+  AliasLot asr
+  AffichageDuNom
+  Tache SDxsd
+    Matiere ASR1
+    Cout TD
+    Duree 4
+    Etudiant Info1x
+    Enseignant SDie
+    Salles 5 TD27 SC3 SCC TD26 TD13
+    Repetition 2
+  Tache SDxab
+    Matiere ASR2
+    Cout TD
+    Duree 4
+    Etudiant Info1x
+    Enseignant ABou
+    Salles 2 Mul IG
+  Tache SDxsn
+    Matiere C1
+    Cout TD
+    Duree 4
+    Etudiant Info1x
+    Enseignant SNdo
+    Salles 4 SCC TD13 TD27 SC3
+Lot TDy
+  AliasLot asr
+  AffichageDuNom
+  Tache SDysd
+    Matiere ASR1
+    Cout TD
+    Duree 4
+    Etudiant Info1y
+    Enseignant SDie
+    Salles 5 TD27 SC3 SCC TD26 TD13
+    Repetition 2
+  Tache SDyab
+    Matiere ASR2
+    Cout TD
+    Duree 4
+    Etudiant Info1y
+    Enseignant ABou
+    Salles 2 Mul IG
+  Tache SDysn
+    Matiere C1
+    Cout TD
+    Duree 4
+    Etudiant Info1y
+    Enseignant SNdo
+    Salles 4 SCC TD13 TD27 SC3
+Lot TPa
+  AliasLot a1
+  AffichageDuNom
+  Tache SPaac
+    Matiere A1
+    Cout TP
+    Duree 4
+    Etudiant Info1a
+    Enseignant ACas
+    Salles 5 IN IG Mul TR Res
+Lot TPb
+  AliasLot a1
+  AffichageDuNom
+  Tache SPbac
+    Matiere A1
+    Cout TP
+    Duree 4
+    Etudiant Info1b
+    Enseignant ACas
+    Salles 5 IN IG Mul TR Res
+Lot TPc
+  AliasLot a1
+  AffichageDuNom
+  Tache SPcac
+    Matiere A1
+    Cout TP
+    Duree 4
+    Etudiant Info1c
+    Enseignant ACas
+    Salles 5 IN IG Mul TR Res
+Lot TPd
+  AliasLot a1
+  AffichageDuNom
+  Tache SPdac
+    Matiere A1
+    Cout TP
+    Duree 4
+    Etudiant Info1d
+    Enseignant ACas
+    Salles 5 IN IG Mul TR Res
+Lot SAEa
+  AliasLot PRJ
+  AffichageDuNom
+  Numerotation
+  Tache SAEa
+    Matiere ASR2
+    Cout GR
+    Duree 4
+    Etudiant Info1a
+    Repetition 8
+Lot SAEb
+  AliasLot PRJ
+  AffichageDuNom
+  Numerotation
+  Tache SAEb
+    Matiere ASR2
+    Cout GR
+    Duree 4
+    Etudiant Info1b
+    Repetition 8
+Lot SAEc
+  AliasLot PRJ
+  AffichageDuNom
+  Numerotation
+  Tache SAEc
+    Matiere ASR2
+    Cout GR
+    Duree 4
+    Etudiant Info1c
+    Repetition 8
+Lot SAEd
+  AliasLot PRJ
+  AffichageDuNom
+  Numerotation
+  Tache SAEd
+    Matiere ASR2
+    Cout GR
+    Duree 4
+    Etudiant Info1d
+    Repetition 8

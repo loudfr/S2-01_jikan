@@ -1,0 +1,60 @@
+Couleur 250 60 80
+Info "R4.01 Architecture logicielle"
+Cible Info2
+Lot CM
+  AffichageDuNom
+  Numerotation
+  Tache CM
+    Cout CM
+    Duree 4
+    Etudiant Info2
+    Enseignant EMic
+    Salles 3 Amphi SC1 SConf
+    Repetition 5
+Lot TDx
+  AliasLot TD
+  AffichageDuNom
+  Numerotation
+  Tache TDx
+    Cout TD
+    Duree 4
+    Etudiant Info2x
+    Enseignant EMic
+    Salle TD13
+    Repetition 2
+  Tache TMx
+    Cout TD
+    Duree 4
+    Etudiant Info2x
+    Enseignant EMic
+    Salle IG
+Lot TDy
+  AliasLot TD
+  AffichageDuNom
+  Numerotation
+  Tache TDy
+    Cout TD
+    Duree 4
+    Etudiant Info2y
+    Enseignant EMic
+    Salle TD13
+    Repetition 2
+  Tache TMy
+    Cout TD
+    Duree 4
+    Etudiant Info2y
+    Enseignant EMic
+    Salle IG
+Lot TP
+  AliasLot TP
+  AffichageDuNom
+  Numerotation
+  Tache TP
+    Cout TP
+    Duree 8
+    Etudiant Info2A
+    Etudiant Info2C
+    Enseignant EMic
+    Salle IG
+    Salle Mul
+    Repetition 4

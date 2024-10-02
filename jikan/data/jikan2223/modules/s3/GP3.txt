@@ -1,0 +1,64 @@
+Couleur 230 120 160
+Info "R3.10 Management des systemes d'information"
+Cible Info2
+Lot CM
+  AffichageDuNom
+  Numerotation
+  Tache CM
+    Cout CM
+    Duree 4
+    Etudiant Info2
+    Enseignant BDav
+    Salles 3 SC3 Amphi SConf
+Lot Eval
+  AffichageDuNom
+  Tache Eval
+    Cout CM
+    Duree 4
+    Etudiant Info2
+    Enseignant BDav
+    Salle Amphi
+Lot TDx
+  AliasLot TD
+  AffichageDuNom
+  Numerotation
+  Tache TDx
+    Cout TD
+    Duree 4
+    Etudiant Info2x
+    Enseignant BDav
+    Salles 5 TD27 SC3 SCC TD26 TD13
+    Repetition 8
+Lot TDy
+  AliasLot TD
+  AffichageDuNom
+  Numerotation
+  Tache TDy
+    Cout TD
+    Duree 4
+    Etudiant Info2y
+    Enseignant BDav
+    Salles 5 TD27 SC3 SCC TD26 TD13
+    Repetition 8
+Lot TPa
+  AliasLot TP
+  AffichageDuNom
+  Numerotation
+  Tache TQa
+    Cout TP
+    Duree 4
+    Etudiant Info2A
+    Enseignant BDav
+    Salles 4 TD27 SC3 SCC TD13
+    Repetition 3
+Lot TPc
+  AliasLot TP
+  AffichageDuNom
+  Numerotation
+  Tache TQc
+    Cout TP
+    Duree 4
+    Etudiant Info2C
+    Enseignant BDav
+    Salles 4 TD27 SCC SC3 TD13
+    Repetition 3

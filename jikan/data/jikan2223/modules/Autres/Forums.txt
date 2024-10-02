@@ -1,0 +1,70 @@
+Couleur 100 220 70
+Info "Participations aux faux rhums"
+MasquageDuNom
+MasquageDesEns
+Lot Aurillac-Sion
+  AffichageDuNom
+  Tache Oriac1
+    Cout GR
+    Duree 8
+    Repetition 2
+  Tache Oriac2
+    Cout GR
+    Duree 8
+    Repetition 2
+  Tache Oriac3
+    Cout GR
+    Duree 8
+    Enseignant ACas
+Lot Deodasup
+  AffichageDuNom
+  Tache Deodasup
+    Cout GR
+    Duree 4
+    Enseignant BDav
+    Repetition 3
+Lot JU-Strasbourg
+  AffichageDuNom
+  Tache JU1
+    Cout GR
+    Duree 8
+    Enseignant ABou
+    Repetition 2
+  Tache JU2
+    Cout GR
+    Duree 8
+    Enseignant SDie
+    Repetition 2
+Lot SREF-Colmar
+  AffichageDuNom
+  Tache Colmar1
+    Cout GR
+    Duree 8
+    Enseignant SDie
+    Repetition 2
+  Tache Colmar2
+    Cout GR
+    Duree 8
+    Enseignant PEve
+Lot Mulhouse
+  AffichageDuNom
+  Tache Mulhouse
+    Cout GR
+    Duree 6
+    Enseignant ACas
+    Repetition 2
+Lot ClesReussite
+  AffichageDuNom
+  Tache ClesR1
+    Cout GR
+    Duree 6
+  Tache ClesR2
+    Cout GR
+    Duree 4
+Lot PoursuiteEtudes
+  AffichageDuNom
+  Tache Mulhouse
+    Cout GR
+    Duree 1
+    Etudiant Info2
+    Salle Amphi

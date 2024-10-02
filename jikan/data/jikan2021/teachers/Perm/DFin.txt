@@ -1,0 +1,6 @@
+Couleur 204 176 18
+Info "Denis Finck"
+
+ContrainteReguliere interdit 1 ooooooooooooooooxxxxoo
+ContrainteReguliere interdit 3 ooooooooooooooooxxxxoo
+ContrainteOccasionnelle interdit S41 1 all

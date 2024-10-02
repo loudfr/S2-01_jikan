@@ -1,0 +1,58 @@
+Couleur 120 210 190
+Info "Services reseaux"
+Cible Info2
+Lot TDx
+  AliasLot TD
+  AffichageDuNom
+  Numerotation
+  Tache TDx
+    Cout TD
+    Duree 4
+    Etudiant Info2x
+    Enseignant KAbi
+    Salles 4 TD27 SC3 TD13 SCC
+    Repetition 3
+Lot TDy
+  AliasLot TD
+  AffichageDuNom
+  Numerotation
+  Tache TDy
+    Cout TD
+    Duree 4
+    Etudiant Info2y
+    Enseignant KAbi
+    Salles 4 TD27 SC3 TD13 SCC
+    Repetition 3
+Lot TPa
+  AliasLot TP
+  AffichageDuNom
+  Numerotation
+  Tache TPa
+    Cout TP
+    Duree 8
+    Etudiant Info2A
+    Enseignant SDie
+    Salle Res
+    Repetition 2
+Lot TPb
+  AliasLot TP
+  AffichageDuNom
+  Numerotation
+  Tache TPb
+    Cout TP
+    Duree 8
+    Etudiant Info2B
+    Enseignant SDie
+    Salle Res
+    Repetition 2
+Lot TPc
+  AliasLot TP
+  AffichageDuNom
+  Numerotation
+  Tache TPc
+    Cout TP
+    Duree 8
+    Etudiant Info2C
+    Enseignant SDie
+    Salle Res
+    Repetition 2

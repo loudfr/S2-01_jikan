@@ -1,0 +1,5 @@
+Reunion Rentree S37 3 2 it14 ARic BDav PVil DFin PAde PEve DBol ACas OCas SDie ABou LMor EMed SCons
+Reunion ReunionDpt S3 3 1 it14 ARic BDav PVil DFin PAde PEve DBol ACas OCas SDie ABou LMor EMed SCons
+Reunion ReunionDpt S13 2 12 it14 ARic BDav PVil DFin PAde PEve DBol ACas OCas SDie ABou LMor EMed SCons
+Reunion ReunionDpt S25 1 1 it14 ARic BDav PVil DFin PAde PEve DBol ACas OCas SDie ABou LMor EMed SCons
+Reunion ReunionDpt2h2h S46 1 1 it13 ARic BDav PVil DFin PEve DBol ACas OCas SDie ABou LMor EMed SCons

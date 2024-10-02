@@ -1,0 +1,58 @@
+Couleur 170 180 110
+Info "R3.05 Programmation systeme"
+Cible Info2
+Lot TDx
+  AliasLot TD
+  AffichageDuNom
+  Numerotation
+  Tache TDx
+    Cout TD
+    Duree 4
+    Etudiant Info2x
+    Enseignant ABou
+    Salles 3 Mul IG TR
+    Repetition 5
+Lot TDy
+  AliasLot TD
+  AffichageDuNom
+  Numerotation
+  Tache TDy
+    Cout TD
+    Duree 4
+    Etudiant Info2y
+    Enseignant SDie
+    Salles 3 Mul IG TR
+    Repetition 5
+Lot TPa
+  AliasLot TP
+  AffichageDuNom
+  Numerotation
+  Tache TPa
+    Cout TP
+    Duree 4
+    Etudiant Info2A
+    Enseignant ABou
+    Salles 4 Mul IG TR Tim
+    Repetition 5
+Lot TPb
+  AliasLot TP
+  AffichageDuNom
+  Numerotation
+  Tache TPb
+    Cout TP
+    Duree 4
+    Etudiant Info2B
+    Enseignant ABou
+    Salles 4 Mul IG TR Tim
+    Repetition 5
+Lot TPc
+  AliasLot TP
+  AffichageDuNom
+  Numerotation
+  Tache TPc
+    Cout TP
+    Duree 4
+    Etudiant Info2C
+    Enseignant SDie
+    Salles 4 Mul IG TR Tim
+    Repetition 5

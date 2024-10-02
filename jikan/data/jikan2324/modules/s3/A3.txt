@@ -1,0 +1,58 @@
+Couleur 180 170 120
+Info "R3.12 Anglais"
+Cible Info2
+Lot TDx
+  AliasLot TD
+  AffichageDuNom
+  Numerotation
+  Tache TDx
+    Cout TD
+    Duree 4
+    Etudiant Info2x
+    Enseignant ACas
+    Salles 6 SC3 SCC TD13 TD27 TD26 Tim
+    Repetition 7
+Lot TDy
+  AliasLot TD
+  AffichageDuNom
+  Numerotation
+  Tache TDy
+    Cout TD
+    Duree 4
+    Etudiant Info2y
+    Enseignant ACas
+    Salles 6 SC3 SCC TD13 TD27 TD26 Tim
+    Repetition 7
+Lot TPa
+  AliasLot TP
+  AffichageDuNom
+  Numerotation
+  Tache TPa
+    Cout TP
+    Duree 4
+    Etudiant Info2A
+    Enseignant ACas
+    Salles 5 IG Mul TR IN Res
+    Repetition 4
+Lot TPb
+  AliasLot TP
+  AffichageDuNom
+  Numerotation
+  Tache TPb
+    Cout TP
+    Duree 4
+    Etudiant Info2B
+    Enseignant ACas
+    Salles 5 IG Mul TR IN Res
+    Repetition 4
+Lot TPc
+  AliasLot TP
+  AffichageDuNom
+  Numerotation
+  Tache TPc
+    Cout TP
+    Duree 4
+    Etudiant Info2C
+    Enseignant ACas
+    Salles 5 IG Mul TR IN Res
+    Repetition 4

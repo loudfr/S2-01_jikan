@@ -1,0 +1,20 @@
+Info "Modules du 3eme semestre du BUT INFO"
+Rentree
+WEB2
+DEV4
+DEV5
+QD2
+ASR5
+ASR6
+BD3
+M6
+M7
+GP3
+DR2
+A3
+C3
+PPP3
+TI
+DI
+TDsae3
+TPsae3

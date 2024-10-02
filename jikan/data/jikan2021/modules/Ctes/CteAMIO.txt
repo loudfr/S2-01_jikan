@@ -1,0 +1,58 @@
+Couleur 150 200 180
+Info "Contraintes liees a la LP AMIO"
+AffichageAdministratif
+MasquageDuNom
+NoTex
+Lot AMIO
+  AffichageDuNom
+  Tache AMIO-ABou
+    Cout GR
+    Duree 4
+    Enseignant ABou
+    Repetition 36
+  Tache AMIO-ARic
+    Cout GR
+    Duree 4
+    Enseignant ARic
+    Repetition 30
+  Tache AMIO-PGue
+    Cout GR
+    Duree 4
+    Enseignant PGue
+    Salle Tim
+    Repetition 20
+  Tache AMIO-MPri
+    Cout GR
+    Duree 4
+    Enseignant MPri
+    Repetition 20
+  Tache AMIO-BDav
+    Cout GR
+    Duree 4
+    Enseignant BDav
+    Repetition 24
+  Tache AMIO-OCas
+    Cout GR
+    Duree 4
+    Enseignant OCas
+    Repetition 34
+  Tache AMIO-DFin
+    Cout GR
+    Duree 4
+    Enseignant DFin
+    Repetition 20
+  Tache AMIO-Amphi
+    Cout GR
+    Duree 4
+    Salle Amphi
+    Repetition 20
+  Tache AMIO-Res
+    Cout GR
+    Duree 4
+    Salle Res
+    Repetition 30
+  Tache AMIO-Tim
+    Cout GR
+    Duree 4
+    Salle Tim
+    Repetition 60

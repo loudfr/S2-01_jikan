@@ -1,0 +1,142 @@
+Couleur 120 170 100
+Info "Bases de la conception orientee-objet"
+Lot CM
+  AffichageDuNom
+  Numerotation
+  Tache CM
+    Cout CM
+    Duree 4
+    Etudiant Info1
+    Enseignant OCas
+    Salle Amphi
+    Repetition 3
+Lot Eval
+  AffichageDuNom
+  Tache Eval
+    Cout CM
+    Duree 4
+    Etudiant Info1
+    Enseignant OCas
+    Salle Amphi
+Lot TDx
+  AliasLot TD
+  AffichageDuNom
+  Numerotation
+  Tache TDx
+    Cout TD
+    Duree 4
+    Etudiant Info1x
+    Enseignant OCas
+    Salles 4 TD27 SCC SC3 TD13
+    Repetition 2
+  Tache TMx
+    Cout TD
+    Duree 4
+    Etudiant Info1x
+    Enseignant OCas
+    Salles 3 IG Mul TR
+Lot TDy
+  AliasLot TD
+  AffichageDuNom
+  Numerotation
+  Tache TDy
+    Cout TD
+    Duree 4
+    Etudiant Info1y
+    Enseignant OCas
+    Salles 4 TD27 SC3 SCC TD13
+    Repetition 2
+  Tache TMy
+    Cout TD
+    Duree 4
+    Etudiant Info1y
+    Enseignant OCas
+    Salles 3 IG Mul TR
+Lot TPa
+  AliasLot TP
+  AffichageDuNom
+  Numerotation
+  Tache TPaoc
+    Cout TP
+    Duree 8
+    Etudiant Info1a
+    Enseignant OCas
+    Salles 5 Mul IG TR IN Res
+  Tache TPadb
+    Cout TP
+    Duree 8
+    Etudiant Info1a
+    Enseignant DBol
+    Salles 3 Mul IG TR
+  Tache TPapv
+    Cout TP
+    Duree 8
+    Etudiant Info1a
+    Enseignant PVil
+    Salles 3 Mul IG TR
+Lot TPb
+  AliasLot TP
+  AffichageDuNom
+  Numerotation
+  Tache TPboc
+    Cout TP
+    Duree 8
+    Etudiant Info1b
+    Enseignant OCas
+    Salles 5 Mul TR IG IN Res
+  Tache TPbdb
+    Cout TP
+    Duree 8
+    Etudiant Info1b
+    Enseignant DBol
+    Salles 4 Mul TR IG Res
+  Tache TPbpv
+    Cout TP
+    Duree 8
+    Etudiant Info1b
+    Enseignant PVil
+    Salles 3 Mul TR IG
+Lot TPc
+  AliasLot TP
+  AffichageDuNom
+  Numerotation
+  Tache TPcoc
+    Cout TP
+    Duree 8
+    Etudiant Info1c
+    Enseignant OCas
+    Salles 5 TR Mul IG IN Res
+  Tache TPcdb
+    Cout TP
+    Duree 8
+    Etudiant Info1c
+    Enseignant DBol
+    Salles 4 TR Mul IG IN
+  Tache TPcpv
+    Cout TP
+    Duree 8
+    Etudiant Info1c
+    Enseignant PVil
+    Salles 3 TR Mul IG
+Lot TPd
+  AliasLot TP
+  AffichageDuNom
+  Numerotation
+  Tache TPdoc
+    Cout TP
+    Duree 8
+    Etudiant Info1d
+    Enseignant OCas
+    Salles 5 TR Mul IG IN Res
+  Tache TPddb
+    Cout TP
+    Duree 8
+    Etudiant Info1d
+    Enseignant DBol
+    Salles 3 TR Mul IG
+  Tache TPdpv
+    Cout TP
+    Duree 8
+    Etudiant Info1d
+    Enseignant PVil
+    Salles 3 TR Mul IG

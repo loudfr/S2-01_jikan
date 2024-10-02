@@ -1,0 +1,69 @@
+Couleur 200 80 160
+Info "R3.04 Qualite de developpement"
+Cible Info2
+Lot CM
+  AffichageDuNom
+  Numerotation
+  Tache CM
+    Cout CM
+    Duree 4
+    Etudiant Info2
+    Enseignant DBol
+    Salles 2 SC3 Amphi
+    Repetition 5
+Lot TDx
+  AliasLot TD
+  AffichageDuNom
+  Numerotation
+  Tache TDx
+    Cout TD
+    Duree 4
+    Etudiant Info2x
+    Enseignant DBol
+    Salles 5 TD27 SCC SC3 TD13 TD26
+    Repetition 2
+  Tache TMx
+    Cout TD
+    Duree 4
+    Etudiant Info2x
+    Enseignant DBol
+    Salles 2 IG Mul
+Lot TDy
+  AliasLot TD
+  AffichageDuNom
+  Numerotation
+  Tache TDy
+    Cout TD
+    Duree 4
+    Etudiant Info2y
+    Enseignant DBol
+    Salles 5 TD27 SCC SC3 TD13 TD26
+    Repetition 2
+  Tache TMy
+    Cout TD
+    Duree 4
+    Etudiant Info2y
+    Enseignant DBol
+    Salles 2 IG Mul
+Lot TPa
+  AliasLot TP
+  AffichageDuNom
+  Numerotation
+  Tache TPa
+    Cout TP
+    Duree 8
+    Etudiant Info2A
+    Enseignant DBol
+    Salles 4 IG TR Mul IN
+    Repetition 4
+Lot TPc
+  AliasLot TP
+  AffichageDuNom
+  Numerotation
+  Tache TPc
+    Cout TP
+    Duree 8
+    Etudiant Info2C
+    Enseignant DBol
+    Salles 4 IG TR Mul IN
+    Repetition 4

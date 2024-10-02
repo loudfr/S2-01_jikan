@@ -1,0 +1,16 @@
+Soutenance Sout S25 3 1 it7 Info2 SDie ABou FAbd PVil BDav Amphi
+TDdev6 SDdev6 S23 1 5 it3 Info2 EMic SC1
+TDdev7x SDdev7x S24 4 1 it3 Info2x EMed Tim
+TDdev7y SDdev7y S24 4 5 it3 Info2y EMed Tim
+TDasr8x SDasr8x S19 2 5 it3 Info2x ABou SC3
+TDasr8y SDasr8y S19 2 1 it3 Info2y ABou SC3
+TDbd4x SDbd4x S24 0 12 it3 Info2x SDie IG
+TDbd4y SDbd4y S24 0 16 it3 Info2y SDie IG
+TDm10x SDm10x S5 3 5 it3 Info2x PAde SC3
+TDm10y SDm10y S5 3 1 it3 Info2y PAde SC3
+TDgp4x SDgp4x S6 3 5 it3 Info2x BDav SC3
+TDgp4y SDgp4y S6 3 1 it3 Info2y BDav SC3
+TDa4x SDa4x S24 2 5 it3 Info2x ACas SC3
+TDa4y SDa4y S24 2 1 it3 Info2y ACas SC3
+TDc4x SDc4x S24 3 5 it3 Info2x SNdo SCC
+TDc4y SDc4y S24 3 1 it3 Info2y SNdo SCC

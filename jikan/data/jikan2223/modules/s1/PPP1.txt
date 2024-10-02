@@ -1,0 +1,61 @@
+Couleur 160 150 170
+Info "R1.12 PPP"
+Cible Info1
+Lot TDx
+  AliasLot TD
+  AffichageDuNom
+  Numerotation
+  Tache TDx
+    Cout TD
+    Duree 4
+    Etudiant Info1x
+    Enseignant SNdo
+    Salles 4 SCC TD27 TD13 SC3
+    Repetition 8
+Lot TDy
+  AliasLot TD
+  AffichageDuNom
+  Numerotation
+  Tache TDy
+    Cout TD
+    Duree 4
+    Etudiant Info1y
+    Enseignant SNdo
+    Salles 4 SCC TD27 TD13 SC3
+    Repetition 8
+Lot TPa
+  AliasLot TP
+  AffichageDuNom
+  Tache TPa
+    Cout TP
+    Duree 4
+    Etudiant Info1a
+    Enseignant SNdo
+    Salles 9 SCC SC3 TD13 TD27 Res IN TR Mul IG
+Lot TPb
+  AliasLot TP
+  AffichageDuNom
+  Tache TPb
+    Cout TP
+    Duree 4
+    Etudiant Info1b
+    Enseignant SNdo
+    Salles 9 SCC SC3 TD13 TD27 Res IN TR Mul IG
+Lot TPc
+  AliasLot TP
+  AffichageDuNom
+  Tache TPc
+    Cout TP
+    Duree 4
+    Etudiant Info1c
+    Enseignant SNdo
+    Salles 9 SCC SC3 TD13 TD27 Res IN TR Mul IG
+Lot TPd
+  AliasLot TP
+  AffichageDuNom
+  Tache TPd
+    Cout TP
+    Duree 4
+    Etudiant Info1d
+    Enseignant SNdo
+    Salles 9 SCC SC3 TD13 TD27 Res IN TR Mul IG

@@ -1,0 +1,52 @@
+Couleur 160 180 220
+Info "R4.A12 Au tomate et langage"
+Cible Info2
+Lot TDx
+  AliasLot TD
+  AffichageDuNom
+  Numerotation
+  Tache TDx
+    Cout TP
+    Duree 4
+    Etudiant Info2x
+    Enseignant PAde
+    Salles 4 SC3 SCC TD13 TD27
+    Repetition 4
+Lot TDy
+  AliasLot TD
+  AffichageDuNom
+  Numerotation
+  Tache TDy
+    Cout TP
+    Duree 4
+    Etudiant Info2y
+    Enseignant PAde
+    Salles 4 SC3 SCC TD13 TD27
+    Repetition 4
+Lot TPa
+  AliasLot TP
+  AffichageDuNom
+  Tache TQa
+    Cout TP
+    Duree 4
+    Etudiant Info2A
+    Enseignant PAde
+    Salles 4 TD13 TD27 SC3 SCC
+Lot TPb
+  AliasLot TP
+  AffichageDuNom
+  Tache TQb
+    Cout TP
+    Duree 4
+    Etudiant Info2B
+    Enseignant PAde
+    Salles 4 TD13 TD27 SC3 SCC
+Lot TPc
+  AliasLot TP
+  AffichageDuNom
+  Tache TQc
+    Cout TP
+    Duree 4
+    Etudiant Info2C
+    Enseignant PAde
+    Salles 4 TD13 TD27 SC3 SCC

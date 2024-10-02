@@ -1,0 +1,93 @@
+Couleur 240 140 90
+Info "S1.02 Comparaison d'approches algorithmiques"
+Cible Info1
+Lot TDx
+  AliasLot TD
+  AffichageDuNom
+  Tache SDxek
+    Cout TD
+    Duree 4
+    Etudiant Info1x
+    Enseignant EKer
+    Salles 5 TD27 SC3 SCC TD26 TD13
+Lot TDy
+  AliasLot TD
+  AffichageDuNom
+  Tache SDyek
+    Cout TD
+    Duree 4
+    Etudiant Info1y
+    Enseignant EKer
+    Salles 5 SC3 TD27 SCC TD26 TD13
+Lot TPa
+  AliasLot TP
+  AffichageDuNom
+  Tache SPaek
+    Cout TP
+    Duree 4
+    Etudiant Info1a
+    Enseignant EKer
+    Salles 4 Mul TR IG Res
+Lot TPb
+  AliasLot TP
+  AffichageDuNom
+  Tache SPbek
+    Cout TP
+    Duree 4
+    Etudiant Info1b
+    Enseignant EKer
+    Salles 4 Mul TR IG Res
+Lot TPc
+  AliasLot TP
+  AffichageDuNom
+  Tache SPcek
+    Cout TP
+    Duree 4
+    Etudiant Info1c
+    Enseignant EKer
+    Salles 4 Mul TR IG Res
+Lot TPd
+  AliasLot TP
+  AffichageDuNom
+  Tache SPdek
+    Cout TP
+    Duree 4
+    Etudiant Info1d
+    Enseignant EKer
+    Salles 4 Mul TR IG Res
+Lot SAEa
+  AliasLot PRJ
+  AffichageDuNom
+  Numerotation
+  Tache SAEa
+    Cout GR
+    Duree 4
+    Etudiant Info1a
+    Repetition 6
+Lot SAEb
+  AliasLot PRJ
+  AffichageDuNom
+  Numerotation
+  Tache SAEb
+    Cout GR
+    Duree 4
+    Etudiant Info1b
+    Repetition 6
+Lot SAEc
+  AliasLot PRJ
+  AffichageDuNom
+  Numerotation
+  Tache SAEc
+    Cout GR
+    Duree 4
+    Etudiant Info1c
+    Repetition 6
+Lot SAEd
+  AliasLot PRJ
+  AffichageDuNom
+  Numerotation
+  Tache SAEd
+    Cout GR
+    Duree 4
+    Etudiant Info1d
+    Repetition 6

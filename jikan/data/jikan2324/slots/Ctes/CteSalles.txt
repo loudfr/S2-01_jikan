@@ -1,0 +1,6 @@
+ctesSalles Amphi S6 1 1 it1 Amphi
+ctesSalles Amphi S6 1 5 it1 Amphi
+ctesSalles Amphi S7 1 1 it1 Amphi
+ctesSalles Amphi S7 1 5 it1 Amphi
+ctesSalles Amphi S8 1 1 it1 Amphi
+ctesSalles Amphi S20 1 5 it1 Amphi

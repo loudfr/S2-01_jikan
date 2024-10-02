@@ -1,0 +1,140 @@
+Couleur 250 60 80
+Info "Methodologie de la production d'applications"
+Lot CM
+  AffichageDuNom
+  Numerotation
+  Tache CMe
+    Cout CM
+    Duree 4
+    Etudiant Info2
+    Enseignant BDav
+    Salles 2 SC3 Amphi
+    Repetition 2
+  Tache CMi
+    Cout CM
+    Duree 4
+    Etudiant Info2
+    Enseignant KBet
+    Salles 2 SC3 Amphi
+Lot Eval
+  AffichageDuNom
+  Tache Evale
+    Cout CM
+    Duree 4
+    Etudiant Info2
+    Enseignant BDav
+    Salle Amphi
+  Tache Evali
+    Cout CM
+    Duree 4
+    Etudiant Info2
+    Enseignant KBet
+    Salle Amphi
+Lot TDx
+  AliasLot TD
+  AffichageDuNom
+  Numerotation
+  Tache TDex
+    Cout TD
+    Duree 4
+    Etudiant Info2x
+    Enseignant BDav
+    Salles 5 TD27 SC3 TD13 SCC TD26
+    Repetition 4
+  Tache TDix
+    Cout TD
+    Duree 4
+    Etudiant Info2x
+    Enseignant KBet
+    Salles 6 TR Mul IG TD27 SC3 TD13
+    Repetition 4
+Lot TDy
+  AliasLot TD
+  AffichageDuNom
+  Numerotation
+  Tache TDey
+    Cout TD
+    Duree 4
+    Etudiant Info2y
+    Enseignant BDav
+    Salles 5 TD27 SC3 TD13 SCC TD26
+    Repetition 4
+  Tache TDiy
+    Cout TD
+    Duree 4
+    Etudiant Info2y
+    Enseignant KBet
+    Salles 7 TR Mul IG TD27 SC3 TD13 IN
+    Repetition 4
+Lot TPa
+  AliasLot TP
+  AffichageDuNom
+  Numerotation
+  Tache TQea
+    Cout TP
+    Duree 4
+    Etudiant Info2A
+    Enseignant BDav
+    Salles 4 TD27 SC3 TD13 SCC
+  Tache TPea
+    Cout TP
+    Duree 4
+    Etudiant Info2A
+    Enseignant BDav
+    Salles 4 Res TR IG Mul
+    Repetition 3
+  Tache TPia
+    Cout TP
+    Duree 8
+    Etudiant Info2A
+    Enseignant KBet
+    Salles 4 IG Mul TR Res
+    Repetition 3
+Lot TPb
+  AliasLot TP
+  AffichageDuNom
+  Numerotation
+  Tache TQeb
+    Cout TP
+    Duree 4
+    Etudiant Info2B
+    Enseignant BDav
+    Salles 4 TD27 SC3 TD13 SCC
+  Tache TPeb
+    Cout TP
+    Duree 4
+    Etudiant Info2B
+    Enseignant BDav
+    Salles 4 Res TR IG Mul
+    Repetition 3
+  Tache TPib
+    Cout TP
+    Duree 8
+    Etudiant Info2B
+    Enseignant KBet
+    Salles 4 IG Mul TR Res
+    Repetition 3
+Lot TPc
+  AliasLot TP
+  AffichageDuNom
+  Numerotation
+  Tache TQec
+    Cout TP
+    Duree 4
+    Etudiant Info2C
+    Enseignant BDav
+    Salles 4 TD27 SC3 TD13 SCC
+  Tache TPec
+    Cout TP
+    Duree 4
+    Etudiant Info2C
+    Enseignant BDav
+    Salles 4 Res TR IG Mul
+    Repetition 3
+  Tache TPic
+    Cout TP
+    Duree 8
+    Etudiant Info2C
+    Enseignant KBet
+    Salles 4 IG Mul TR Res
+    Repetition 3

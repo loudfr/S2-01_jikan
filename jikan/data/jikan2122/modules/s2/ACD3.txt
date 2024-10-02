@@ -1,0 +1,152 @@
+Couleur 220 70 150
+Info "Introduction aux interfaces homme-machine"
+Lot CM
+  AffichageDuNom
+  Numerotation
+  Tache CMui
+    Cout CM
+    Duree 4
+    Etudiant Info1
+    Enseignant PVil
+    Salles 3 Amphi SConf SC1
+    Repetition 3
+  Tache CMerg
+    Cout CM
+    Duree 4
+    Etudiant Info1
+    Enseignant PEve
+    Salles 2 Amphi SC1
+    Repetition 2
+  Tache CMjm
+    Cout CM
+    Duree 4
+    Etudiant Info1
+    Enseignant JMou
+    Salles 2 Amphi SC3
+Lot Eval
+  AffichageDuNom
+  Tache Eval
+    Cout CM
+    Duree 4
+    Etudiant Info1
+    Enseignant PVil
+    Enseignant PEve
+    Salle Amphi
+Lot TDx
+  AliasLot TD
+  AffichageDuNom
+  Numerotation
+  Tache TDx
+    Cout TD
+    Duree 4
+    Etudiant Info1x
+    Enseignant PVil
+    Salles 4 SCC SC3 TD27 TD13
+    Repetition 4
+Lot TDy
+  AliasLot TD
+  AffichageDuNom
+  Numerotation
+  Tache TDuiy
+    Cout TD
+    Duree 4
+    Etudiant Info1y
+    Enseignant PVil
+    Salles 4 SCC SC3 TD27 TD13
+    Repetition 4
+Lot TPa
+  AliasLot TP
+  AffichageDuNom
+  Numerotation
+  Tache TPuia
+    Cout TP
+    Duree 4
+    Etudiant Info1a
+    Enseignant PVil
+    Salles 5 TR IG Mul Res IN
+    Repetition 3
+  Tache TPuiaEM
+    Cout TP
+    Duree 4
+    Etudiant Info1a
+    Enseignant EMic
+    Salles 4 IG Mul TR Res
+  Tache TPera
+    Cout TP
+    Duree 4
+    Etudiant Info1a
+    Enseignant JMou
+    Salles 4 SC3 SCC TD27 TD13
+    Repetition 4
+Lot TPb
+  AliasLot TP
+  AffichageDuNom
+  Numerotation
+  Tache TPuib
+    Cout TP
+    Duree 4
+    Etudiant Info1b
+    Enseignant EMic
+    Salles 4 IG Mul TR Res
+    Repetition 3
+  Tache TPuibEM
+    Cout TP
+    Duree 4
+    Etudiant Info1b
+    Enseignant EMic
+    Salles 4 IG Mul TR Res
+  Tache TPerb
+    Cout TP
+    Duree 4
+    Etudiant Info1b
+    Enseignant JMou
+    Salles 4 SC3 SCC TD27 TD13
+    Repetition 4
+Lot TPc
+  AliasLot TP
+  AffichageDuNom
+  Numerotation
+  Tache TPuic
+    Cout TP
+    Duree 4
+    Etudiant Info1c
+    Enseignant EMic
+    Salles 4 IG Mul TR Res
+    Repetition 3
+  Tache TPuicEM
+    Cout TP
+    Duree 4
+    Etudiant Info1c
+    Enseignant EMic
+    Salles 4 IG Mul TR Res
+  Tache TPerc
+    Cout TP
+    Duree 4
+    Etudiant Info1c
+    Enseignant JMou
+    Salles 4 SC3 SCC TD27 TD13
+    Repetition 4
+Lot TPd
+  AliasLot TP
+  AffichageDuNom
+  Numerotation
+  Tache TPuid
+    Cout TP
+    Duree 4
+    Etudiant Info1d
+    Enseignant PVil
+    Salles 5 TR IG Mul Res IN
+    Repetition 3
+  Tache TPuidEM
+    Cout TP
+    Duree 4
+    Etudiant Info1d
+    Enseignant EMic
+    Salles 4 IG Mul TR Res
+  Tache TPerd
+    Cout TP
+    Duree 4
+    Etudiant Info1d
+    Enseignant JMou
+    Salles 4 SC3 SCC TD27 TD13
+    Repetition 4

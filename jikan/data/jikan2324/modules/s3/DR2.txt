@@ -1,0 +1,64 @@
+Couleur 150 170 220
+Info "R3.11 Droit des contrats et du numerique"
+Cible Info2
+Lot CG
+  Tache CG
+    Cout CM
+    Duree 4
+    Etudiant Info2
+    Enseignant PVil
+    Salles 4 SC3 Amphi SConf SC1
+Lot CM
+  AffichageDuNom
+  Numerotation
+  Tache CM
+    Cout CM
+    Duree 4
+    Etudiant Info2
+    Enseignant MPri
+    Salles 2 SC3 Amphi
+    Repetition 3
+Lot Eval
+  AffichageDuNom
+  Tache Eval
+    Cout CM
+    Duree 4
+    Etudiant Info2
+    Enseignant MPri
+    Salle Amphi
+Lot TDx
+  AliasLot TD
+  AffichageDuNom
+  Numerotation
+  Tache TDxmp
+    Cout TD
+    Duree 4
+    Etudiant Info2x
+    Enseignant MPri
+    Salles 5 TD27 SC3 SCC TD26 TD13
+    Repetition 4
+  Tache TDxbd
+    Cout TD
+    Duree 4
+    Etudiant Info2x
+    Enseignant BDav
+    Salles 5 TD27 SC3 SCC TD26 TD13
+    Repetition 3
+Lot TDy
+  AliasLot TD
+  AffichageDuNom
+  Numerotation
+  Tache TDymp
+    Cout TD
+    Duree 4
+    Etudiant Info2y
+    Enseignant MPri
+    Salles 5 TD27 SC3 SCC TD26 TD13
+    Repetition 4
+  Tache TDybd
+    Cout TD
+    Duree 4
+    Etudiant Info2y
+    Enseignant BDav
+    Salles 5 TD27 SC3 SCC TD26 TD13
+    Repetition 3

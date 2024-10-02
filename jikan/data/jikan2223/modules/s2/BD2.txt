@@ -1,0 +1,69 @@
+Couleur 200 120 40
+Info "R2.06 Exploitation d'une base de donnees"
+Cible Info1
+Lot TDx
+  AliasLot TD
+  AffichageDuNom
+  Numerotation
+  Tache TDx
+    Cout TD
+    Duree 4
+    Etudiant Info1x
+    Enseignant FAbd
+    Salles 4 IG Mul TR Res
+    Repetition 3
+Lot TDy
+  AliasLot TD
+  AffichageDuNom
+  Numerotation
+  Tache TDy
+    Cout TD
+    Duree 4
+    Etudiant Info1y
+    Enseignant FAbd
+    Salles 4 IG Mul TR Res
+    Repetition 3
+Lot TPa
+  AliasLot TP
+  AffichageDuNom
+  Numerotation
+  Tache TPa
+    Cout TP
+    Duree 4
+    Etudiant Info1a
+    Enseignant FAbd
+    Salles 4 Mul TR IG Res
+    Repetition 13
+Lot TPb
+  AliasLot TP
+  AffichageDuNom
+  Numerotation
+  Tache TPb
+    Cout TP
+    Duree 4
+    Etudiant Info1b
+    Enseignant FAbd
+    Salles 4 Mul TR IG Res
+    Repetition 13
+Lot TPc
+  AliasLot TP
+  AffichageDuNom
+  Numerotation
+  Tache TPc
+    Cout TP
+    Duree 4
+    Etudiant Info1c
+    Enseignant FAbd
+    Salles 4 Mul TR IG Res
+    Repetition 13
+Lot TPd
+  AliasLot TP
+  AffichageDuNom
+  Numerotation
+  Tache TPd
+    Cout TP
+    Duree 4
+    Etudiant Info1d
+    Enseignant FAbd
+    Salles 4 Mul TR IG Res
+    Repetition 13

@@ -1,0 +1,11 @@
+Couleur 140 220 170
+Info "Pense-bete"
+MasquageDuNom
+NoTex
+Lot SangDong
+  AffichageDuNom
+  Tache DonSang
+    Cout GR
+    Duree 1
+    Etudiant Info1
+    Etudiant Info2

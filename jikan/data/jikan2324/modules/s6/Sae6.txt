@@ -1,0 +1,22 @@
+Couleur 250 250 220
+Info "PRJ de S6.01 Evolution d'une application existante"
+Cible Info3
+Alias SAE6
+Lot SAEalt
+  AliasLot PRJ-tous
+  AffichageDuNom
+  Numerotation
+  Tache SAEalt
+    Cout GR
+    Duree 4
+    Etudiant Info3
+    Repetition 10
+Lot SAEnoalt
+  AliasLot PRJ
+  AffichageDuNom
+  Numerotation
+  Tache SAEdist4
+    Cout GR
+    Duree 8
+    Etudiant Info3
+    Repetition 6

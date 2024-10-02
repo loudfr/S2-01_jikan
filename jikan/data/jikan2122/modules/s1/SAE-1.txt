@@ -1,0 +1,93 @@
+Couleur 200 120 80
+Info "Implementation d'un petit besoin client"
+Cible Info1
+Lot TDx
+  AliasLot TD
+  AffichageDuNom
+  Tache SDxab
+    Cout TD
+    Duree 4
+    Etudiant Info1x
+    Enseignant ABou
+    Salles 5 TD27 SC3 SCC TD26 TD13
+Lot TDy
+  AliasLot TD
+  AffichageDuNom
+  Tache SDyab
+    Cout TD
+    Duree 4
+    Etudiant Info1y
+    Enseignant ABou
+    Salles 5 SC3 TD27 SCC TD26 TD13
+Lot TPa
+  AliasLot TP
+  AffichageDuNom
+  Tache SPaab
+    Cout TP
+    Duree 4
+    Etudiant Info1a
+    Enseignant ABou
+    Salles 4 Mul TR IG Res
+Lot TPb
+  AliasLot TP
+  AffichageDuNom
+  Tache SPbab
+    Cout TP
+    Duree 4
+    Etudiant Info1b
+    Enseignant ABou
+    Salles 4 Mul TR IG Res
+Lot TPc
+  AliasLot TP
+  AffichageDuNom
+  Tache SPcab
+    Cout TP
+    Duree 4
+    Etudiant Info1c
+    Enseignant ABou
+    Salles 4 Mul TR IG Res
+Lot TPd
+  AliasLot TP
+  AffichageDuNom
+  Tache SPdab
+    Cout TP
+    Duree 4
+    Etudiant Info1d
+    Enseignant ABou
+    Salles 4 Mul TR IG Res
+Lot SAEa
+  AliasLot PRJ
+  AffichageDuNom
+  Numerotation
+  Tache SAEa
+    Cout GR
+    Duree 4
+    Etudiant Info1a
+    Repetition 6
+Lot SAEb
+  AliasLot PRJ
+  AffichageDuNom
+  Numerotation
+  Tache SAEb
+    Cout GR
+    Duree 4
+    Etudiant Info1b
+    Repetition 6
+Lot SAEc
+  AliasLot PRJ
+  AffichageDuNom
+  Numerotation
+  Tache SAEc
+    Cout GR
+    Duree 4
+    Etudiant Info1c
+    Repetition 6
+Lot SAEd
+  AliasLot PRJ
+  AffichageDuNom
+  Numerotation
+  Tache SAEd
+    Cout GR
+    Duree 4
+    Etudiant Info1d
+    Repetition 6

@@ -1,0 +1,58 @@
+Couleur 200 120 110
+Info "Modelisations mathematiques"
+Cible Info2
+Lot TDx
+  AliasLot TD
+  AffichageDuNom
+  Numerotation
+  Tache TDx
+    Cout TD
+    Duree 4
+    Etudiant Info2x
+    Enseignant PAde
+    Salles 6 Alab SC3 SCC TD13 TD27 TD26
+    Repetition 8
+Lot TDy
+  AliasLot TD
+  AffichageDuNom
+  Numerotation
+  Tache TDy
+    Cout TD
+    Duree 4
+    Etudiant Info2y
+    Enseignant PAde
+    Salles 6 Alab SC3 SCC TD13 TD27 TD26
+    Repetition 8
+Lot TPa
+  AliasLot TP
+  AffichageDuNom
+  Numerotation
+  Tache TPa
+    Cout TP
+    Duree 4
+    Etudiant Info2A
+    Enseignant PAde
+    Salles 4 TR IG Mul Res
+    Repetition 7
+Lot TPb
+  AliasLot TP
+  AffichageDuNom
+  Numerotation
+  Tache TPb
+    Cout TP
+    Duree 4
+    Etudiant Info2B
+    Enseignant PAde
+    Salles 4 TR IG Mul Res
+    Repetition 7
+Lot TPc
+  AliasLot TP
+  AffichageDuNom
+  Numerotation
+  Tache TPc
+    Cout TP
+    Duree 4
+    Etudiant Info2C
+    Enseignant PAde
+    Salles 4 TR IG Mul Res
+    Repetition 7

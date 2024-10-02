@@ -1,0 +1,36 @@
+Couleur 100 220 70
+Info "Conseils de l'institut"
+MasquageDesEns
+Lot ConsIUT
+  Tache CI
+    Cout GR
+    Duree 4
+    Enseignant OCas
+    Enseignant SDie
+    Enseignant PAde
+    Enseignant PEve
+    Enseignant PVil
+    Enseignant FAbd
+    Salle SCons
+    Repetition 4
+Lot Cchoix
+  Tache Ccx
+    Cout GR
+    Duree 4
+    Enseignant OCas
+    Enseignant PAde
+    Enseignant PEve
+    Enseignant FAbd
+    Enseignant SDie
+    Enseignant PVil
+    Salle SCons
+    Repetition 6
+Lot Cdd
+  Tache Cdd
+    Cout GR
+    Duree 4
+    Enseignant OCas
+    Enseignant PAde
+    Enseignant ABic
+    Salle SCons
+    Repetition 24

@@ -1,0 +1,189 @@
+Couleur 78 178 162
+Info "Conception de documents et d'interfaces numeriques"
+Lot CM
+  AffichageDuNom
+  Tache Pres.
+    Cout CM
+    Duree 2
+    Etudiant Info1
+    Enseignant PAde
+    Salle Amphi
+Lot EvalC2i
+  AliasLot EvalC2i
+  AffichageDuNom
+  Tache ExamC2i
+    Cout CM
+    Duree 2
+    Etudiant Info1
+    Enseignant BDev
+    Salles 2 Amphi SConf
+Lot TDx
+  AliasLot TD
+  AffichageDuNom
+  Numerotation
+  Tache TDxAR
+    Cout TD
+    Duree 4
+    Etudiant Info1x
+    Enseignant ARic
+    Salles 3 SCC Alab SC3
+  Tache TMx
+    Cout TD
+    Duree 4
+    Etudiant Info1x
+    Enseignant PVil
+    Salles 2 IG Mul
+    Repetition 3
+Lot TDy
+  AliasLot TD
+  AffichageDuNom
+  Numerotation
+  Tache TDyAR
+    Cout TD
+    Duree 4
+    Etudiant Info1y
+    Enseignant ARic
+    Salles 3 SCC Alab SC3
+  Tache TMy
+    Cout TD
+    Duree 4
+    Etudiant Info1y
+    Enseignant PVil
+    Salles 2 IG Mul
+    Repetition 3
+Lot TPa
+  AliasLot TP
+  AffichageDuNom
+  Numerotation
+  Tache TPa
+    Cout TP
+    Duree 4
+    Etudiant Info1a
+    Enseignant PVil
+    Salles 4 IG TR Mul Res
+    Repetition 4
+  Tache TPaAR
+    Cout TP
+    Duree 4
+    Etudiant Info1a
+    Enseignant ARic
+    Salles 4 Res TR Mul IG
+Lot TPb
+  AliasLot TP
+  AffichageDuNom
+  Numerotation
+  Tache TPb
+    Cout TP
+    Duree 4
+    Etudiant Info1b
+    Enseignant PVil
+    Salles 4 IG TR Mul Res
+    Repetition 4
+  Tache TPbAR
+    Cout TP
+    Duree 4
+    Etudiant Info1b
+    Enseignant ARic
+    Salles 4 Res TR Mul IG
+Lot TPc
+  AliasLot TP
+  AffichageDuNom
+  Numerotation
+  Tache TPc
+    Cout TP
+    Duree 4
+    Etudiant Info1c
+    Enseignant PVil
+    Salles 4 IG TR Mul Res
+    Repetition 4
+  Tache TPcAR
+    Cout TP
+    Duree 4
+    Etudiant Info1c
+    Enseignant ARic
+    Salles 4 Res TR Mul IG
+Lot TPd
+  AliasLot TP
+  AffichageDuNom
+  Numerotation
+  Tache TPd
+    Cout TP
+    Duree 4
+    Etudiant Info1d
+    Enseignant PVil
+    Salles 4 IG TR Mul Res
+    Repetition 4
+  Tache TPdAR
+    Cout TP
+    Duree 4
+    Etudiant Info1d
+    Enseignant ARic
+    Salles 4 Res TR Mul IG
+Lot C2ia
+  AliasLot C2i
+  AffichageDuNom
+  Numerotation
+  Tache C2ia
+    Cout TP
+    Duree 4
+    Etudiant Info1a
+    Enseignant BDev
+    Salles 5 IG Mul TR Res Ada
+    Repetition 9
+  Tache Evala
+    Cout TP
+    Duree 4
+    Etudiant Info1a
+    Enseignant BDev
+    Salles 3 IG Mul TR
+Lot C2ib
+  AliasLot C2i
+  AffichageDuNom
+  Numerotation
+  Tache C2ib
+    Cout TP
+    Duree 4
+    Etudiant Info1b
+    Enseignant BDev
+    Salles 5 IG Mul TR Res Ada
+    Repetition 9
+  Tache Evalb
+    Cout TP
+    Duree 4
+    Etudiant Info1b
+    Enseignant BDev
+    Salles 3 Mul IG TR
+Lot C2ic
+  AliasLot C2i
+  AffichageDuNom
+  Numerotation
+  Tache C2ic
+    Cout TP
+    Duree 4
+    Etudiant Info1c
+    Enseignant BDev
+    Salles 5 IG Mul TR Res Ada
+    Repetition 9
+  Tache Evalc
+    Cout TP
+    Duree 4
+    Etudiant Info1c
+    Enseignant BDev
+    Salles 3 IG Mul TR
+Lot C2id
+  AliasLot C2i
+  AffichageDuNom
+  Numerotation
+  Tache C2id
+    Cout TP
+    Duree 4
+    Etudiant Info1d
+    Enseignant BDev
+    Salles 5 IG Mul TR Res Ada
+    Repetition 9
+  Tache Evald
+    Cout TP
+    Duree 4
+    Etudiant Info1d
+    Enseignant BDev
+    Salles 3 IG Mul TR

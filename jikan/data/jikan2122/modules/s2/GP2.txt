@@ -1,0 +1,118 @@
+Couleur 130 170 160
+Info "Gestion de projet et des organisations"
+Lot CM
+  AffichageDuNom
+  Numerotation
+  Tache CMbd
+    Cout CM
+    Duree 4
+    Etudiant Info1
+    Enseignant BDav
+    Salle Amphi
+  Tache CMac
+    Cout CM
+    Duree 4
+    Etudiant Info1
+    Enseignant ACar
+    Salle Amphi
+    Repetition 2
+Lot Eval
+  AffichageDuNom
+  Tache Eval
+    Cout CM
+    Duree 4
+    Etudiant Info1
+    Enseignant BDav
+    Salle Amphi
+Lot TDx
+  AliasLot TD
+  AffichageDuNom
+  Numerotation
+  Tache TDbdx
+    Cout TD
+    Duree 4
+    Etudiant Info1x
+    Enseignant BDav
+    Salles 4 SCC TD27 SC3 TD13
+    Repetition 5
+  Tache TDacx
+    Cout TD
+    Duree 4
+    Etudiant Info1x
+    Enseignant ACar
+    Salles 4 SCC TD27 SC3 TD13
+    Repetition 3
+  Tache TMacx
+    Cout TD
+    Duree 4
+    Etudiant Info1x
+    Enseignant ACar
+    Salles 3 IG TR Mul
+Lot TDy
+  AliasLot TD
+  AffichageDuNom
+  Numerotation
+  Tache TDbdy
+    Cout TD
+    Duree 4
+    Etudiant Info1y
+    Enseignant BDav
+    Salles 4 SCC TD27 SC3 TD13
+    Repetition 5
+  Tache TDacy
+    Cout TD
+    Duree 4
+    Etudiant Info1y
+    Enseignant ACar
+    Salles 4 SCC TD27 SC3 TD13
+    Repetition 3
+  Tache TMacy
+    Cout TD
+    Duree 4
+    Etudiant Info1y
+    Enseignant ACar
+    Salles 3 IG TR Mul
+Lot TPa
+  AliasLot TP
+  AffichageDuNom
+  Numerotation
+  Tache TPa
+    Cout TP
+    Duree 4
+    Etudiant Info1a
+    Enseignant ACar
+    Salles 4 Mul TR IG Res
+    Repetition 3
+Lot TPb
+  AliasLot TP
+  AffichageDuNom
+  Numerotation
+  Tache TPb
+    Cout TP
+    Duree 4
+    Etudiant Info1b
+    Enseignant ACar
+    Salles 4 Mul TR IG Res
+    Repetition 3
+Lot TPc
+  AliasLot TP
+  AffichageDuNom
+  Numerotation
+  Tache TPc
+    Cout TP
+    Duree 4
+    Etudiant Info1c
+    Enseignant ACar
+    Salles 4 Mul TR IG Res
+    Repetition 3
+Lot TPd
+  AliasLot TP
+  AffichageDuNom
+  Numerotation
+  Tache TPd
+    Cout TP
+    Duree 4
+    Etudiant Info1d
+    Enseignant ACar
+    Salles 4 Mul TR IG Res
+    Repetition 3

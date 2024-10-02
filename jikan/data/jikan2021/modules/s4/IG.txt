@@ -1,0 +1,28 @@
+Couleur 220 160 250
+Info "Interfaces graphiques 3D"
+MasquageDuNom
+Lot TD
+  AliasLot IG
+  AffichageDuNom
+  Numerotation
+  Tache CM
+    Cout CM
+    Duree 4
+    Etudiant IN
+    Enseignant PVil
+    Salles 6 TD13 SCC TD27 SC3 TD26 SConf
+    Repetition 4
+  Tache TD
+    Cout TD
+    Duree 4
+    Etudiant IN
+    Enseignant PVil
+    Salles 5 IG IN Mul TR Res
+    Repetition 5
+  Tache TP
+    Cout TP
+    Duree 4
+    Etudiant IN
+    Enseignant PVil
+    Salles 5 IG IN Mul TR Res
+    Repetition 6

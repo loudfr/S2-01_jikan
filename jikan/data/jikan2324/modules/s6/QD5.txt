@@ -1,0 +1,43 @@
+Couleur 160 180 213
+Info "R6.A06 Maintenance applicative"
+Cible Info3
+Lot CM
+  AffichageDuNom
+  Tache CM
+    Cout CM
+    Duree 4
+    Etudiant Info3
+    Enseignant MFai
+    Salles 2 Amphi SC3
+Lot TD
+  AffichageDuNom
+  Numerotation
+  Tache TD
+    Cout TD
+    Duree 4
+    Etudiant Info3
+    Enseignant MFai
+    Salle Tim
+    Repetition 3
+Lot TPx
+  AliasLot TP
+  AffichageDuNom
+  Numerotation
+  Tache TPx
+    Cout TP
+    Duree 4
+    Etudiant Info3x
+    Enseignant MFai
+    Salle Tim
+    Repetition 3
+Lot TPy
+  AliasLot TP
+  AffichageDuNom
+  Numerotation
+  Tache TPy
+    Cout TP
+    Duree 4
+    Etudiant Info3y
+    Enseignant MFai
+    Salle Tim
+    Repetition 3

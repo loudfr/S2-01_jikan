@@ -1,0 +1,8 @@
+RentreeS1 RentreeS1 S36 2 2 it11 Info1 OCas ARic PEve PVil ACas SDie ABou DFin BDav Amphi
+Internat Internat S39 3 16 it3 Info1 Info2 Amphi
+Integ Integ S37 3 1 it3 Info1 Info2 Amphi
+Integ Integ S37 3 12 it3 Info1 Info2 Amphi
+SCol SCola S38 4 12 it1 Info1a
+SCol SColb S38 2 12 it1 Info1b
+SCol SColc S38 2 5 it1 Info1c
+SCol SCold S38 3 7 it1 Info1d

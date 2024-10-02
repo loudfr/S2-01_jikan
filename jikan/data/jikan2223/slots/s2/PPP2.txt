@@ -1,0 +1,8 @@
+PPPtdx TDx S5 5 0 it3 Info1x DRon SCC
+PPPtdx TDx S11 5 0 it3 Info1x DRon SCC
+PPPtdx TDx S9 5 4 it3 Info1x DRon SCC
+PPPtdx TDx S13 5 0 it3 Info1x DRon SCC
+PPPtdy TDy S5 5 4 it3 Info1y DRon SCC
+PPPtdy TDy S11 5 4 it3 Info1y DRon SCC
+PPPtdy TDy S9 5 0 it3 Info1y DRon SCC
+PPPtdy TDy S13 5 4 it3 Info1y DRon SCC

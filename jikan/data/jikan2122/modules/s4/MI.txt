@@ -1,0 +1,44 @@
+Couleur 150 210 80
+Info "Outils mathematiques pour la synthese d'images"
+MasquageDuNom
+Lot EV
+  AliasLot MI-EV
+  AffichageDuNom
+  Tache EV
+    Cout CM
+    Duree 4
+    Etudiant IN
+    Enseignant PEve
+    Salles 3 SCC SConf SC3
+Lot TD
+  AliasLot MI
+  AffichageDuNom
+  Numerotation
+  Tache CM
+    Cout CM
+    Duree 4
+    Etudiant IN
+    Enseignant PEve
+    Salles 3 SCC SC3 TD13
+    Repetition 3
+  Tache TD
+    Cout TD
+    Duree 4
+    Etudiant IN
+    Enseignant PEve
+    Salles 3 SCC SC3 TD13
+    Repetition 4
+  Tache TP
+    Cout TP
+    Duree 4
+    Etudiant IN
+    Enseignant PEve
+    Salles 2 TR Res
+    Repetition 5
+  Tache TQ
+    Cout TP
+    Duree 4
+    Etudiant IN
+    Enseignant PEve
+    Salles 3 SCC SC3 TD13
+    Repetition 2

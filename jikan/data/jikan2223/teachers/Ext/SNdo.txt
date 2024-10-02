@@ -1,0 +1,5 @@
+Couleur 249 255 163
+Info "Sylvie Dieudonne-Ndour"
+
+ContrainteReguliere indesirable 2 all
+ContrainteOccasionnelle interdit S37 1 all

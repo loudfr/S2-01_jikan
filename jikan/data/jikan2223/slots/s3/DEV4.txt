@@ -1,0 +1,11 @@
+CM CM S36 0 1 it3 Info2 DBol Amphi
+CM CM S37 0 1 it3 Info2 DBol SC3
+Eval EV S41 3 1 it3 Info2 DBol Amphi
+TDx TDx S36 0 5 it3 Info2x DBol TD13
+TDy TDy S36 0 12 it3 Info2y DBol TD13
+TPa TPa S36 0 16 it3 Info2A DBol Mul
+TPa TPa S36 2 12 it3 Info2A DBol Mul
+TPa TPa S37 2 12 it3 Info2A DBol IG
+TPc TPc S36 2 5 it3 Info2C DBol Mul
+TPc TPc S36 2 16 it3 Info2C DBol Mul
+TPc TPc S37 2 16 it3 Info2C DBol Mul

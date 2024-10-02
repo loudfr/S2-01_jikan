@@ -1,0 +1,118 @@
+Couleur 200 120 80
+Info "Introduction a l'algorithmique et a la programmation"
+Lot CM
+  AffichageDuNom
+  Numerotation
+  Tache CM
+    Cout CM
+    Duree 4
+    Etudiant Info1
+    Enseignant ABou
+    Salle Amphi
+    Repetition 4
+Lot Eval
+  AliasLot APL1-Eval
+  AffichageDuNom
+  MasquageDuModule
+  Numerotation
+  Tache Eval
+    Cout CM
+    Duree 2
+    Etudiant Info1
+    Enseignant ABou
+    Salle Amphi
+    Repetition 2
+Lot TDx
+  AliasLot TD
+  AffichageDuNom
+  Numerotation
+  Tache TDx
+    Cout TD
+    Duree 4
+    Etudiant Info1x
+    Enseignant ABou
+    Salles 5 TD27 SC3 SCC TD26 TD13
+    Repetition 6
+  Tache EKx
+    Cout TD
+    Duree 4
+    Etudiant Info1x
+    Enseignant EKer
+    Salles 5 TD27 SC3 SCC TD26 TD13
+    Repetition 5
+Lot TDy
+  AliasLot TD
+  AffichageDuNom
+  Numerotation
+  Tache TDy
+    Cout TD
+    Duree 4
+    Etudiant Info1y
+    Enseignant ABou
+    Salles 5 SC3 TD27 SCC TD26 TD13
+    Repetition 6
+  Tache EKy
+    Cout TD
+    Duree 4
+    Etudiant Info1y
+    Enseignant EKer
+    Salles 5 SC3 TD27 SCC TD26 TD13
+    Repetition 5
+Lot TPa
+  AliasLot TP
+  AffichageDuNom
+  Numerotation
+  Tache TPa
+    Cout TP
+    Duree 4
+    Etudiant Info1a
+    Enseignant ABou
+    Salles 4 Mul TR IG Res
+    Repetition 8
+  Tache EMa
+    Cout TP
+    Duree 4
+    Etudiant Info1a
+    Enseignant EMic
+    Salles 4 Mul TR IG Res
+    Repetition 6
+Lot TPb
+  AliasLot TP
+  AffichageDuNom
+  Numerotation
+  Tache TPb
+    Cout TP
+    Duree 4
+    Etudiant Info1b
+    Enseignant SDie
+    Salles 4 Mul TR IG Res
+    Repetition 14
+Lot TPc
+  AliasLot TP
+  AffichageDuNom
+  Numerotation
+  Tache TPc
+    Cout TP
+    Duree 4
+    Etudiant Info1c
+    Enseignant SDie
+    Salles 4 IG TR Mul Res
+    Repetition 14
+Lot TPd
+  AliasLot TP
+  AffichageDuNom
+  Numerotation
+  Tache TPd
+    Cout TP
+    Duree 4
+    Etudiant Info1d
+    Enseignant ABou
+    Salles 4 IG TR Mul Res
+    Repetition 8
+  Tache EMd
+    Cout TP
+    Duree 4
+    Etudiant Info1d
+    Enseignant EMic
+    Salles 4 IG TR Mul Res
+    Repetition 6

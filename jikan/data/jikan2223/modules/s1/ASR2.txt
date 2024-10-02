@@ -1,0 +1,85 @@
+Couleur 180 190 80
+Info "R1.04 Introduction aux systemes d'exploitation"
+Cible Info1
+Lot TDx
+  AliasLot TD
+  AffichageDuNom
+  Numerotation
+  Tache TDx
+    Cout TD
+    Duree 4
+    Etudiant Info1x
+    Enseignant ABou
+    Salles 3 Mul IG TR
+    Repetition 2
+Lot TDy
+  AliasLot TD
+  AffichageDuNom
+  Numerotation
+  Tache TDy
+    Cout TD
+    Duree 4
+    Etudiant Info1y
+    Enseignant ABou
+    Salles 3 Mul IG TR
+    Repetition 2
+Lot TPa
+  AliasLot TP
+  AffichageDuNom
+  Numerotation
+  Tache TPaab
+    Cout TP
+    Duree 4
+    Etudiant Info1a
+    Enseignant ABou
+    Salles 4 Mul Res TR IG
+    Repetition 6
+  Tache TPasd
+    Cout TP
+    Duree 4
+    Etudiant Info1a
+    Enseignant SDie
+    Salles 4 Mul Res TR IG
+    Repetition 4
+  Tache TPbab
+    Cout TP
+    Duree 4
+    Etudiant Info1b
+    Enseignant ABou
+    Salles 4 Mul Res TR IG
+    Repetition 6
+  Tache TPbsd
+    Cout TP
+    Duree 4
+    Etudiant Info1b
+    Enseignant SDie
+    Salles 4 Mul Res TR IG
+    Repetition 4
+  Tache TPcab
+    Cout TP
+    Duree 4
+    Etudiant Info1c
+    Enseignant ABou
+    Salles 4 Mul Res TR IG
+    Repetition 6
+  Tache TPcsd
+    Cout TP
+    Duree 4
+    Etudiant Info1c
+    Enseignant SDie
+    Salles 4 Mul Res TR IG
+    Repetition 4
+  Tache TPdab
+    Cout TP
+    Duree 4
+    Etudiant Info1d
+    Enseignant ABou
+    Salles 4 Mul Res TR IG
+    Repetition 6
+  Tache TPdsd
+    Cout TP
+    Duree 4
+    Etudiant Info1d
+    Enseignant SDie
+    Salles 4 Mul Res TR IG
+    Repetition 4

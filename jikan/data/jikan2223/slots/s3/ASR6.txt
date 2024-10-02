@@ -1,0 +1,8 @@
+TDx TDx S46 0 1 it3 Info2x SDie SC3
+TDx TMx S47 3 5 it3 Info2x SDie IG
+TDy TDy S46 1 1 it3 Info2y SDie SC3
+TDy TMy S47 0 5 it3 Info2y SDie IG
+TPa TPa S47 4 1 it3 Info2A SDie IG
+TPa TPa S48 4 1 it3 Info2A SDie Mul
+TPc TPc S47 4 12 it3 Info2C SDie IG
+TPc TPc S48 4 12 it3 Info2C SDie Mul

@@ -1,0 +1,29 @@
+TPdev6a SPdev6a S25 1 1 it3 Info2A EMic IG
+TPdev6c SPdev6c S25 1 5 it3 Info2C EMic IG
+TPweb3a SPweb3ema S25 1 12 it3 Info2A EMic IG
+TPweb3c SPweb3emc S25 1 16 it3 Info2C EMic IG
+TPdev7a SPdev7a S24 4 16 it3 Info2A EMed Tim
+TPdev7c SPdev7c S24 4 12 it3 Info2C EMed Tim
+TPdev7abis SPdev7a S25 2 14 it3 Info2A EMed Tim
+TPdev7cbis SPdev7c S25 2 16 it3 Info2C EMed Tim
+TPasr8a SPasr8a S20 1 7 it3 Info2A ABou Mul
+TPasr8c SPasr8c S20 1 3 it3 Info2C ABou Mul
+TPm10a SPm10a S7 3 5 it3 Info2A PAde Mul
+TPm10c SPm10c S7 3 1 it3 Info2C PAde Mul
+TPm11a SPm11a S25 1 5 it3 Info2A PAde TR
+TPm11c SPm11c S25 1 1 it3 Info2C PAde TR
+TPa4a SPa4a S24 2 16 it3 Info2A ACas IN
+TPa4c SPa4c S24 2 14 it3 Info2C ACas IN
+TPc4a SPc4a S24 4 5 it3 Info2A SNdo TR
+TPc4c SPc4c S24 4 3 it3 Info2C SNdo TR
+SAE SAE S21 2 12 it1 Info2
+SAE SAE S21 2 1 it1 Info2
+SAE SAE S22 3 1 it1 Info2
+SAE SAE S22 2 12 it1 Info2
+SAE SAE S22 2 1 it1 Info2
+SAE SAE S22 1 1 it1 Info2
+SAE SAE S22 1 12 it1 Info2
+SAE SAE S21 3 1 it1 Info2
+SAE SAE S21 0 12 it1 Info2
+SAE SAE S21 1 1 it1 Info2
+SAE SAE S21 1 12 it1 Info2

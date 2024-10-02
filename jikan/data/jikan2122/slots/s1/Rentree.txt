@@ -1,0 +1,6 @@
+RentreeS1 RentreeS1 S35 3 2 it12 Info1 OCas ARic PEve PVil ACas SDie ABou BDav KAbi SAbi Amphi
+Internat Internat S38 3 16 it3 Info1 Info2 Amphi
+Doc Doca S37 1 14 it2 Info1a PSar
+Doc Docb S37 2 3 it2 Info1b PSar
+Doc Docc S37 1 16 it2 Info1c PSar
+Doc Docd S37 0 14 it2 Info1d PSar

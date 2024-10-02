@@ -1,0 +1,54 @@
+Couleur 130 210 170
+Info "Conception et developpement d'applications mobiles"
+Lot EV
+  AffichageDuNom
+  Tache EV
+    Cout CM
+    Duree 4
+    Etudiant WM1
+    Etudiant WM2
+    Enseignant EMic
+    Salles 2 SConf Amphi
+Lot TD
+  AffichageDuNom
+  Numerotation
+  Tache CM
+    Cout CM
+    Duree 4
+    Etudiant WM1
+    Etudiant WM2
+    Enseignant EMic
+    Salle TD13
+    Salles 2 IG Mul
+    Repetition 2
+  Tache TD
+    Cout TD
+    Duree 4
+    Etudiant WM1
+    Etudiant WM2
+    Enseignant EMic
+    Salle TD13
+    Salles 2 IG Mul
+    Repetition 4
+Lot TPa
+  AliasLot TP
+  AffichageDuNom
+  Numerotation
+  Tache TPa
+    Cout TP
+    Duree 8
+    Etudiant WM1
+    Enseignant EMic
+    Salles 3 IG TR Mul
+    Repetition 4
+Lot TPb
+  AliasLot TP
+  AffichageDuNom
+  Numerotation
+  Tache TPb
+    Cout TP
+    Duree 8
+    Etudiant WM2
+    Enseignant EMic
+    Salles 3 IG TR Mul
+    Repetition 4

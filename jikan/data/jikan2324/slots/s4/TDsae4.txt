@@ -1,0 +1,5 @@
+Soutenance Sout S25 4 1 it4 Info2 NGai ABou Amphi
+TDx SDngx S7 4 1 it3 Info2x NGai TD13
+TDx SDngx S7 4 12 it3 Info2x NGai TD13
+TDy SDngy S7 4 5 it3 Info2y NGai TD13
+TDy SDngy S7 4 16 it3 Info2y NGai TD13

@@ -1,0 +1,76 @@
+Couleur 130 190 150
+Info "Bases de donnees avancees"
+Cible Info2
+Lot CM
+  AffichageDuNom
+  Numerotation
+  Tache CM
+    Cout CM
+    Duree 4
+    Etudiant Info2
+    Enseignant PGue
+    Salles 2 SC3 Amphi
+    Repetition 3
+Lot Eval
+  AffichageDuNom
+  Tache Eval
+    Cout CM
+    Duree 4
+    Etudiant Info2
+    Enseignant PGue
+    Salle Amphi
+Lot TDx
+  AliasLot TD
+  AffichageDuNom
+  Numerotation
+  Tache TMx
+    Cout TD
+    Duree 4
+    Etudiant Info2x
+    Enseignant KAbi
+    Salles 2 Mul IG
+    Repetition 4
+Lot TDy
+  AliasLot TD
+  AffichageDuNom
+  Numerotation
+  Tache TMy
+    Cout TD
+    Duree 4
+    Etudiant Info2y
+    Enseignant KAbi
+    Salles 2 Mul IG
+    Repetition 4
+Lot TPa
+  AliasLot TP
+  AffichageDuNom
+  Numerotation
+  Tache TPa
+    Cout TP
+    Duree 4
+    Etudiant Info2A
+    Enseignant KAbi
+    Salles 4 Mul IG TR Res
+    Repetition 6
+Lot TPb
+  AliasLot TP
+  AffichageDuNom
+  Numerotation
+  Tache TPb
+    Cout TP
+    Duree 4
+    Etudiant Info2B
+    Enseignant KAbi
+    Salles 4 Mul IG TR Res
+    Repetition 6
+Lot TPc
+  AliasLot TP
+  AffichageDuNom
+  Numerotation
+  Tache TPc
+    Cout TP
+    Duree 4
+    Etudiant Info2C
+    Enseignant KAbi
+    Salles 4 Mul IG TR Res
+    Repetition 6

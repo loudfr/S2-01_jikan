@@ -1,0 +1,14 @@
+Couleur 220 180 180
+Info "R5.A.13 Economie durable et numerique"
+Cible Info3
+Lot TD
+  AliasLot TD
+  AffichageDuNom
+  Numerotation
+  Tache TD
+    Cout TD
+    Duree 4
+    Etudiant Info3
+    Enseignant BDav
+    Salles 4 SC3 SCC TD13 TD27
+    Repetition 5

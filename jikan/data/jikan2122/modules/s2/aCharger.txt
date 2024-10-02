@@ -1,0 +1,21 @@
+Info "Modules du 2eme semestre du DUT INFO"
+DOO
+IHM
+QD
+RES1
+RES2
+BD2
+MG
+MS
+MN
+GP2
+DCN
+AE
+C2
+PPP2
+SAE-21
+SAE-22
+SAE-23
+SAE-24
+SAE-25
+SAE-26

@@ -1,0 +1,256 @@
+Couleur 120 250 180
+Info "TD de S3.A01 Developpement appli"
+Cible Info2
+Alias Sae3
+Lot Soutenance
+  AliasLot sout
+  AffichageDuNom
+  Tache Sout
+    Cout GR
+    Duree 8
+    Etudiant Info2
+    Enseignant SDie
+    Enseignant ABou
+    Enseignant FAbd
+    Enseignant DBol
+    Enseignant BDav
+    Salle Amphi
+Lot TDweb2
+  AliasLot web2
+  AffichageDuNom
+  Tache SDweb2
+    Cout TD
+    Duree 4
+    Etudiant Info2
+    Enseignant EMic
+    Salles 3 Amphi SC1 SConf
+Lot TDdev4x
+  AliasLot dev4
+  AffichageDuNom
+  Tache SDdev4x
+    Cout TD
+    Duree 4
+    Etudiant Info2x
+    Enseignant DBol
+    Salles 4 TD27 SC3 SCC TD13
+Lot TDdev4y
+  AliasLot dev4
+  AffichageDuNom
+  Tache SDdev4y
+    Cout TD
+    Duree 4
+    Etudiant Info2y
+    Enseignant DBol
+    Salles 4 SC3 TD27 SCC TD13
+Lot TDdev5x
+  AliasLot dev5
+  AffichageDuNom
+  Tache SDdev5x
+    Cout TD
+    Duree 4
+    Etudiant Info2x
+    Enseignant DBol
+    Salles 4 TD27 SC3 SCC TD13
+Lot TDdev5y
+  AliasLot dev5
+  AffichageDuNom
+  Tache SDdev5y
+    Cout TD
+    Duree 4
+    Etudiant Info2y
+    Enseignant DBol
+    Salles 4 SC3 TD27 SCC TD13
+Lot TDqd2x
+  AliasLot qd2
+  AffichageDuNom
+  Tache SDqd2x
+    Cout TD
+    Duree 4
+    Etudiant Info2x
+    Enseignant DBol
+    Salles 4 TD27 SC3 SCC TD13
+Lot TDqd2y
+  AliasLot qd2
+  AffichageDuNom
+  Tache SDqd2y
+    Cout TD
+    Duree 4
+    Etudiant Info2y
+    Enseignant DBol
+    Salles 4 SC3 TD27 SCC TD13
+Lot TDasr5x
+  AliasLot asr5
+  AffichageDuNom
+  Tache SDasr5x
+    Cout TD
+    Duree 4
+    Etudiant Info2x
+    Enseignant ABou
+    Salles 4 TD27 SC3 SCC TD13
+    Repetition 2
+Lot TDasr5y
+  AliasLot asr5
+  AffichageDuNom
+  Tache SDasr5y
+    Cout TD
+    Duree 4
+    Etudiant Info2y
+    Enseignant ABou
+    Salles 4 SC3 TD27 SCC TD13
+    Repetition 2
+Lot TDasr6x
+  AliasLot asr6
+  AffichageDuNom
+  Tache SDasr6x
+    Cout TD
+    Duree 4
+    Etudiant Info2x
+    Enseignant SDie
+    Salles 4 TD27 SC3 SCC TD13
+Lot TDasr6y
+  AliasLot asr6
+  AffichageDuNom
+  Tache SDasr6y
+    Cout TD
+    Duree 4
+    Etudiant Info2y
+    Enseignant SDie
+    Salles 4 SC3 TD27 SCC TD13
+Lot TDm6x
+  AliasLot m6
+  AffichageDuNom
+  Tache SDm6x
+    Cout TD
+    Duree 4
+    Etudiant Info2x
+    Enseignant PAde
+    Salles 4 TD27 SC3 SCC TD13
+    Repetition 2
+Lot TDm6y
+  AliasLot m6
+  AffichageDuNom
+  Tache SDm6y
+    Cout TD
+    Duree 4
+    Etudiant Info2y
+    Enseignant PAde
+    Salles 4 SC3 TD27 SCC TD13
+    Repetition 2
+Lot TDm7x
+  AliasLot m7
+  AffichageDuNom
+  Tache SDm7x
+    Cout TD
+    Duree 4
+    Etudiant Info2x
+    Enseignant PAde
+    Salles 4 TD27 SC3 SCC TD13
+Lot TDm7y
+  AliasLot m7
+  AffichageDuNom
+  Tache SDm7y
+    Cout TD
+    Duree 4
+    Etudiant Info2y
+    Enseignant PAde
+    Salles 4 SC3 TD27 SCC TD13
+Lot TDgp3x
+  AliasLot gp3
+  AffichageDuNom
+  Tache SDgp3x
+    Cout TD
+    Duree 4
+    Etudiant Info2x
+    Enseignant BDav
+    Salles 4 TD27 SC3 SCC TD13
+    Repetition 3
+Lot TDgp3y
+  AliasLot gp3
+  AffichageDuNom
+  Tache SDgp3y
+    Cout TD
+    Duree 4
+    Etudiant Info2y
+    Enseignant BDav
+    Salles 4 SC3 TD27 SCC TD13
+    Repetition 3
+Lot TDdr2x
+  AliasLot dr2
+  AffichageDuNom
+  Tache SDdr2x
+    Cout TD
+    Duree 4
+    Etudiant Info2x
+    Enseignant MPri
+    Salles 4 TD27 SC3 SCC TD13
+    Repetition 4
+Lot TDdr2y
+  AliasLot dr2
+  AffichageDuNom
+  Tache SDdr2y
+    Cout TD
+    Duree 4
+    Etudiant Info2y
+    Enseignant MPri
+    Salles 4 SC3 TD27 SCC TD13
+    Repetition 4
+Lot TDa3x
+  AliasLot a3
+  AffichageDuNom
+  Tache SDa3x
+    Cout TD
+    Duree 4
+    Etudiant Info2x
+    Enseignant ACas
+    Salles 4 TD27 SC3 SCC TD13
+    Repetition 2
+Lot TDa3y
+  AliasLot a3
+  AffichageDuNom
+  Tache SDa3y
+    Cout TD
+    Duree 4
+    Etudiant Info2y
+    Enseignant ACas
+    Salles 4 SC3 TD27 SCC TD13
+    Repetition 2
+Lot TDc3x
+  AliasLot c3
+  AffichageDuNom
+  Tache SDc3x
+    Cout TD
+    Duree 4
+    Etudiant Info2x
+    Enseignant SNdo
+    Salles 4 TD27 SC3 SCC TD13
+    Repetition 2
+Lot TDc3y
+  AliasLot c3
+  AffichageDuNom
+  Tache SDc3y
+    Cout TD
+    Duree 4
+    Etudiant Info2y
+    Enseignant SNdo
+    Salles 4 SC3 TD27 SCC TD13
+    Repetition 2
+Lot TDppp3x
+  AliasLot ppp3
+  AffichageDuNom
+  Tache SDppp3x
+    Cout TD
+    Duree 4
+    Etudiant Info2x
+    Enseignant BDav
+    Salle IG
+    Salle Mul
+Lot TDppp3y
+  AliasLot ppp3
+  AffichageDuNom
+  Tache SDppp3y
+    Cout TD
+    Duree 4
+    Etudiant Info2y
+    Enseignant BDav
+    Salle IG
+    Salle Mul

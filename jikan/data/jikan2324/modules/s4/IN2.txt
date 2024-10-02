@@ -1,0 +1,72 @@
+Couleur 100 230 70
+Info "Interfaces graphiques"
+Cible Info2
+Lot CM
+  AffichageDuNom
+  Numerotation
+  Tache CM
+    Cout CM
+    Duree 4
+    Etudiant Info2
+    Enseignant PVil
+    Salles 4 SC3 SCC TD13 TD27
+    Repetition 3
+Lot EV
+  AffichageDuNom
+  Numerotation
+  Tache EV
+    Cout CM
+    Duree 4
+    Etudiant Info2
+    Enseignant PVil
+    Salle Amphi
+Lot TDx
+  AffichageDuNom
+  Numerotation
+  Tache TDx
+    Cout TD
+    Duree 4
+    Etudiant Info2x
+    Enseignant PVil
+    Salles 4 TD27 TD13 SCC SC3
+    Repetition 4
+Lot TDy
+  AffichageDuNom
+  Numerotation
+  Tache TDy
+    Cout TD
+    Duree 4
+    Etudiant Info2y
+    Enseignant PVil
+    Salles 4 TD27 TD13 SCC SC3
+    Repetition 4
+Lot TPa
+  AffichageDuNom
+  Numerotation
+  Tache TPa
+    Cout TP
+    Duree 4
+    Etudiant Info2A
+    Enseignant PVil
+    Salles 4 Mul TR IG IN
+    Repetition 6
+Lot TPb
+  AffichageDuNom
+  Numerotation
+  Tache TPb
+    Cout TP
+    Duree 4
+    Etudiant Info2B
+    Enseignant PVil
+    Salles 4 Mul TR IG IN
+    Repetition 6
+Lot TPc
+  AffichageDuNom
+  Numerotation
+  Tache TPc
+    Cout TP
+    Duree 4
+    Etudiant Info2C
+    Enseignant PVil
+    Salles 4 Mul TR IG IN
+    Repetition 6

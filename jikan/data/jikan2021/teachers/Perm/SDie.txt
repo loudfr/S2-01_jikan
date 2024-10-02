@@ -1,0 +1,4 @@
+Couleur 27 147 207
+Info "Stephane Dieudonne"
+
+ContrainteReguliere indesirable 2 all

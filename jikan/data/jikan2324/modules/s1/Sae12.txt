@@ -1,0 +1,104 @@
+Couleur 250 220 250
+Info "S1.02 Comparaison d'approches algorithmiques"
+Cible Info1
+Alias SAE12
+Lot TDx
+  AliasLot dev1
+  AffichageDuNom
+  Tache SDxek
+    Matiere DEV1
+    Cout TD
+    Duree 4
+    Etudiant Info1x
+    Enseignant EKer
+    Salles 5 TD27 SC3 SCC TD26 TD13
+Lot TDy
+  AliasLot dev1
+  AffichageDuNom
+  Tache SDyek
+    Matiere DEV1
+    Cout TD
+    Duree 4
+    Etudiant Info1y
+    Enseignant EKer
+    Salles 5 SC3 TD27 SCC TD26 TD13
+Lot TPa
+  AliasLot dev1
+  AffichageDuNom
+  Tache SPaek
+    Matiere DEV1
+    Cout TP
+    Duree 4
+    Etudiant Info1a
+    Enseignant EKer
+    Salles 4 Mul TR IG Res
+Lot TPb
+  AliasLot dev1
+  AffichageDuNom
+  Tache SPbek
+    Matiere DEV1
+    Cout TP
+    Duree 4
+    Etudiant Info1b
+    Enseignant EKer
+    Salles 4 Mul TR IG Res
+Lot TPc
+  AliasLot dev1
+  AffichageDuNom
+  Tache SPcek
+    Matiere DEV1
+    Cout TP
+    Duree 4
+    Etudiant Info1c
+    Enseignant EKer
+    Salles 4 Mul TR IG Res
+Lot TPd
+  AliasLot dev1
+  AffichageDuNom
+  Tache SPdek
+    Matiere DEV1
+    Cout TP
+    Duree 4
+    Etudiant Info1d
+    Enseignant EKer
+    Salles 4 Mul TR IG Res
+Lot SAEa
+  AliasLot PRJ
+  AffichageDuNom
+  Numerotation
+  Tache SAEa
+    Matiere DEV1
+    Cout GR
+    Duree 4
+    Etudiant Info1a
+    Repetition 6
+Lot SAEb
+  AliasLot PRJ
+  AffichageDuNom
+  Numerotation
+  Tache SAEb
+    Matiere DEV1
+    Cout GR
+    Duree 4
+    Etudiant Info1b
+    Repetition 6
+Lot SAEc
+  AliasLot PRJ
+  AffichageDuNom
+  Numerotation
+  Tache SAEc
+    Matiere DEV1
+    Cout GR
+    Duree 4
+    Etudiant Info1c
+    Repetition 6
+Lot SAEd
+  AliasLot PRJ
+  AffichageDuNom
+  Numerotation
+  Tache SAEd
+    Matiere DEV1
+    Cout GR
+    Duree 4
+    Etudiant Info1d
+    Repetition 6

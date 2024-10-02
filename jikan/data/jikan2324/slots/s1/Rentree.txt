@@ -1,0 +1,8 @@
+RentreeS1 RentreeS1 S36 0 4 it7 Info1 SDie BDav PEve PVil ACas Amphi
+Integ2 Integ S38 3 12 it3 Info1 Info2 Info3
+Integ1 Integ S38 3 1 it1 Info1
+RentreeU RentreeU S37 3 12 it4 Info1 Info2 Info3 Amphi
+Doc Doca S38 1 16 it2 Info1a PSar
+Doc Docb S38 2 5 it2 Info1b PSar
+Doc Docc S38 2 7 it2 Info1c PSar
+Doc Docd S38 1 2 it2 Info1d PSar

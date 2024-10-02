@@ -1,0 +1,21 @@
+Couleur 170 160 180
+Info "PortFolio 1"
+Cible Info1
+Lot TDx
+  AliasLot TD
+  AffichageDuNom
+  Tache TDx
+    Cout TD
+    Duree 4
+    Etudiant Info1x
+    Enseignant BDav
+    Salles 4 SCC TD27 TD13 SC3
+Lot TDy
+  AliasLot TD
+  AffichageDuNom
+  Tache TDy
+    Cout TD
+    Duree 4
+    Etudiant Info1y
+    Enseignant BDav
+    Salles 4 SCC TD27 TD13 SC3

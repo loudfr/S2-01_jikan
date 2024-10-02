@@ -1,0 +1,72 @@
+Couleur 170 160 180
+Info "R3.14 PPP"
+Cible Info2
+Lot PPP3tdx
+  AliasLot TD
+  AffichageDuNom
+  Numerotation
+  Tache TDbdx
+    Cout TD
+    Duree 4
+    Etudiant Info2x
+    Enseignant BDav
+    Salles 4 SC3 TD13 TD27 SCC
+    Repetition 2
+  Tache TDdrx
+    Cout TD
+    Duree 4
+    Etudiant Info2x
+    Enseignant DRon
+    Salles 4 SC3 TD13 TD27 SCC
+    Repetition 2
+Lot PPP3tdy
+  AliasLot TD
+  AffichageDuNom
+  Numerotation
+  Tache TDbdy
+    Cout TD
+    Duree 4
+    Etudiant Info2y
+    Enseignant BDav
+    Salles 4 SC3 TD13 TD27 SCC
+    Repetition 2
+  Tache TDdry
+    Cout TD
+    Duree 4
+    Etudiant Info2y
+    Enseignant DRon
+    Salles 4 SC3 TD13 TD27 SCC
+    Repetition 2
+Lot PPP3tpa
+  AliasLot TP
+  AffichageDuNom
+  Numerotation
+  Tache TPa
+    Cout TP
+    Duree 4
+    Etudiant Info2A
+    Enseignant BDav
+    Salles 5 Mul IG TR IN Tim
+    Repetition 2
+Lot PPP3tpb
+  AliasLot TP
+  AffichageDuNom
+  Numerotation
+  Tache TPb
+    Cout TP
+    Duree 4
+    Etudiant Info2B
+    Enseignant BDav
+    Salles 5 Mul IG TR IN Tim
+    Repetition 2
+Lot PPP3tpc
+  AliasLot TP
+  AffichageDuNom
+  Numerotation
+  Tache TPc
+    Cout TP
+    Duree 4
+    Etudiant Info2C
+    Enseignant BDav
+    Salles 5 Mul IG TR IN Tim
+    Repetition 2

@@ -1,0 +1,13 @@
+CM CMfp S38 0 1 it3 Info3 FPie SC3
+CM CMpv S39 3 1 it3 Info3 PVil SC3
+CM CMpv S39 1 1 it3 Info3 PVil SC3
+TD TD S38 2 1 it3 Info3 FPie SC3
+TD TD S38 3 5 it3 Info3 FPie SC3
+TPx TPfpx S39 0 1 it3 Info3x FPie Mul
+TPx TPfpx S39 0 5 it3 Info3x FPie Mul
+TPx TPpvx S42 0 1 it3 Info3x PVil IG
+TPx TPpvx S42 0 5 it3 Info3x PVil IG
+TPy TPfpy S39 0 12 it3 Info3y FPie Mul
+TPy TPfpy S39 0 16 it3 Info3y FPie Mul
+TPy TPpvy S42 3 12 it3 Info3y PVil TR
+TPy TPpvy S42 3 16 it3 Info3y PVil TR

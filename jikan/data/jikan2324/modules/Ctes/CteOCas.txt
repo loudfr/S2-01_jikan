@@ -1,0 +1,10 @@
+Couleur 210 184 205
+Info "Contraintes specifiques aux directeurs d'IUT"
+Lot Dir
+  AffichageDuNom
+  MasquageDuModule
+  Tache Dir
+    Cout GR
+    Duree 4
+    Enseignant OCas
+    Repetition 60

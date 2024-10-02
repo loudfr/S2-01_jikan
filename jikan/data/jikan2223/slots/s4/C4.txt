@@ -1,0 +1,12 @@
+TDx TDx S19 1 12 it3 Info2x SNdo SCC
+TDx TDx S19 4 5 it3 Info2x SNdo SCC
+TDx TDx S20 1 12 it3 Info2x SNdo SCC
+TDx TDx S23 4 5 it3 Info2x SNdo SCC
+TDx TDx S18 1 16 it3 Info2x SNdo SCC
+TDy TDy S19 1 16 it3 Info2y SNdo SCC
+TDy TDy S19 4 1 it3 Info2y SNdo SCC
+TDy TDy S20 1 16 it3 Info2y SNdo SCC
+TDy TDy S18 1 12 it3 Info2y SNdo SCC
+TDy TDy S23 4 1 it3 Info2y SNdo SCC
+TQa TPa S23 4 16 it3 Info2A SNdo IG
+TQc TPc S23 4 12 it3 Info2C SNdo IG

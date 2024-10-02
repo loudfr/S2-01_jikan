@@ -1,0 +1,99 @@
+Couleur 70 220 150
+Info "S2.01 Developpement d'une application"
+Cible Info1
+Lot TDx
+  AliasLot TD
+  AffichageDuNom
+  Tache SDx
+    Cout TD
+    Duree 4
+    Etudiant Info1x
+    Enseignant PEve
+    Salles 4 TD27 SC3 SCC TD13
+    Repetition 2
+Lot TDy
+  AliasLot TD
+  AffichageDuNom
+  Tache SDy
+    Cout TD
+    Duree 4
+    Etudiant Info1y
+    Enseignant PVil
+    Salles 4 SC3 TD27 SCC TD13
+    Repetition 2
+Lot TPa
+  AliasLot TP
+  AffichageDuNom
+  Tache SPpea
+    Cout TP
+    Duree 4
+    Etudiant Info1a
+    Enseignant PEve
+    Salles 4 Mul TR IG Res
+    Repetition 4
+Lot TPb
+  AliasLot TP
+  AffichageDuNom
+  Tache SPpeb
+    Cout TP
+    Duree 4
+    Etudiant Info1b
+    Enseignant PEve
+    Salles 4 Mul TR IG Res
+    Repetition 4
+Lot TPc
+  AliasLot TP
+  AffichageDuNom
+  Tache SPc
+    Cout TP
+    Duree 4
+    Etudiant Info1c
+    Enseignant PVil
+    Salles 4 Mul TR IG Res
+    Repetition 4
+Lot TPd
+  AliasLot TP
+  AffichageDuNom
+  Tache SPd
+    Cout TP
+    Duree 4
+    Etudiant Info1d
+    Enseignant PVil
+    Salles 4 Mul TR IG Res
+    Repetition 4
+Lot SAEa
+  AliasLot PRJ
+  AffichageDuNom
+  Numerotation
+  Tache SAEa
+    Cout GR
+    Duree 4
+    Etudiant Info1a
+    Repetition 6
+Lot SAEb
+  AliasLot PRJ
+  AffichageDuNom
+  Numerotation
+  Tache SAEb
+    Cout GR
+    Duree 4
+    Etudiant Info1b
+    Repetition 6
+Lot SAEc
+  AliasLot PRJ
+  AffichageDuNom
+  Numerotation
+  Tache SAEc
+    Cout GR
+    Duree 4
+    Etudiant Info1c
+    Repetition 6
+Lot SAEd
+  AliasLot PRJ
+  AffichageDuNom
+  Numerotation
+  Tache SAEd
+    Cout GR
+    Duree 4
+    Etudiant Info1d
+    Repetition 6

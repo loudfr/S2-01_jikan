@@ -1,0 +1,34 @@
+Couleur 100 200 100
+Info "Stage en entreprise"
+MasquageDuNom
+MasquageDesEns
+Lot Industrie
+  AffichageDuNom
+  Tache Industrie
+    Cout GR
+    Duree 4
+    Etudiant Info2
+Lot Depart
+  AffichageDuNom
+  Tache Depart
+    Cout GR
+    Duree 1
+    Etudiant Info2
+Lot Soutenances
+  AffichageDuNom
+  Tache Soutenances
+    Cout GR
+    Duree 8
+    Etudiant Info2
+    Etudiant Info1
+    Enseignant PEve
+    Enseignant DFin
+    Enseignant SDie
+    Enseignant PVil
+    Enseignant PAde
+    Enseignant ARic
+    Enseignant ACas
+    Enseignant OCas
+    Enseignant DBol
+    Enseignant ABou
+    Enseignant BDav

@@ -1,0 +1,391 @@
+Couleur 120 250 180
+Info "TP de S3.01 Developpement appli"
+Cible Info2
+Alias SAE3
+Lot TPweb2a
+  AliasLot web2
+  AffichageDuNom
+  Tache SPweba
+    Matiere WEB2
+    Cout TP
+    Duree 4
+    Etudiant Info2A
+    Enseignant EMic
+    Salles 2 IG Mul
+    Repetition 2
+Lot TPweb2b
+  AliasLot web2
+  AffichageDuNom
+  Tache SPwebb
+    Matiere WEB2
+    Cout TP
+    Duree 4
+    Etudiant Info2B
+    Enseignant EMic
+    Salles 2 IG Mul
+    Repetition 2
+Lot TPweb2c
+  AliasLot web2
+  AffichageDuNom
+  Tache SPwebc
+    Matiere WEB2
+    Cout TP
+    Duree 4
+    Etudiant Info2C
+    Enseignant EMic
+    Salles 2 IG Mul
+    Repetition 2
+Lot TPdev4a
+  AliasLot dev4
+  AffichageDuNom
+  Tache SPdev4a
+    Matiere DEV4
+    Cout TP
+    Duree 4
+    Etudiant Info2A
+    Enseignant DBol
+    Salles 4 Mul TR IG IN
+Lot TPdev4b
+  AliasLot dev4
+  AffichageDuNom
+  Tache SPdev4b
+    Matiere DEV4
+    Cout TP
+    Duree 4
+    Etudiant Info2B
+    Enseignant DBol
+    Salles 4 Mul TR IG IN
+Lot TPdev4c
+  AliasLot dev4
+  AffichageDuNom
+  Tache SPdev4c
+    Matiere DEV4
+    Cout TP
+    Duree 4
+    Etudiant Info2C
+    Enseignant DBol
+    Salles 4 Mul TR IG IN
+Lot TPdev5a
+  AliasLot dev5
+  AffichageDuNom
+  Tache SPdev5a
+    Matiere DEV5
+    Cout TP
+    Duree 4
+    Etudiant Info2A
+    Enseignant DBol
+    Salles 4 Mul TR IG IN
+Lot TPdev5b
+  AliasLot dev5
+  AffichageDuNom
+  Tache SPdev5b
+    Matiere DEV5
+    Cout TP
+    Duree 4
+    Etudiant Info2B
+    Enseignant DBol
+    Salles 4 Mul TR IG IN
+Lot TPdev5c
+  AliasLot dev5
+  AffichageDuNom
+  Tache SPdev5c
+    Matiere DEV5
+    Cout TP
+    Duree 4
+    Etudiant Info2C
+    Enseignant DBol
+    Salles 4 Mul TR IG IN
+Lot TPqd2a
+  AliasLot qd2
+  AffichageDuNom
+  Tache SPqd2a
+    Matiere QD2
+    Cout TP
+    Duree 4
+    Etudiant Info2A
+    Enseignant DBol
+    Salles 5 Mul TR IG IN Res
+    Repetition 2
+Lot TPqd2b
+  AliasLot qd2
+  AffichageDuNom
+  Tache SPqd2b
+    Matiere QD2
+    Cout TP
+    Duree 4
+    Etudiant Info2B
+    Enseignant DBol
+    Salles 5 Mul TR IG IN Res
+    Repetition 2
+Lot TPqd2c
+  AliasLot qd2
+  AffichageDuNom
+  Tache SPqd2c
+    Matiere QD2
+    Cout TP
+    Duree 4
+    Etudiant Info2C
+    Enseignant DBol
+    Salles 5 Mul TR IG IN Res
+    Repetition 2
+Lot TPasr5a
+  AliasLot asr5
+  AffichageDuNom
+  Tache SPasr5a
+    Matiere ASR5
+    Cout TP
+    Duree 4
+    Etudiant Info2A
+    Enseignant ABou
+    Salles 5 Mul TR IG Res Tim
+Lot TPasr5b
+  AliasLot asr5
+  AffichageDuNom
+  Tache SPasr5b
+    Matiere ASR5
+    Cout TP
+    Duree 4
+    Etudiant Info2B
+    Enseignant ABou
+    Salles 5 Mul TR IG Res Tim
+Lot TPasr5c
+  AliasLot asr5
+  AffichageDuNom
+  Tache SPasr5c
+    Matiere ASR5
+    Cout TP
+    Duree 4
+    Etudiant Info2C
+    Enseignant ABou
+    Salles 5 Mul TR IG Res Tim
+Lot TPasr6a
+  AliasLot asr6
+  AffichageDuNom
+  Tache SPasr6a
+    Matiere ASR6
+    Cout TP
+    Duree 4
+    Etudiant Info2A
+    Enseignant SDie
+    Salles 4 Mul TR IG IN
+Lot TPasr6b
+  AliasLot asr6
+  AffichageDuNom
+  Tache SPasr6b
+    Matiere ASR6
+    Cout TP
+    Duree 4
+    Etudiant Info2B
+    Enseignant SDie
+    Salles 4 Mul TR IG IN
+Lot TPasr6c
+  AliasLot asr6
+  AffichageDuNom
+  Tache SPasr6c
+    Matiere ASR6
+    Cout TP
+    Duree 4
+    Etudiant Info2C
+    Enseignant SDie
+    Salles 4 Mul TR IG IN
+Lot TPbd3a
+  AliasLot bd3
+  AffichageDuNom
+  Tache SPbd3a
+    Matiere BD3
+    Cout TP
+    Duree 4
+    Etudiant Info2A
+    Enseignant FBea
+    Salles 4 Mul TR IG IN
+Lot TPbd3b
+  AliasLot bd3
+  AffichageDuNom
+  Tache SPbd3b
+    Matiere BD3
+    Cout TP
+    Duree 4
+    Etudiant Info2B
+    Enseignant FBea
+    Salles 4 Mul TR IG IN
+Lot TPbd3c
+  AliasLot bd3
+  AffichageDuNom
+  Tache SPbd3c
+    Matiere BD3
+    Cout TP
+    Duree 4
+    Etudiant Info2C
+    Enseignant FBea
+    Salles 4 Mul TR IG IN
+Lot TPm6a
+  AliasLot m6
+  AffichageDuNom
+  Tache SPm6a
+    Matiere M6
+    Cout TP
+    Duree 4
+    Etudiant Info2A
+    Enseignant PAde
+    Salles 4 Mul TR IG IN
+Lot TPm6b
+  AliasLot m6
+  AffichageDuNom
+  Tache SPm6b
+    Matiere M6
+    Cout TP
+    Duree 4
+    Etudiant Info2B
+    Enseignant PAde
+    Salles 4 Mul TR IG IN
+Lot TPm6c
+  AliasLot m6
+  AffichageDuNom
+  Tache SPm6c
+    Matiere M6
+    Cout TP
+    Duree 4
+    Etudiant Info2C
+    Enseignant PAde
+    Salles 4 Mul TR IG IN
+Lot TPm7a
+  AliasLot m7
+  AffichageDuNom
+  Tache SQm7a
+    Matiere M7
+    Cout TP
+    Duree 3
+    Etudiant Info2A
+    Enseignant PAde
+    Salles 4 TD13 TD27 SCC SC3
+  Tache SPm7a
+    Matiere M7
+    Cout TP
+    Duree 3
+    Etudiant Info2A
+    Enseignant PAde
+    Salles 4 Mul TR IG IN
+Lot TPm7b
+  AliasLot m7
+  AffichageDuNom
+  Tache SQm7b
+    Matiere M7
+    Cout TP
+    Duree 3
+    Etudiant Info2B
+    Enseignant PAde
+    Salles 4 TD13 TD27 SCC SC3
+  Tache SPm7b
+    Matiere M7
+    Cout TP
+    Duree 3
+    Etudiant Info2B
+    Enseignant PAde
+    Salles 4 Mul TR IG IN
+Lot TPm7c
+  AliasLot m7
+  AffichageDuNom
+  Tache SQm7c
+    Matiere M7
+    Cout TP
+    Duree 3
+    Etudiant Info2C
+    Enseignant PAde
+    Salles 4 TD13 TD27 SCC SC3
+  Tache SPm7c
+    Matiere M7
+    Cout TP
+    Duree 3
+    Etudiant Info2C
+    Enseignant PAde
+    Salles 4 Mul TR IG IN
+Lot TPgp3a
+  AliasLot gp3
+  AffichageDuNom
+  Tache SPgp3a
+    Matiere GP3
+    Cout TP
+    Duree 4
+    Etudiant Info2A
+    Enseignant BDav
+    Salles 4 Mul TR IG IN
+Lot TPgp3b
+  AliasLot gp3
+  AffichageDuNom
+  Tache SPgp3b
+    Matiere GP3
+    Cout TP
+    Duree 4
+    Etudiant Info2B
+    Enseignant BDav
+    Salles 4 Mul TR IG IN
+Lot TPgp3c
+  AliasLot gp3
+  AffichageDuNom
+  Tache SPgp3c
+    Matiere GP3
+    Cout TP
+    Duree 4
+    Etudiant Info2C
+    Enseignant BDav
+    Salles 4 Mul TR IG IN
+Lot TPa3a
+  AliasLot a3
+  AffichageDuNom
+  Tache SPa3a
+    Matiere A3
+    Cout TP
+    Duree 4
+    Etudiant Info2A
+    Enseignant ACas
+    Salles 4 Mul TR IG IN
+Lot TPa3b
+  AliasLot a3
+  AffichageDuNom
+  Tache SPa3b
+    Matiere A3
+    Cout TP
+    Duree 4
+    Etudiant Info2B
+    Enseignant ACas
+    Salles 4 Mul TR IG IN
+Lot TPa3c
+  AliasLot a3
+  AffichageDuNom
+  Tache SPa3c
+    Matiere A3
+    Cout TP
+    Duree 4
+    Etudiant Info2C
+    Enseignant ACas
+    Salles 4 Mul TR IG IN
+Lot TPc3a
+  AliasLot c3
+  AffichageDuNom
+  Tache SPc3a
+    Matiere C3
+    Cout TP
+    Duree 4
+    Etudiant Info2A
+    Enseignant SNdo
+    Salles 4 Mul TR IG IN
+Lot TPc3b
+  AliasLot c3
+  AffichageDuNom
+  Tache SPc3b
+    Matiere C3
+    Cout TP
+    Duree 4
+    Etudiant Info2B
+    Enseignant SNdo
+    Salles 4 Mul TR IG IN
+Lot TPc3c
+  AliasLot c3
+  AffichageDuNom
+  Tache SPc3c
+    Matiere C3
+    Cout TP
+    Duree 4
+    Etudiant Info2C
+    Enseignant SNdo
+    Salles 4 Mul TR IG IN

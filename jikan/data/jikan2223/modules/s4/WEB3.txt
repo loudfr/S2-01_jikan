@@ -1,0 +1,56 @@
+Couleur 220 200 60
+Info "R4.A10 Complement web"
+Cible Info2
+Lot CM
+  AliasLot CM
+  AffichageDuNom
+  Numerotation
+  Tache CMab
+    Cout CM
+    Duree 4
+    Etudiant Info2
+    Enseignant ABic
+    Salles 2 SC3 Amphi
+    Repetition 2
+  Tache CMem
+    Cout CM
+    Duree 4
+    Etudiant Info2
+    Enseignant EMic
+    Salles 3 Amphi SC1 SConf
+Lot TPa
+  AliasLot TP
+  AffichageDuNom
+  Numerotation
+  Tache TPaba
+    Cout TP
+    Duree 4
+    Etudiant Info2A
+    Enseignant ABic
+    Salles 4 TR Mul IG IN
+    Repetition 4
+  Tache TPema
+    Cout TP
+    Duree 4
+    Etudiant Info2A
+    Enseignant EMic
+    Salle IG
+    Repetition 3
+Lot TPc
+  AliasLot TP
+  AffichageDuNom
+  Numerotation
+  Tache TPabc
+    Cout TP
+    Duree 4
+    Etudiant Info2C
+    Enseignant ABic
+    Salles 4 TR Mul IG IN
+    Repetition 4
+  Tache TPemc
+    Cout TP
+    Duree 4
+    Etudiant Info2C
+    Enseignant EMic
+    Salle Mul
+    Repetition 3

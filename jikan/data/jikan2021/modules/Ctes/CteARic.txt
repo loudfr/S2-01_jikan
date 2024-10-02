@@ -1,0 +1,12 @@
+Couleur 200 204 165
+Info "Contraintes des enseignants d'EC"
+MasquageDesEns
+NoTex
+Lot ACDI
+  AffichageDuNom
+  MasquageDuModule
+  Tache ACDI-IHM
+    Cout GR
+    Duree 4
+    Enseignant ARic
+    Repetition 4

@@ -1,0 +1,6 @@
+Couleur 242 255 3
+Info "Dobrina Boltcheva"
+
+ContrainteReguliere indesirable 3 all
+ContrainteReguliere interdit 4 all
+RelacheContrainte S35 4 all

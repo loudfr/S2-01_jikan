@@ -1,0 +1,87 @@
+Couleur 180 200 230
+Info "Contraintes liees au departement MMI"
+AffichageAdministratif
+MasquageDuNom
+NoTex
+Lot MMI
+  AffichageDuNom
+  Tache MMI-PAde
+    Cout GR
+    Duree 4
+    Enseignant PAde
+    Repetition 90
+  Tache MMI-BDav
+    Cout GR
+    Duree 4
+    Enseignant BDav
+    Repetition 32
+  Tache MMI-CLaj
+    Cout GR
+    Duree 4
+    Enseignant CLaj
+    Repetition 60
+  Tache MMI-BDev
+    Cout GR
+    Duree 4
+    Enseignant BDev
+    Repetition 42
+  Tache MMI-Amphi
+    Cout GR
+    Duree 4
+    Salle Amphi
+    Repetition 60
+  Tache MMI-COV0
+    Cout GR
+    Duree 8
+    Salle Amphi
+    Repetition 50
+  Tache MMI-SConf
+    Cout GR
+    Duree 4
+    Salle SConf
+    Repetition 180
+  Tache MMI-SC1
+    Cout GR
+    Duree 4
+    Salle SC1
+    Repetition 180
+  Tache MMI-SC3
+    Cout GR
+    Duree 4
+    Salle SC3
+    Repetition 3
+  Tache MMI-TD26
+    Cout GR
+    Duree 4
+    Salle TD26
+    Repetition 150
+  Tache MMI-Alab
+    Cout GR
+    Duree 4
+    Salle Alab
+    Repetition 120
+  Tache MMI-IN
+    Cout GR
+    Duree 4
+    Salle IN
+    Repetition 80
+  Tache MMI-Res
+    Cout GR
+    Duree 4
+    Salle Res
+    Repetition 40
+  Tache MMI-IG
+    Cout GR
+    Duree 4
+    Salle IG
+    Repetition 20
+  Tache MMI-TR
+    Cout GR
+    Duree 4
+    Salle TR
+    Repetition 20
+  Tache MMI-TD13
+    Cout GR
+    Duree 4
+    Salle TD13
+    Repetition 60

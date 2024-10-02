@@ -1,0 +1,21 @@
+Couleur 150 230 176
+Info "R6.02 Droit du numerique et de la propriete intellectuelle"
+Cible Info3
+Lot CM
+  AffichageDuNom
+  Tache CM
+    Cout CM
+    Duree 4
+    Etudiant Info3
+    Enseignant MPri
+    Salles 2 Amphi SC3
+Lot TD
+  AffichageDuNom
+  Numerotation
+  Tache TD
+    Cout TD
+    Duree 4
+    Etudiant Info3
+    Enseignant MPri
+    Salles 4 TD13 TD27 SCC SC3
+    Repetition 4

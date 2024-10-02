@@ -1,0 +1,15 @@
+CM CM S35 4 12 it3 Info3 PAde SC3
+EV EV S43 1 1 it3 Info3 PAde Amphi
+TD TD S36 1 1 it3 Info3 PAde SCC
+TD TD S36 2 5 it3 Info3 PAde SC3
+TD TD S37 3 5 it3 Info3 PAde SC3
+TD TD S38 0 5 it3 Info3 PAde SC3
+TD TD S38 4 1 it3 Info3 PAde SC3
+TD TD S38 3 1 it3 Info3 PAde SC3
+TD TD S39 2 1 it3 Info3 PAde SC3
+TPx TPx S42 4 12 it3 Info3x PAde TR
+TPx TPx S42 4 1 it3 Info3x PAde TR
+TPx TQx S42 0 12 it3 Info3x PAde TD13
+TPy TPy S42 4 16 it3 Info3y PAde TR
+TPy TPy S42 4 5 it3 Info3y PAde TR
+TPy TQy S42 2 12 it3 Info3y PAde TD13

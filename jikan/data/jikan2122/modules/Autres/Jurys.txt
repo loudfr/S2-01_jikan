@@ -1,0 +1,31 @@
+Couleur 100 220 70
+Info "Jurys et soutenances de projets de LP"
+MasquageDuNom
+MasquageDesEns
+Lot Jury-DUT
+  AffichageDuNom
+  Tache Jury-DUT
+    Cout GR
+    Duree 2
+    Enseignant OCas
+    Enseignant ARic
+    Enseignant BDav
+    Enseignant PVil
+    Repetition 2
+Lot Jury-LP
+  AffichageDuNom
+  Tache Jury-LP
+    Cout GR
+    Duree 2
+    Enseignant OCas
+    Repetition 2
+Lot ProAMIO
+  AffichageDuNom
+  Tache ProAMIO
+    Cout GR
+    Duree 8
+    Enseignant EMed
+    Enseignant OCas
+    Enseignant ABou
+    Enseignant PGue
+    Salles 3 Amphi SConf SC3

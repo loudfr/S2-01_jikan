@@ -1,0 +1,14 @@
+TDx TDx S6 3 5 it3 Info2x ABou IG
+TDy TDy S6 3 1 it3 Info2y ABou IG
+TPa TPa S6 4 12 it3 Info2A ABou Res
+TPa TPa S6 4 16 it3 Info2A ABou Res
+TPa TPa S8 4 12 it3 Info2A ABou TR
+TPa TPa S8 4 16 it3 Info2A ABou TR
+TPb TPb S7 3 12 it3 Info2B ABou IG
+TPb TPb S7 3 16 it3 Info2B ABou IG
+TPb TPb S8 2 12 it3 Info2B ABou IG
+TPb TPb S8 2 16 it3 Info2B ABou IG
+TPc TPc S7 3 1 it3 Info2C ABou Mul
+TPc TPc S7 3 5 it3 Info2C ABou Mul
+TPc TPc S8 3 1 it3 Info2C ABou Tim
+TPc TPc S8 3 5 it3 Info2C ABou Tim

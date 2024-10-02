@@ -1,0 +1,136 @@
+Couleur 220 70 150
+Info "S2.02 Exploration algorithmique d'un probleme"
+Cible Info1
+Lot CM
+  AliasLot TD
+  AffichageDuNom
+  Tache CM
+    Cout TD
+    Duree 4
+    Etudiant Info1
+    Enseignant PEve
+    Salle Amphi
+Lot TPa
+  AliasLot TP
+  AffichageDuNom
+  Tache SPpea
+    Cout TP
+    Duree 4
+    Etudiant Info1a
+    Enseignant PEve
+    Salles 4 Mul TR IG Res
+  Tache SPpaa
+    Cout TP
+    Duree 3
+    Etudiant Info1a
+    Enseignant PAde
+    Salles 4 Mul TR IG Res
+    Repetition 2
+  Tache SEpaa
+    Cout TP
+    Duree 4
+    Etudiant Info1a
+    Enseignant PAde
+    Salles 4 Mul TR IG Res
+Lot TPb
+  AliasLot TP
+  AffichageDuNom
+  Tache SPpeb
+    Cout TP
+    Duree 4
+    Etudiant Info1b
+    Enseignant PEve
+    Salles 4 Mul TR IG Res
+  Tache SPpab
+    Cout TP
+    Duree 3
+    Etudiant Info1b
+    Enseignant PAde
+    Salles 4 Mul TR IG Res
+    Repetition 2
+  Tache SEpab
+    Cout TP
+    Duree 4
+    Etudiant Info1b
+    Enseignant PAde
+    Salles 4 Mul TR IG Res
+Lot TPc
+  AliasLot TP
+  AffichageDuNom
+  Tache SPpec
+    Cout TP
+    Duree 4
+    Etudiant Info1c
+    Enseignant PEve
+    Salles 4 Mul TR IG Res
+  Tache SPpac
+    Cout TP
+    Duree 3
+    Etudiant Info1c
+    Enseignant PAde
+    Salles 4 Mul TR IG Res
+    Repetition 2
+  Tache SEpac
+    Cout TP
+    Duree 4
+    Etudiant Info1c
+    Enseignant PAde
+    Salles 4 Mul TR IG Res
+Lot TPd
+  AliasLot TP
+  AffichageDuNom
+  Tache SPped
+    Cout TP
+    Duree 4
+    Etudiant Info1d
+    Enseignant PEve
+    Salles 4 Mul TR IG Res
+  Tache SPpad
+    Cout TP
+    Duree 3
+    Etudiant Info1d
+    Enseignant PAde
+    Salles 4 Mul TR IG Res
+    Repetition 2
+  Tache SEpad
+    Cout TP
+    Duree 4
+    Etudiant Info1d
+    Enseignant PAde
+    Salles 4 Mul TR IG Res
+Lot SAEa
+  AliasLot PRJ
+  AffichageDuNom
+  Numerotation
+  Tache SAEa
+    Cout GR
+    Duree 4
+    Etudiant Info1a
+    Repetition 6
+Lot SAEb
+  AliasLot PRJ
+  AffichageDuNom
+  Numerotation
+  Tache SAEb
+    Cout GR
+    Duree 4
+    Etudiant Info1b
+    Repetition 6
+Lot SAEc
+  AliasLot PRJ
+  AffichageDuNom
+  Numerotation
+  Tache SAEc
+    Cout GR
+    Duree 4
+    Etudiant Info1c
+    Repetition 6
+Lot SAEd
+  AliasLot PRJ
+  AffichageDuNom
+  Numerotation
+  Tache SAEd
+    Cout GR
+    Duree 4
+    Etudiant Info1d
+    Repetition 6

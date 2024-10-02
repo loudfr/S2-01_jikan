@@ -1,0 +1,16 @@
+Info "Modules du 2eme semestre du DUT INFO"
+ASR2
+ASR3
+ACD1
+ACD2
+ACD3
+BD2
+M3
+M4
+EGO3
+EGO4
+EC2
+ANG2
+PPP2
+PT2
+Soutien

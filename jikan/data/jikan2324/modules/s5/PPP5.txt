@@ -1,0 +1,14 @@
+Couleur 200 190 190
+Info "R5.02 PPP"
+Cible Info3
+Lot TD
+  AliasLot TD
+  AffichageDuNom
+  Numerotation
+  Tache TD
+    Cout TD
+    Duree 4
+    Etudiant Info3
+    Enseignant BDav
+    Salles 4 SC3 SCC TD13 TD27
+    Repetition 3

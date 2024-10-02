@@ -1,0 +1,44 @@
+Couleur 150 200 150
+Info "TP de S6.01 Evolution d'une application existante"
+Cible Info3
+Alias SAE6
+Lot TPdev8x
+  AliasLot dev8
+  AffichageDuNom
+  Tache SPdev8x
+    Matiere DEV8
+    Cout TP
+    Duree 4
+    Etudiant Info3x
+    Enseignant DBol
+    Salles 6 Res IG TR Mul IN Tim
+Lot TPdev8y
+  AliasLot dev8
+  AffichageDuNom
+  Tache SPdev8y
+    Matiere DEV8
+    Cout TP
+    Duree 4
+    Etudiant Info3y
+    Enseignant DBol
+    Salles 6 Res IG TR Mul IN Tim
+Lot TPqd5x
+  AliasLot qd5
+  AffichageDuNom
+  Tache SPqd5x
+    Matiere QD5
+    Cout TP
+    Duree 4
+    Etudiant Info3x
+    Enseignant MFai
+    Salle Tim
+Lot TPqd5y
+  AliasLot qd5
+  AffichageDuNom
+  Tache SPqd5y
+    Matiere QD5
+    Cout TP
+    Duree 4
+    Etudiant Info3y
+    Enseignant MFai
+    Salle Tim

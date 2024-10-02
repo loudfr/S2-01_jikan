@@ -1,0 +1,84 @@
+Couleur 120 160 250
+Info "Programmation partie"
+Lot TD
+  AliasLot TD
+  AffichageDuNom
+  Numerotation
+  Tache TDab
+    Cout TD
+    Duree 4
+    Etudiant WM1
+    Etudiant WM2
+    Enseignant ABou
+    Salle SC3
+  Tache Evalab
+    Cout CM
+    Duree 4
+    Etudiant WM1
+    Etudiant WM2
+    Enseignant ABou
+    Salles 2 Amphi SC3
+  Tache CMpv
+    Cout CM
+    Duree 4
+    Etudiant WM1
+    Etudiant WM2
+    Enseignant PVil
+    Salles 2 SC3 Amphi
+  Tache TMpv
+    Cout TD
+    Duree 4
+    Etudiant WM1
+    Etudiant WM2
+    Enseignant PVil
+    Salles 2 IG Mul
+  Tache TDpv
+    Cout TD
+    Duree 4
+    Etudiant WM1
+    Etudiant WM2
+    Enseignant PVil
+    Salles 2 SC3 SCC
+  Tache Evalpv
+    Cout CM
+    Duree 4
+    Etudiant WM1
+    Etudiant WM2
+    Enseignant PVil
+    Salles 3 Amphi SC3 SConf
+Lot TPa
+  AliasLot TP
+  AffichageDuNom
+  Numerotation
+  Tache TPaAB
+    Cout TP
+    Duree 8
+    Etudiant WM1
+    Enseignant ABou
+    Salle Res
+    Repetition 3
+  Tache TPaPV
+    Cout TP
+    Duree 4
+    Etudiant WM1
+    Enseignant PVil
+    Salles 4 IG TR Mul Res
+    Repetition 2
+Lot TPb
+  AliasLot TP
+  AffichageDuNom
+  Numerotation
+  Tache TPbAB
+    Cout TP
+    Duree 8
+    Etudiant WM2
+    Enseignant ABou
+    Salle Res
+    Repetition 3
+  Tache TPbPV
+    Cout TP
+    Duree 4
+    Etudiant WM2
+    Enseignant PVil
+    Salles 4 IG TR Mul Res
+    Repetition 2

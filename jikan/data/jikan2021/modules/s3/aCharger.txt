@@ -1,0 +1,17 @@
+Info "Modules du 3eme semestre du DUT INFO"
+Rentree
+ASR4
+ASR5
+APL3
+WIM2
+ACD4
+BD3
+M5
+M6
+EGO5
+EGO6
+EC3
+ANG3
+PPP3
+ACD5
+PT3

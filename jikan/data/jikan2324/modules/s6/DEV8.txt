@@ -1,0 +1,44 @@
+Couleur 230 140 163
+Info "R6.A05 Developpement avance"
+Cible Info3
+Lot CM
+  AffichageDuNom
+  Tache CM
+    Cout CM
+    Duree 4
+    Etudiant Info3
+    Enseignant DBol
+    Salles 2 Amphi SC3
+    Repetition 2
+Lot TD
+  AffichageDuNom
+  Numerotation
+  Tache TD
+    Cout TD
+    Duree 4
+    Etudiant Info3
+    Enseignant DBol
+    Salles 5 Res IG Mul TR IN
+    Repetition 4
+Lot TPx
+  AliasLot TP
+  AffichageDuNom
+  Numerotation
+  Tache TPx
+    Cout TP
+    Duree 8
+    Etudiant Info3x
+    Enseignant DBol
+    Salles 5 Res IG Mul TR IN
+    Repetition 2
+Lot TPy
+  AliasLot TP
+  AffichageDuNom
+  Numerotation
+  Tache TPy
+    Cout TP
+    Duree 8
+    Etudiant Info3y
+    Enseignant DBol
+    Salles 5 Res IG Mul TR IN
+    Repetition 2

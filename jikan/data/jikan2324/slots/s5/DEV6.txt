@@ -1,0 +1,7 @@
+CM CM S36 0 1 it3 Info3 DBol SC3
+TD TD S36 0 5 it3 Info3 DBol IG
+TD TD S36 0 12 it3 Info3 DBol IG
+TPx TPx S37 0 12 it3 Info3x DBol Mul
+TPx TPx S38 1 12 it3 Info3x DBol TR
+TPy TPy S37 2 1 it3 Info3y DBol Mul
+TPy TPy S38 1 1 it3 Info3y DBol TR

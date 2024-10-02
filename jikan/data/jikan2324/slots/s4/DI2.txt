@@ -1,0 +1,12 @@
+TDx TDx S6 2 5 it3 Info2x EMed Tim
+TDx TDx S6 2 16 it3 Info2x EMed Tim
+TDx TDx S7 2 1 it3 Info2x EMed Tim
+TDy TDy S6 2 1 it3 Info2y EMed Tim
+TDy TDy S6 2 12 it3 Info2y EMed Tim
+TDy TDy S7 2 5 it3 Info2y EMed Tim
+TPa TPa S8 2 16 it3 Info2A EMed Tim
+TPa TPa S8 2 1 it3 Info2A EMed Tim
+TPb TPb S7 2 16 it3 Info2B EMed Tim
+TPb TPb S8 2 5 it3 Info2B EMed Tim
+TPc TPc S8 2 12 it3 Info2C EMed Tim
+TPc TPc S7 2 12 it3 Info2C EMed Tim

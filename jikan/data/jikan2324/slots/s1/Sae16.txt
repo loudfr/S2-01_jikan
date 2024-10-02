@@ -1,0 +1,32 @@
+TDx SMx S39 1 1 it4 Info1x BDav IG Mul
+TDx SMx S41 3 5 it4 Info1x BDav IG Mul
+TDy SMy S39 1 5 it4 Info1y BDav IG Mul
+TDy SMy S41 3 1 it4 Info1y BDav IG Mul
+TPa SPapv S51 1 1 it3 Info1a PVil IG
+TPb SPbpv S51 1 16 it3 Info1b PVil IG
+TPc SPcpv S51 1 12 it3 Info1c PVil IG
+TPd SPdpv S51 1 5 it3 Info1d PVil IG
+SAEa SAEa S50 1 16 it1 Info1a
+SAEa SAEa S50 3 5 it1 Info1a
+SAEa SAEa S49 2 16 it1 Info1a
+SAEa SAEa S47 3 1 it1 Info1a
+SAEa SAEa S43 1 16 it1 Info1a
+SAEa SAEa S42 2 1 it1 Info1a
+SAEb SAEb S50 1 16 it1 Info1b
+SAEb SAEb S50 3 5 it1 Info1b
+SAEb SAEb S49 1 5 it1 Info1b
+SAEb SAEb S47 4 16 it1 Info1b
+SAEb SAEb S43 1 1 it1 Info1b
+SAEb SAEb S42 3 1 it1 Info1b
+SAEc SAEc S50 1 16 it1 Info1c
+SAEc SAEc S50 4 5 it1 Info1c
+SAEc SAEc S49 2 12 it1 Info1c
+SAEc SAEc S47 3 1 it1 Info1c
+SAEc SAEc S43 2 12 it1 Info1c
+SAEc SAEc S42 2 1 it1 Info1c
+SAEd SAEd S50 1 16 it1 Info1d
+SAEd SAEd S50 3 5 it1 Info1d
+SAEd SAEd S49 2 12 it1 Info1d
+SAEd SAEd S47 2 16 it1 Info1d
+SAEd SAEd S43 2 16 it1 Info1d
+SAEd SAEd S42 3 1 it1 Info1d

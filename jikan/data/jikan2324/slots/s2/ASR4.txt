@@ -1,0 +1,6 @@
+TDx TDx S14 4 5 it3 Info1x SDie SC3
+TDx TDx S15 0 12 it3 Info1x SDie SC3
+TDx TDx S15 1 5 it3 Info1x SDie SC3
+TDy TDy S14 4 12 it3 Info1y SDie SC3
+TDy TDy S15 0 5 it3 Info1y SDie SC3
+TDy TDy S15 1 1 it3 Info1y SDie SC3

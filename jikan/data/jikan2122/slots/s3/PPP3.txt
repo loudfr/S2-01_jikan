@@ -1,0 +1,10 @@
+PPP3tdx TDx S44 3 12 it3 Info2x NEmo TD27
+PPP3tdx TDx S46 4 12 it3 Info2x NEmo TD27
+PPP3tdy TDy S44 3 16 it3 Info2y NEmo SC3
+PPP3tdy TDy S46 4 5 it3 Info2y NEmo SC3
+PPP3tpa TQa S49 1 12 it3 Info2A NEmo TD27
+PPP3tpa TQa S50 0 16 it3 Info2A NEmo TD27
+PPP3tpc TQc S49 1 5 it3 Info2C NEmo TD13
+PPP3tpc TQc S50 0 12 it3 Info2C NEmo SC3
+PPP3tpb TQb S49 1 16 it3 Info2B NEmo SC3
+PPP3tpb TQb S50 0 5 it3 Info2B NEmo TD13

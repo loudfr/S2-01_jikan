@@ -1,0 +1,36 @@
+TDx SDkax S22 2 5 it3 Info1x KAbi SCC
+TDx SDpax S17 4 6 it3 Info1x PAde SCC
+TDy SDkay S22 2 12 it3 Info1y KAbi SC3
+TDy SDpay S17 2 6 it3 Info1y PAde SC3
+TPa SPa S24 1 1 it5 Info1a KAbi PAde ACas IG
+TPa SPpaa S21 1 5 it3 Info1a PAde TR
+TPb SPb S24 1 16 it5 Info1b KAbi PAde ACas IG
+TPb SPpab S21 1 1 it3 Info1b PAde Mul
+TPc SPc S24 1 5 it5 Info1c KAbi PAde ACas IG
+TPc SPpac S21 1 16 it3 Info1c PAde IG
+TPd SPd S24 1 12 it5 Info1d KAbi PAde ACas IG
+TPd SPpad S21 1 12 it3 Info1d PAde Res
+SAEa SAEa S24 0 5 it1 Info1a
+SAEa SAEa S22 1 5 it1 Info1a
+SAEa SAEa S20 1 12 it1 Info1a
+SAEa SAEa S22 1 12 it1 Info1a
+SAEa SAEa S22 3 5 it1 Info1a
+SAEa SAEa S23 0 5 it1 Info1a
+SAEb SAEb S24 0 5 it1 Info1b
+SAEb SAEb S22 1 1 it1 Info1b
+SAEb SAEb S20 1 5 it1 Info1b
+SAEb SAEb S22 1 12 it1 Info1b
+SAEb SAEb S22 3 5 it1 Info1b
+SAEb SAEb S23 0 5 it1 Info1b
+SAEc SAEc S24 0 5 it1 Info1c
+SAEc SAEc S22 1 16 it1 Info1c
+SAEc SAEc S20 1 5 it1 Info1c
+SAEc SAEc S22 1 5 it1 Info1c
+SAEc SAEc S22 3 1 it1 Info1c
+SAEc SAEc S23 0 5 it1 Info1c
+SAEd SAEd S24 0 5 it1 Info1d
+SAEd SAEd S22 1 12 it1 Info1d
+SAEd SAEd S20 1 12 it1 Info1d
+SAEd SAEd S22 1 5 it1 Info1d
+SAEd SAEd S22 3 1 it1 Info1d
+SAEd SAEd S23 0 5 it1 Info1d

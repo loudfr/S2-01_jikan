@@ -1,0 +1,12 @@
+Couleur 170 160 180
+Info "Port-Folio 6"
+Cible Info3
+Lot TD
+  AliasLot TD
+  AffichageDuNom
+  Tache TD
+    Cout TD
+    Duree 4
+    Etudiant Info3
+    Enseignant BDav
+    Salles 4 SCC TD27 TD13 SC3

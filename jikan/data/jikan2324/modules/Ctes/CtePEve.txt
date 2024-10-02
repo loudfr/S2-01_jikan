@@ -1,0 +1,28 @@
+Couleur 210 184 205
+Info "Contraintes des enseignants d'imagerie"
+MasquageDesEns
+Lot SIF
+  AffichageDuNom
+  MasquageDuModule
+  Tache SIF
+    Cout GR
+    Duree 8
+    Enseignant PEve
+    Repetition 10
+Lot JIG
+  AffichageDuNom
+  MasquageDuModule
+  Tache JIG
+    Cout GR
+    Duree 8
+    Enseignant DBol
+    Enseignant PEve
+    Repetition 4
+Lot GTGDMM
+  AffichageDuNom
+  MasquageDuModule
+  Tache GtGDMM
+    Cout GR
+    Duree 8
+    Enseignant PEve
+    Repetition 6

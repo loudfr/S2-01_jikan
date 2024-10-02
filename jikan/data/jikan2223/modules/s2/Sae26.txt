@@ -1,0 +1,57 @@
+Couleur 20 130 190
+Info "S2.06 Organisation d'un travail en equipe"
+Cible Info1
+Lot TDx
+  AliasLot TD
+  AffichageDuNom
+  Tache SDx
+    Cout TD
+    Duree 4
+    Etudiant Info1x
+    Enseignant ASau
+    Salles 4 TD27 SC3 SCC TD13
+Lot TDy
+  AliasLot TD
+  AffichageDuNom
+  Tache SDy
+    Cout TD
+    Duree 4
+    Etudiant Info1y
+    Enseignant ASau
+    Salles 4 SC3 TD27 SCC TD13
+Lot SAEa
+  AliasLot PRJ
+  AffichageDuNom
+  Numerotation
+  Tache SAEa
+    Cout GR
+    Duree 4
+    Etudiant Info1a
+    Repetition 6
+Lot SAEb
+  AliasLot PRJ
+  AffichageDuNom
+  Numerotation
+  Tache SAEb
+    Cout GR
+    Duree 4
+    Etudiant Info1b
+    Repetition 6
+Lot SAEc
+  AliasLot PRJ
+  AffichageDuNom
+  Numerotation
+  Tache SAEc
+    Cout GR
+    Duree 4
+    Etudiant Info1c
+    Repetition 6
+Lot SAEd
+  AliasLot PRJ
+  AffichageDuNom
+  Numerotation
+  Tache SAEd
+    Cout GR
+    Duree 4
+    Etudiant Info1d
+    Repetition 6

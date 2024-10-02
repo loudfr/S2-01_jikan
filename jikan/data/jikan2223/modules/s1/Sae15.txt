@@ -1,0 +1,103 @@
+Couleur 190 190 110
+Info "S1.05 : Recueil de petits besoins"
+Cible Info1
+Lot TPa
+  AliasLot TP
+  AffichageDuNom
+  Tache SPaab
+    Cout TP
+    Duree 4
+    Etudiant Info1a
+    Enseignant ABic
+    Salles 5 IG TR Mul Res IN
+  Tache SPaar
+    Cout TD
+    Duree 4
+    Etudiant Info1a
+    Enseignant SNdo
+    Salles 9 SCC TD13 TD27 SC3 IN Res TR Mul IG
+    Repetition 3
+Lot TPb
+  AliasLot TP
+  AffichageDuNom
+  Tache SPbab
+    Cout TP
+    Duree 4
+    Etudiant Info1b
+    Enseignant ABic
+    Salles 5 IG TR Mul Res IN
+  Tache SPbar
+    Cout TD
+    Duree 4
+    Etudiant Info1b
+    Enseignant SNdo
+    Salles 9 SCC TD13 TD27 SC3 IN Res TR Mul IG
+    Repetition 3
+Lot TPc
+  AliasLot TP
+  AffichageDuNom
+  Tache SPcab
+    Cout TP
+    Duree 4
+    Etudiant Info1c
+    Enseignant ABic
+    Salles 5 IG TR Mul Res IN
+  Tache SPcar
+    Cout TD
+    Duree 4
+    Etudiant Info1c
+    Enseignant SNdo
+    Salles 9 SCC TD13 TD27 SC3 IN Res TR Mul IG
+    Repetition 3
+Lot TPd
+  AliasLot TP
+  AffichageDuNom
+  Tache SPdab
+    Cout TP
+    Duree 4
+    Etudiant Info1d
+    Enseignant ABic
+    Salles 5 IG TR Mul Res IN
+  Tache SPdar
+    Cout TD
+    Duree 4
+    Etudiant Info1d
+    Enseignant SNdo
+    Salles 9 SCC TD13 TD27 SC3 IN Res TR Mul IG
+    Repetition 3
+Lot SAEa
+  AliasLot PRJ
+  AffichageDuNom
+  Numerotation
+  Tache SAEa
+    Cout GR
+    Duree 4
+    Etudiant Info1a
+    Repetition 6
+Lot SAEb
+  AliasLot PRJ
+  AffichageDuNom
+  Numerotation
+  Tache SAEb
+    Cout GR
+    Duree 4
+    Etudiant Info1b
+    Repetition 6
+Lot SAEc
+  AliasLot PRJ
+  AffichageDuNom
+  Numerotation
+  Tache SAEc
+    Cout GR
+    Duree 4
+    Etudiant Info1c
+    Repetition 6
+Lot SAEd
+  AliasLot PRJ
+  AffichageDuNom
+  Numerotation
+  Tache SAEd
+    Cout GR
+    Duree 4
+    Etudiant Info1d
+    Repetition 6

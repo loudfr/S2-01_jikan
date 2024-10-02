@@ -1,0 +1,2 @@
+TDx TDx S3 0 12 it3 Info1x BDav SCC
+TDy TDy S3 0 16 it3 Info1y BDav SCC

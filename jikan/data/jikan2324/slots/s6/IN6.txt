@@ -1,0 +1,16 @@
+CM CM S5 0 1 it3 Info3 PEve SC3
+CM CM S6 0 12 it3 Info3 PEve SC3
+CM EV2 S7 2 12 it3 Info3 PEve SC3
+TD TD S5 4 5 it3 Info3 PEve SC3
+TD TD S6 2 12 it3 Info3 PEve IG
+TD TD S7 0 5 it3 Info3 PEve TR
+TPx TPx S5 0 12 it3 Info3x PEve TR
+TPx TPx S8 2 12 it3 Info3x PEve TR
+TPx TPx S6 4 5 it3 Info3x PEve TR
+TPx TPx S7 0 12 it3 Info3x PEve TR
+TPx TPx S7 4 1 it3 Info3x PEve TR
+TPy TPy S5 0 16 it3 Info3y PEve TR
+TPy TPy S8 2 16 it3 Info3y PEve TR
+TPy TPy S6 4 1 it3 Info3y PEve TR
+TPy TPy S7 0 16 it3 Info3y PEve TR
+TPy TPy S7 4 5 it3 Info3y PEve TR

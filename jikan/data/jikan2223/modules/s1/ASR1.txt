@@ -1,0 +1,79 @@
+Couleur 180 190 80
+Info "R1.03 Introduction a l'architecture"
+Cible Info1
+Lot CM
+  AffichageDuNom
+  Numerotation
+  Tache CM
+    Cout CM
+    Duree 4
+    Etudiant Info1
+    Enseignant SDie
+    Salles 2 Amphi SC1
+    Repetition 2
+Lot TDx
+  AliasLot TD
+  AffichageDuNom
+  Numerotation
+  Tache TDx
+    Cout TD
+    Duree 4
+    Etudiant Info1x
+    Enseignant SDie
+    Salles 5 TD27 SC3 SCC TD26 TD13
+    Repetition 4
+Lot TDy
+  AliasLot TD
+  AffichageDuNom
+  Numerotation
+  Tache TDy
+    Cout TD
+    Duree 4
+    Etudiant Info1y
+    Enseignant SDie
+    Salles 5 TD27 SC3 SCC TD26 TD13
+    Repetition 4
+Lot TPa
+  AliasLot TP
+  AffichageDuNom
+  Numerotation
+  Tache TPa
+    Cout TP
+    Duree 8
+    Etudiant Info1a
+    Enseignant SDie
+    Salles 4 Mul TR IG Res
+    Repetition 2
+Lot TPb
+  AliasLot TP
+  AffichageDuNom
+  Numerotation
+  Tache TPb
+    Cout TP
+    Duree 8
+    Etudiant Info1b
+    Enseignant SDie
+    Salles 4 Mul TR IG Res
+    Repetition 2
+Lot TPc
+  AliasLot TP
+  AffichageDuNom
+  Numerotation
+  Tache TPc
+    Cout TP
+    Duree 8
+    Etudiant Info1c
+    Enseignant SDie
+    Salles 4 Mul TR IG Res
+    Repetition 2
+Lot TPd
+  AliasLot TP
+  AffichageDuNom
+  Numerotation
+  Tache TPd
+    Cout TP
+    Duree 8
+    Etudiant Info1d
+    Enseignant SDie
+    Salles 4 Mul TR IG Res
+    Repetition 2

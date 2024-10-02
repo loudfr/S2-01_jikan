@@ -1,0 +1,16 @@
+PPPtdx TDx S17 4 12 it3 Info1x NEmo SCC
+PPPtdx TDx S18 0 16 it3 Info1x NEmo SC3
+PPPtdx TDx S19 2 5 it3 Info1x NEmo SC3
+PPPtdx TDx S20 2 12 it3 Info1x NEmo SCC
+PPPtdy TDy S17 2 1 it3 Info1y NEmo SC3
+PPPtdy TDy S18 0 12 it3 Info1y NEmo SCC
+PPPtdy TDy S19 2 12 it3 Info1y NEmo SCC
+PPPtdy TDy S20 2 5 it3 Info1y NEmo SC3
+PPPtpa TQa S21 1 12 it3 Info1a NEmo SCC
+PPPtpa TQa S23 1 12 it3 Info1a NEmo TD13
+PPPtpb TQb S21 1 16 it3 Info1b NEmo TD13
+PPPtpb TQb S23 1 1 it3 Info1b NEmo SCC
+PPPtpc TQc S21 1 1 it3 Info1c NEmo TD27
+PPPtpc TQc S23 1 16 it3 Info1c NEmo SC3
+PPPtpd TQd S21 1 5 it3 Info1d NEmo SC3
+PPPtpd TQd S23 1 5 it3 Info1d NEmo TD27

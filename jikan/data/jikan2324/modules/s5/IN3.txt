@@ -1,0 +1,45 @@
+Couleur 130 195 234
+Info "R5.A06 Realite virtuelle et realite augmentee"
+Cible Info3
+Lot CM
+  AffichageDuNom
+  Numerotation
+  Tache CM
+    Cout CM
+    Duree 4
+    Etudiant Info3
+    Enseignant PVil
+    Salles 3 Amphi SC3 IN
+Lot TD
+  AliasLot TD
+  AffichageDuNom
+  Numerotation
+  Tache TD
+    Cout TD
+    Duree 4
+    Etudiant Info3
+    Enseignant PVil
+    Salles 5 TD13 TD27 SCC SC3 IN
+    Repetition 2
+Lot TPx
+  AliasLot TP
+  AffichageDuNom
+  Numerotation
+  Tache TPx
+    Cout TP
+    Duree 4
+    Etudiant Info3x
+    Enseignant PVil
+    Salle IN
+    Repetition 2
+Lot TPy
+  AliasLot TP
+  AffichageDuNom
+  Numerotation
+  Tache TPy
+    Cout TP
+    Duree 4
+    Etudiant Info3y
+    Enseignant PVil
+    Salle IN
+    Repetition 2

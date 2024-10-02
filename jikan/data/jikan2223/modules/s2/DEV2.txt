@@ -1,0 +1,153 @@
+Couleur 220 150 70
+Info "R2.01 Developpement oriente objets"
+Cible Info1
+Lot CM
+  AffichageDuNom
+  Numerotation
+  Tache CMpe
+    Cout CM
+    Duree 4
+    Etudiant Info1
+    Enseignant PEve
+    Salles 2 Amphi SConf
+    Repetition 3
+  Tache CMoc
+    Cout CM
+    Duree 4
+    Etudiant Info1
+    Enseignant OCas
+    Salles 2 Amphi SConf
+Lot Eval
+  AffichageDuNom
+  Tache EVpe
+    Cout CM
+    Duree 4
+    Etudiant Info1
+    Enseignant PEve
+    Salle Amphi
+  Tache EVoc
+    Cout CM
+    Duree 4
+    Etudiant Info1
+    Enseignant OCas
+    Salle Amphi
+Lot TDx
+  AliasLot TD
+  AffichageDuNom
+  Numerotation
+  Tache TDpex
+    Cout TD
+    Duree 4
+    Etudiant Info1x
+    Enseignant PEve
+    Salles 4 SCC SC3 TD27 TD13
+    Repetition 5
+  Tache TDocx
+    Cout TD
+    Duree 4
+    Etudiant Info1x
+    Enseignant OCas
+    Salles 4 SCC SC3 TD27 TD13
+    Repetition 2
+  Tache TMocx
+    Cout TD
+    Duree 4
+    Etudiant Info1x
+    Enseignant OCas
+    Salles 3 IG Mul TR
+Lot TDy
+  AliasLot TD
+  AffichageDuNom
+  Numerotation
+  Tache TDpey
+    Cout TD
+    Duree 4
+    Etudiant Info1y
+    Enseignant PEve
+    Salles 4 SCC SC3 TD27 TD13
+    Repetition 5
+  Tache TDocy
+    Cout TD
+    Duree 4
+    Etudiant Info1y
+    Enseignant OCas
+    Salles 4 SCC SC3 TD27 TD13
+    Repetition 2
+  Tache TMocy
+    Cout TD
+    Duree 4
+    Etudiant Info1y
+    Enseignant OCas
+    Salles 3 IG Mul TR
+Lot TPa
+  AliasLot TP
+  AffichageDuNom
+  Numerotation
+  Tache TPpea
+    Cout TP
+    Duree 4
+    Etudiant Info1a
+    Enseignant PEve
+    Salles 4 IG TR Mul Res
+    Repetition 10
+  Tache TPoca
+    Cout TP
+    Duree 8
+    Etudiant Info1a
+    Enseignant AHez
+    Salles 4 IG TR Mul Res
+    Repetition 2
+Lot TPb
+  AliasLot TP
+  AffichageDuNom
+  Numerotation
+  Tache TPpeb
+    Cout TP
+    Duree 4
+    Etudiant Info1b
+    Enseignant PEve
+    Salles 4 TR IG Mul Res
+    Repetition 10
+  Tache TPocb
+    Cout TP
+    Duree 8
+    Etudiant Info1b
+    Enseignant OCas
+    Salles 4 TR IG Mul Res
+    Repetition 2
+Lot TPc
+  AliasLot TP
+  AffichageDuNom
+  Numerotation
+  Tache TPpec
+    Cout TP
+    Duree 4
+    Etudiant Info1c
+    Enseignant PEve
+    Salles 4 TR IG Mul Res
+    Repetition 10
+  Tache TPocc
+    Cout TP
+    Duree 8
+    Etudiant Info1c
+    Enseignant OCas
+    Salles 4 TR IG Mul Res
+    Repetition 2
+Lot TPd
+  AliasLot TP
+  AffichageDuNom
+  Numerotation
+  Tache TPped
+    Cout TP
+    Duree 4
+    Etudiant Info1d
+    Enseignant PEve
+    Salles 4 TR IG Mul Res
+    Repetition 10
+  Tache TPocd
+    Cout TP
+    Duree 8
+    Etudiant Info1d
+    Enseignant AHez
+    Salles 4 TR IG Mul Res
+    Repetition 2

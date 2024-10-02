@@ -1,0 +1,15 @@
+TD CM S6 1 1 it3 IN DBol TR
+TD CM S11 2 5 it3 IN DBol Mul
+TD CM S12 2 12 it3 IN DBol IG
+TD TD S6 1 5 it3 IN DBol TR
+TD TD S9 2 1 it3 IN DBol Mul
+TD TD S11 2 16 it3 IN DBol Mul
+TD TD S12 2 5 it3 IN DBol IG
+TD TP S6 1 12 it3 IN DBol TR
+TD TP S6 1 16 it3 IN DBol TR
+TD TP S9 2 5 it3 IN DBol Mul
+TD TP S9 2 12 it3 IN DBol Mul
+TD TP S9 2 16 it3 IN DBol Mul
+TD TP S11 2 1 it3 IN DBol Mul
+TD TP S11 2 12 it3 IN DBol Mul
+TD TP S12 2 1 it3 IN DBol IG

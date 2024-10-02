@@ -1,0 +1,7 @@
+Couleur 255 225 185 
+Info "Audrey Bichet"
+
+ContrainteReguliere interdit 1 ooooooooooooxxxxxxxxooo
+ContrainteReguliere interdit 2 oxxxxxxxxoooooooooooooo
+ContrainteOccasionnelle interdit S39 2 all
+ContrainteOccasionnelle interdit S40 1 all

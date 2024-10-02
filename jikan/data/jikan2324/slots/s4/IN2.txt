@@ -1,0 +1,16 @@
+CM CM S6 0 5 it3 Info2 PVil SC3
+CM CM S8 0 5 it3 Info2 PVil SCC
+TDx TDx S7 0 1 it3 Info2x PVil TD27
+TDx TDx S7 0 12 it3 Info2x PVil SC3
+TDx TDx S8 0 12 it3 Info2x PVil SCC
+TDx TDx S8 0 16 it3 Info2x PVil SCC
+TDy TDy S7 0 5 it3 Info2y PVil TD27
+TDy TDy S7 0 16 it3 Info2y PVil SC3
+TDy TDy S8 1 12 it3 Info2y PVil SC3
+TDy TDy S8 1 16 it3 Info2y PVil SC3
+TPa TPa S7 1 12 it3 Info2A PVil TR
+TPa TPa S7 1 16 it3 Info2A PVil TR
+TPb TPb S6 0 12 it3 Info2B PVil TR
+TPb TPb S6 0 16 it3 Info2B PVil TR
+TPc TPc S6 1 12 it3 Info2C PVil TR
+TPc TPc S6 1 16 it3 Info2C PVil TR

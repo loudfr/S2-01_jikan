@@ -1,0 +1,13 @@
+CM CM S47 2 1 it5 IPx IPy IPz EMed Tim
+CM CM S47 2 12 it5 IPx IPy IPz EMed Tim
+CM CM S48 2 1 it5 IPx IPy IPz EMed Tim
+TD TD S47 2 5 it5 IPx IPy IPz EMed Tim
+TD TD S48 2 5 it5 IPx IPy IPz EMed Tim
+TD TD S48 2 12 it5 IPx IPy IPz EMed Tim
+TD TD S49 2 1 it5 IPx IPy IPz EMed Tim
+TP TP S47 2 16 it5 IPx IPy IPz EMed Tim
+TP TP S48 2 16 it5 IPx IPy IPz EMed Tim
+TP TP S49 2 5 it5 IPx IPy IPz EMed Tim
+TP TP S49 2 12 it5 IPx IPy IPz EMed Tim
+TP TP S49 2 16 it5 IPx IPy IPz EMed Tim
+TP TP S50 2 5 it5 IPx IPy IPz EMed Tim

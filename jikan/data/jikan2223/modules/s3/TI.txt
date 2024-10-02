@@ -1,0 +1,63 @@
+Couleur 250 60 80
+Info "R3.15 Traitement d'image"
+Cible Info2
+Lot CM
+  AffichageDuNom
+  Numerotation
+  Tache CM
+    Cout CM
+    Duree 4
+    Etudiant Info2
+    Enseignant DBol
+    Salles 2 Amphi SC3
+    Repetition 2
+Lot Eval
+  AffichageDuNom
+  Tache EV
+    Cout CM
+    Duree 4
+    Etudiant Info2
+    Enseignant DBol
+    Salle Amphi
+Lot TDx
+  AliasLot TD
+  AffichageDuNom
+  Numerotation
+  Tache TMx
+    Cout TD
+    Duree 4
+    Etudiant Info2x
+    Enseignant DBol
+    Salles 4 IG TR Mul IN
+Lot TDy
+  AliasLot TD
+  AffichageDuNom
+  Numerotation
+  Tache TMy
+    Cout TD
+    Duree 4
+    Etudiant Info2y
+    Enseignant DBol
+    Salles 4 IG TR Mul IN
+Lot TPa
+  AliasLot TP
+  AffichageDuNom
+  Numerotation
+  Tache TPa
+    Cout TP
+    Duree 8
+    Etudiant Info2A
+    Enseignant DBol
+    Salles 4 Mul IG TR IN
+    Repetition 3
+Lot TPc
+  AliasLot TP
+  AffichageDuNom
+  Numerotation
+  Tache TPc
+    Cout TP
+    Duree 8
+    Etudiant Info2C
+    Enseignant DBol
+    Salles 4 Mul IG TR IN
+    Repetition 3

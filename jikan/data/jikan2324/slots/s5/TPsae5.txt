@@ -1,0 +1,21 @@
+TPweb5x SPweb5x S43 1 12 it3 Info3x PVil Mul
+TPweb5x SPweb5x S43 1 16 it3 Info3x PVil Mul
+TPweb5y SPweb5y S43 2 1 it3 Info3y PVil Mul
+TPweb5y SPweb5y S43 2 5 it3 Info3y PVil Mul
+TPdev7x SPdev7x S3 1 16 it3 Info3x HRos IG
+TPdev7y SPdev7y S3 1 12 it3 Info3y HRos IG
+TPqd4x SPqd4x S3 1 12 it3 Info3x OCas TR
+TPqd4y SPqd4y S3 1 16 it3 Info3y OCas TR
+TPm14x SPm14x S43 0 5 it3 Info3x PAde TR
+TPm14y SPm14y S43 0 1 it3 Info3y PAde TR
+TPa5x SPa5x S2 2 12 it3 Info3x ACas IG
+TPa5y SPa5y S2 2 16 it3 Info3y ACas IG
+TPm16 SQm16 S38 2 5 it3 PE PAde TD13
+TPm16 SQm16 S38 4 12 it3 PE PAde TD13
+TPm16 SPm16 S39 1 5 it3 PE PAde TR
+TPdi4 SPdi4 S50 2 16 it5 IPx IPy IPz EMed Tim
+TPdi4 SPdi4 S50 2 12 it5 IPx IPy IPz EMed Tim
+TPdi5 SPdi5 S37 4 16 it5 IPx IPy IPz JFic Mae
+TPdi5 SPdi5 S37 5 0 it5 IPx IPy IPz JFic Mae
+TPdi5 SPdi5 S37 5 4 it5 IPx IPy IPz JFic Mae
+TPdi5 SPdi5 S38 4 16 it5 IPx IPy IPz JFic Mae

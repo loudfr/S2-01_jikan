@@ -1,0 +1,16 @@
+SAEalt SAEalt S11 1 1 it1 Info3
+SAEalt SAEalt S11 1 5 it1 Info3
+SAEalt SAEalt S11 2 1 it1 Info3
+SAEalt SAEalt S11 2 5 it1 Info3
+SAEalt SAEalt S10 2 1 it1 Info3
+SAEalt SAEalt S10 2 5 it1 Info3
+SAEalt SAEalt S10 2 12 it1 Info3
+SAEalt SAEalt S10 4 1 it1 Info3
+SAEalt SAEalt S10 4 5 it1 Info3
+SAEalt SAEalt S10 1 1 it1 Info3
+SAEnoalt SAEdist4 S10 0 1 it1 Info3
+SAEnoalt SAEdist4 S10 0 12 it1 Info3
+SAEnoalt SAEdist4 S5 3 1 it1 Info3
+SAEnoalt SAEdist4 S8 4 1 it1 Info3
+SAEnoalt SAEdist4 S8 3 1 it1 Info3
+SAEnoalt SAEdist4 S8 2 1 it1 Info3

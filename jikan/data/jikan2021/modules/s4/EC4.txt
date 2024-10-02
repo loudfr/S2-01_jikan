@@ -1,0 +1,79 @@
+Couleur 170 220 160
+Info "Communiquer dans les organisations"
+Lot TDx
+  AliasLot TD
+  AffichageDuNom
+  Numerotation
+  Tache TDx
+    Cout TD
+    Duree 4
+    Etudiant WM1
+    Etudiant WM2
+    Enseignant ARic
+    Salles 2 SC3 SCC
+    Repetition 4
+Lot TDy
+  AliasLot TD
+  AffichageDuNom
+  Numerotation
+  Tache TDy
+    Cout TD
+    Duree 4
+    Etudiant IN
+    Enseignant ARic
+    Salle SCC
+    Repetition 4
+Lot TPa
+  AliasLot TP
+  AffichageDuNom
+  Numerotation
+  Tache TPa
+    Cout TP
+    Duree 4
+    Etudiant WM1
+    Enseignant ARic
+    Salles 2 SC3 SCC
+    Repetition 4
+  Tache TPaCM
+    Cout TD
+    Duree 4
+    Etudiant WM1
+    Enseignant CMag
+    Salle Amphi
+    Repetition 2
+Lot TPb
+  AliasLot TP
+  AffichageDuNom
+  Numerotation
+  Tache TPb
+    Cout TP
+    Duree 4
+    Etudiant WM2
+    Enseignant ARic
+    Salles 3 TD13 TD27 SCC
+    Repetition 4
+  Tache TPbCM
+    Cout TD
+    Duree 4
+    Etudiant WM2
+    Enseignant CMag
+    Salle Amphi
+    Repetition 2
+Lot TPc
+  AliasLot TP
+  AffichageDuNom
+  Numerotation
+  Tache TPc
+    Cout TP
+    Duree 4
+    Etudiant IN
+    Enseignant ARic
+    Salle SCC
+    Repetition 4
+  Tache TPcCM
+    Cout TD
+    Duree 4
+    Etudiant IN
+    Enseignant CMag
+    Salle Amphi
+    Repetition 2

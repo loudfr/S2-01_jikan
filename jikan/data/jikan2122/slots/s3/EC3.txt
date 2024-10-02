@@ -1,0 +1,15 @@
+TDx TDx S36 0 16 it3 Info2x ARic TD27
+TDx TDx S38 2 5 it3 Info2x ARic SCC
+TDx TDx S40 3 5 it3 Info2x ARic SCC
+TDy TDy S36 0 12 it3 Info2y ARic SC3
+TDy TDy S38 2 12 it3 Info2y ARic SCC
+TDy TDy S40 3 1 it3 Info2y ARic SCC
+TPa TQa S37 2 5 it3 Info2A ARic SCC
+TPa TPa S39 0 1 it3 Info2A ARic SCC
+TPa TPa S41 0 16 it3 Info2A ARic SCC
+TPb TQb S37 2 12 it3 Info2B ARic SCC
+TPb TPb S39 2 12 it3 Info2B ARic SCC
+TPb TPb S41 0 12 it3 Info2B ARic SCC
+TPc TQc S37 2 16 it3 Info2C ARic SCC
+TPc TPc S39 0 5 it3 Info2C ARic SCC
+TPc TPc S41 0 1 it3 Info2C ARic SCC

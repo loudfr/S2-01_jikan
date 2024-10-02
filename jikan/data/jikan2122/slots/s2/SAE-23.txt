@@ -1,0 +1,48 @@
+TDx SDr1x S14 3 2 it3 Info1x SDie TD27
+TDx SDr2x S21 0 6 it3 Info1x SDie SCC
+TDy SDr1y S21 0 13 it3 Info1y SDie SC3
+TDy SDr2y S14 3 6 it3 Info1y SDie SC3
+TPa SPsda S22 1 1 it3 Info1a SDie TR
+TPa SPaca S23 1 1 it3 Info1a ACas Mul
+TPa SPara S22 3 1 it3 Info1a ARic TR
+TPb SPsdb S22 1 5 it3 Info1b SDie IG
+TPb SPacb S23 1 12 it3 Info1b ACas IG
+TPb SParb S22 2 1 it3 Info1b ARic IG
+TPc SPsdc S22 1 12 it3 Info1c SDie Mul
+TPc SPacc S23 1 5 it3 Info1c ACas TR
+TPc SParc S22 3 5 it3 Info1c ARic Mul
+TPd SPsdd S22 1 16 it3 Info1d SDie Res
+TPd SPacd S23 1 16 it3 Info1d ACas Res
+TPd SPard S22 2 16 it3 Info1d ARic Res
+SAEa SAEa S23 2 1 it1 Info1a
+SAEa SAEa S23 2 5 it1 Info1a
+SAEa SAEa S23 3 1 it1 Info1a
+SAEa SAEa S23 3 5 it1 Info1a
+SAEa SAEa S23 2 12 it1 Info1a
+SAEa SAEa S23 2 16 it1 Info1a
+SAEa SAEa S23 4 1 it1 Info1a
+SAEa SAEa S23 4 5 it1 Info1a
+SAEb SAEb S23 2 1 it1 Info1b
+SAEb SAEb S23 2 5 it1 Info1b
+SAEb SAEb S23 3 1 it1 Info1b
+SAEb SAEb S23 3 5 it1 Info1b
+SAEb SAEb S23 2 12 it1 Info1b
+SAEb SAEb S23 2 16 it1 Info1b
+SAEb SAEb S23 4 1 it1 Info1b
+SAEb SAEb S23 4 5 it1 Info1b
+SAEc SAEc S23 2 1 it1 Info1c
+SAEc SAEc S23 2 5 it1 Info1c
+SAEc SAEc S23 3 1 it1 Info1c
+SAEc SAEc S23 3 5 it1 Info1c
+SAEc SAEc S23 2 12 it1 Info1c
+SAEc SAEc S23 2 16 it1 Info1c
+SAEc SAEc S23 4 1 it1 Info1c
+SAEc SAEc S23 4 5 it1 Info1c
+SAEd SAEd S23 2 1 it1 Info1d
+SAEd SAEd S23 2 5 it1 Info1d
+SAEd SAEd S23 3 1 it1 Info1d
+SAEd SAEd S23 3 5 it1 Info1d
+SAEd SAEd S23 2 12 it1 Info1d
+SAEd SAEd S23 2 16 it1 Info1d
+SAEd SAEd S23 4 1 it1 Info1d
+SAEd SAEd S23 4 5 it1 Info1d

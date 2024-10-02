@@ -1,0 +1,86 @@
+Couleur 220 70 150
+Info "Bases de la programmation orientee-objet"
+Lot CM
+  AffichageDuNom
+  Numerotation
+  Tache CM
+    Cout CM
+    Duree 4
+    Etudiant Info1
+    Enseignant PEve
+    Salles 2 Amphi SConf
+    Repetition 4
+Lot Eval
+  AffichageDuNom
+  Tache Eval
+    Cout CM
+    Duree 4
+    Etudiant Info1
+    Enseignant PEve
+    Salle Amphi
+Lot TDx
+  AliasLot TD
+  AffichageDuNom
+  Numerotation
+  Tache TDx
+    Cout TD
+    Duree 4
+    Etudiant Info1x
+    Enseignant PEve
+    Salles 6 SCC SC3 TD27 TD13 TD26 TD28
+    Repetition 10
+Lot TDy
+  AliasLot TD
+  AffichageDuNom
+  Numerotation
+  Tache TDy
+    Cout TD
+    Duree 4
+    Etudiant Info1y
+    Enseignant PEve
+    Salles 6 SCC SC3 TD27 TD13 TD26 TD28
+    Repetition 10
+Lot TPa
+  AliasLot TP
+  AffichageDuNom
+  Numerotation
+  Tache TPa
+    Cout TP
+    Duree 8
+    Etudiant Info1a
+    Enseignant PEve
+    Salles 5 IG TR Mul Res IN
+    Repetition 6
+Lot TPb
+  AliasLot TP
+  AffichageDuNom
+  Numerotation
+  Tache TPb
+    Cout TP
+    Duree 8
+    Etudiant Info1b
+    Enseignant DBol
+    Salles 5 TR IG Mul Res IN
+    Repetition 6
+Lot TPc
+  AliasLot TP
+  AffichageDuNom
+  Numerotation
+  Tache TPc
+    Cout TP
+    Duree 8
+    Etudiant Info1c
+    Enseignant KBet
+    Salles 5 TR IG Mul Res IN
+    Repetition 6
+Lot TPd
+  AliasLot TP
+  AffichageDuNom
+  Numerotation
+  Tache TPd
+    Cout TP
+    Duree 8
+    Etudiant Info1d
+    Enseignant PEve
+    Salles 5 TR IG Mul Res IN
+    Repetition 6

@@ -1,0 +1,64 @@
+Couleur 110 237 174
+Info "Atelier de cremation d'entreprise"
+Lot CM
+  AliasLot CM
+  AffichageDuNom
+  Numerotation
+  Tache CM
+    Cout CM
+    Duree 4
+    Etudiant WM1
+    Etudiant WM2
+    Enseignant BDav
+    Salles 3 SC3 SCC TD27
+    Repetition 2
+  Tache CN
+    Cout CM
+    Duree 4
+    Etudiant WM1
+    Etudiant WM2
+    Enseignant BDav
+    Salles 3 IG Mul TR
+Lot Eval
+  AffichageDuNom
+  Tache Eval
+    Cout CM
+    Duree 4
+    Etudiant WM1
+    Etudiant WM2
+    Enseignant BDav
+    Salle Amphi
+Lot TD
+  AliasLot TD
+  AffichageDuNom
+  Numerotation
+  Tache TM
+    Cout TD
+    Duree 4
+    Etudiant WM1
+    Etudiant WM2
+    Enseignant BDav
+    Salles 3 Mul IG TR
+    Repetition 4
+Lot TPa
+  AliasLot TP
+  AffichageDuNom
+  Numerotation
+  Tache TPa
+    Cout TP
+    Duree 4
+    Etudiant WM1
+    Enseignant BDav
+    Salles 5 Mul TR IG Res IN
+    Repetition 5
+Lot TPb
+  AliasLot TP
+  AffichageDuNom
+  Numerotation
+  Tache TPb
+    Cout TP
+    Duree 4
+    Etudiant WM2
+    Enseignant BDav
+    Salles 5 Mul TR IG Res IN
+    Repetition 5

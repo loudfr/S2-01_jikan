@@ -1,0 +1,12 @@
+CM CM S6 0 1 it3 Info2 BDav SC3
+TDx TDbdx S6 3 1 it3 Info2x BDav SC3
+TDy TDbdy S6 3 5 it3 Info2y BDav SC3
+TPa TPbda S7 4 5 it3 Info2A BDav IN
+TPa TPbda S7 4 16 it3 Info2A BDav IN
+TPa TPbda S8 3 1 it3 Info2A BDav IN
+TPb TPbdb S7 3 5 it3 Info2B BDav IN
+TPb TPbdb S8 0 1 it3 Info2B BDav IN
+TPb TPbdb S8 3 5 it3 Info2B BDav IN
+TPc TPbdc S7 4 12 it3 Info2C BDav IN
+TPc TPbdc S8 0 16 it3 Info2C BDav IN
+TPc TPbdc S8 4 12 it3 Info2C BDav IN

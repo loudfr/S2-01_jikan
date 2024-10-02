@@ -1,0 +1,25 @@
+Couleur 130 190 150
+Info "R3.07 SQL dans un langage de programmation"
+Cible Info2
+Lot TDx
+  AliasLot TD
+  AffichageDuNom
+  Numerotation
+  Tache TMx
+    Cout TD
+    Duree 4
+    Etudiant Info2x
+    Enseignant FBea
+    Salles 8 TD13 TD27 SCC SC3 IG TR Mul IN
+    Repetition 6
+Lot TDy
+  AliasLot TD
+  AffichageDuNom
+  Numerotation
+  Tache TMy
+    Cout TD
+    Duree 4
+    Etudiant Info2y
+    Enseignant FBea
+    Salles 8 TD13 TD27 SCC SC3 IG TR Mul IN
+    Repetition 6

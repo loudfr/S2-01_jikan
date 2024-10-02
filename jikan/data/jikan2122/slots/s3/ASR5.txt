@@ -1,0 +1,12 @@
+TDx TDx S44 4 12 it3 Info2x KAbi TD27
+TDx TDx S45 2 5 it3 Info2x KAbi TD27
+TDx TDx S46 3 5 it3 Info2x KAbi TD27
+TDy TDy S44 4 16 it3 Info2y KAbi SC3
+TDy TDy S45 2 1 it3 Info2y KAbi SC3
+TDy TDy S46 3 1 it3 Info2y KAbi SC3
+TPa TPa S47 1 12 it3 Info2A SDie Res
+TPa TPa S48 3 12 it3 Info2A SDie Res
+TPb TPb S47 2 1 it3 Info2B SDie Res
+TPb TPb S48 4 12 it3 Info2B SDie Res
+TPc TPc S47 2 12 it3 Info2C SDie Res
+TPc TPc S49 0 1 it3 Info2C SDie Res

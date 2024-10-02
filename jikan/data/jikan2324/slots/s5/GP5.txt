@@ -1,0 +1,5 @@
+TD TD S39 3 16 it3 Info3 PWil SC3
+TD TD S42 2 1 it3 Info3 PWil SCC
+TD TD S42 2 5 it3 Info3 PWil SCC
+TD TD S2 1 12 it3 Info3 PWil SC3
+TD TD S37 0 1 it3 Info3 PWil TD13

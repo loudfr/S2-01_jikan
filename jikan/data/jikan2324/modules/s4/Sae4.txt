@@ -1,0 +1,13 @@
+Couleur 230 230 250
+Info "PRJ de S4.01 Developpement d'application"
+Cible Info2
+Alias SAE4
+Lot SAE
+  AliasLot PRJ
+  AffichageDuNom
+  Numerotation
+  Tache SAE
+    Cout GR
+    Duree 8
+    Etudiant Info2
+    Repetition 11

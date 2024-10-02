@@ -1,0 +1,86 @@
+Couleur 200 120 40
+Info "Programmation et administration des bases de donnees"
+Alias BD2
+Lot CM
+  AffichageDuNom
+  Numerotation
+  Tache CM
+    Cout CM
+    Duree 4
+    Etudiant Info1
+    Enseignant KBet
+    Salle Amphi
+    Repetition 4
+Lot Eval
+  AffichageDuNom
+  Tache Eval
+    Cout CM
+    Duree 4
+    Etudiant Info1
+    Enseignant KBet
+    Salle Amphi
+Lot TDx
+  AliasLot TD
+  AffichageDuNom
+  Numerotation
+  Tache TDx
+    Cout TD
+    Duree 4
+    Etudiant Info1x
+    Enseignant SDie
+    Salles 3 IG Mul TR
+    Repetition 6
+Lot TDy
+  AliasLot TD
+  AffichageDuNom
+  Numerotation
+  Tache TDy Cout TD
+    Duree 4
+    Etudiant Info1y
+    Enseignant KBet
+    Salles 3 IG Mul TR
+    Repetition 6
+Lot TPa
+  AliasLot TP
+  AffichageDuNom
+  Numerotation
+  Tache TPa
+    Cout TP
+    Duree 8
+    Etudiant Info1a
+    Enseignant PGue
+    Salles 4 Mul TR IG Res
+    Repetition 4
+Lot TPb
+  AliasLot TP
+  AffichageDuNom
+  Numerotation
+  Tache TPb
+    Cout TP
+    Duree 8
+    Etudiant Info1b
+    Enseignant SDie
+    Salles 4 Mul TR IG Res
+    Repetition 4
+Lot TPc
+  AliasLot TP
+  AffichageDuNom
+  Numerotation
+  Tache TPc
+    Cout TP
+    Duree 8
+    Etudiant Info1c
+    Enseignant SDie
+    Salles 4 Mul TR IG Res
+    Repetition 4
+Lot TPd
+  AliasLot TP
+  AffichageDuNom
+  Numerotation
+  Tache TPd
+    Cout TP
+    Duree 8
+    Etudiant Info1d
+    Enseignant PGue
+    Salles 4 Mul TR IG Res
+    Repetition 4

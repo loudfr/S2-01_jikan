@@ -1,0 +1,18 @@
+Couleur 210 184 205
+Info "Contraintes specifiques aux enseignants de mathematiques"
+Lot TM
+  AffichageDuNom
+  MasquageDuModule
+  Tache TM
+    Cout GR
+    Duree 4
+    Enseignant PAde
+    Repetition 40
+Lot RI
+  AffichageDuNom
+  MasquageDuModule
+  Tache RI
+    Cout GR
+    Duree 4
+    Enseignant PAde
+    Repetition 40

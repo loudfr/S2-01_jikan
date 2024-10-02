@@ -1,0 +1,98 @@
+Couleur 190 190 110
+Info "Bases de la communication"
+Alias COM1
+Cible Info1
+Lot TDx
+  AliasLot TD
+  AffichageDuNom
+  Numerotation
+  Tache TDx
+    Cout TD
+    Duree 4
+    Etudiant Info1x
+    Enseignant ARic
+    Salle SCC
+    Repetition 3
+Lot TDy
+  AliasLot TD
+  AffichageDuNom
+  Numerotation
+  Tache TDy
+    Cout TD
+    Duree 4
+    Etudiant Info1y
+    Enseignant ARic
+    Salle SCC
+    Repetition 3
+Lot TPa
+  AliasLot TP
+  AffichageDuNom
+  Numerotation
+  Tache TPa
+    Cout TP
+    Duree 4
+    Etudiant Info1a
+    Enseignant ARic
+    Salle SCC
+    Repetition 2
+  Tache TPcma
+    Cout TD
+    Duree 4
+    Etudiant Info1a
+    Enseignant CMag
+    Salle Amphi
+    Repetition 2
+Lot TPb
+  AliasLot TP
+  AffichageDuNom
+  Numerotation
+  Tache TPb
+    Cout TP
+    Duree 4
+    Etudiant Info1b
+    Enseignant ARic
+    Salle SCC
+    Repetition 2
+  Tache TPcmb
+    Cout TD
+    Duree 4
+    Etudiant Info1b
+    Enseignant CMag
+    Salle Amphi
+    Repetition 2
+Lot TPc
+  AliasLot TP
+  AffichageDuNom
+  Numerotation
+  Tache TPc
+    Cout TP
+    Duree 4
+    Etudiant Info1c
+    Enseignant ARic
+    Salle SCC
+    Repetition 2
+  Tache TPcmc
+    Cout TD
+    Duree 4
+    Etudiant Info1c
+    Enseignant CMag
+    Salle Amphi
+    Repetition 2
+Lot TPd
+  AliasLot TP
+  AffichageDuNom
+  Numerotation
+  Tache TPd
+    Cout TP
+    Duree 4
+    Etudiant Info1d
+    Enseignant ARic
+    Salle SCC
+    Repetition 2
+  Tache TPcmd
+    Cout TD
+    Duree 4
+    Etudiant Info1d
+    Enseignant CMag
+    Salle Amphi
+    Repetition 2

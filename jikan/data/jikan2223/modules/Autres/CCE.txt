@@ -1,0 +1,14 @@
+Couleur 100 220 70
+Info "Commission de choix des enseignants"
+MasquageDesEns
+Lot ConseilIUT
+  Tache ConseilIUT
+    Cout GR
+    Duree 4
+    Enseignant OCas
+    Enseignant PAde
+    Enseignant PEve
+    Enseignant SDie
+    Enseignant PVil
+    Salle SCons
+    Repetition 6

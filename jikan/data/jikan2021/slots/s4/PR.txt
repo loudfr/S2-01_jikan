@@ -1,0 +1,16 @@
+TD TDab S4 0 5 it4 WM1 WM2 ABou SC3
+TD Evalab S7 0 1 it4 WM1 WM2 ABou Amphi
+TD CMpv S7 0 5 it4 WM1 WM2 PVil SC3
+TD TMpv S7 1 16 it4 WM1 WM2 PVil IG
+TD TDpv S7 1 12 it4 WM1 WM2 PVil SCC
+TD Evalpv S11 0 1 it4 WM1 WM2 PVil Amphi
+TPa TPaAB S4 0 12 it3 WM1 ABou Res
+TPa TPaAB S5 4 12 it3 WM1 ABou Res
+TPa TPaAB S6 0 12 it3 WM1 ABou Res
+TPa TPaPV S9 1 12 it3 WM1 PVil Mul
+TPa TPaPV S9 1 16 it3 WM1 PVil Mul
+TPb TPbAB S4 1 12 it3 WM2 ABou Res
+TPb TPbAB S5 0 12 it3 WM2 ABou Res
+TPb TPbAB S6 3 12 it3 WM2 ABou Res
+TPb TPbPV S9 1 1 it3 WM2 PVil IG
+TPb TPbPV S9 1 5 it3 WM2 PVil IG

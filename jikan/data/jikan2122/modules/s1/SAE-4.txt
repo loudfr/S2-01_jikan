@@ -1,0 +1,93 @@
+Couleur 90 110 200
+Info "Creation d'une bases de donnees"
+Cible Info1
+Lot TDx
+  AliasLot TD
+  AffichageDuNom
+  Tache SDx
+    Cout TD
+    Duree 4
+    Etudiant Info1x
+    Enseignant SDie
+    Salles 5 TD27 SC3 SCC TD26 TD13
+Lot TDy
+  AliasLot TD
+  AffichageDuNom
+  Tache SDy
+    Cout TD
+    Duree 4
+    Etudiant Info1y
+    Enseignant KAbi
+    Salles 5 SC3 TD27 SCC TD26 TD13
+Lot TPa
+  AliasLot TP
+  AffichageDuNom
+  Tache SPa
+    Cout TP
+    Duree 4
+    Etudiant Info1a
+    Enseignant SDie
+    Salles 4 Mul TR IG Res
+Lot TPb
+  AliasLot TP
+  AffichageDuNom
+  Tache SPb
+    Cout TP
+    Duree 4
+    Etudiant Info1b
+    Enseignant KAbi
+    Salles 4 Mul TR IG Res
+Lot TPc
+  AliasLot TP
+  AffichageDuNom
+  Tache SPc
+    Cout TP
+    Duree 4
+    Etudiant Info1c
+    Enseignant KAbi
+    Salles 4 IG TR Mul Res
+Lot TPd
+  AliasLot TP
+  AffichageDuNom
+  Tache SPd
+    Cout TP
+    Duree 4
+    Etudiant Info1d
+    Enseignant SDie
+    Salles 4 IG TR Mul Res
+Lot SAEa
+  AliasLot PRJ
+  AffichageDuNom
+  Numerotation
+  Tache SAEa
+    Cout GR
+    Duree 4
+    Etudiant Info1a
+    Repetition 6
+Lot SAEb
+  AliasLot PRJ
+  AffichageDuNom
+  Numerotation
+  Tache SAEb
+    Cout GR
+    Duree 4
+    Etudiant Info1b
+    Repetition 6
+Lot SAEc
+  AliasLot PRJ
+  AffichageDuNom
+  Numerotation
+  Tache SAEc
+    Cout GR
+    Duree 4
+    Etudiant Info1c
+    Repetition 6
+Lot SAEd
+  AliasLot PRJ
+  AffichageDuNom
+  Numerotation
+  Tache SAEd
+    Cout GR
+    Duree 4
+    Etudiant Info1d
+    Repetition 6

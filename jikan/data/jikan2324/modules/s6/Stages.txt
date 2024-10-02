@@ -1,0 +1,28 @@
+Couleur 120 220 120
+Info "Stage de 3e annee en entreprise"
+MasquageDuNom
+MasquageDesEns
+Lot Depart
+  AffichageDuNom
+  Tache Depart
+    Cout GR
+    Duree 1
+    Etudiant Info3
+Lot Soutenances-St6
+  AffichageDuNom
+  Tache Soutenances
+    Cout GR
+    Duree 8
+    Etudiant Info3
+    Etudiant Info2
+    Etudiant Info1
+    Enseignant PEve
+    Enseignant SDie
+    Enseignant PVil
+    Enseignant PAde
+    Enseignant ACas
+    Enseignant OCas
+    Enseignant DBol
+    Enseignant ABou
+    Enseignant BDav
+    Enseignant FAbd

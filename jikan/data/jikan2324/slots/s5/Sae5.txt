@@ -1,0 +1,98 @@
+SAEalt SAEalt S3 2 16 it1 Info3
+SAEalt SAEalt S3 0 16 it1 Info3
+SAEalt SAEalt S3 3 1 it1 Info3
+SAEalt SAEalt S3 3 5 it1 Info3
+SAEalt SAEalt S2 4 1 it1 Info3
+SAEalt SAEalt S2 3 12 it1 Info3
+SAEalt SAEalt S2 4 12 it1 Info3
+SAEalt SAEalt S2 4 16 it1 Info3
+SAEalt SAEalt S50 4 1 it1 Info3
+SAEalt SAEalt S48 4 5 it1 Info3
+SAEalt SAEalt S48 4 12 it1 Info3
+SAEalt SAEalt S48 4 16 it1 Info3
+SAEalt SAEalt S49 1 1 it1 Info3
+SAEalt SAEalt S49 3 12 it1 Info3
+SAEalt SAEalt S48 4 1 it1 Info3
+SAEalt SAEalt S48 3 16 it1 Info3
+SAEalt SAEalt S48 1 1 it1 Info3
+SAEalt SAEalt S47 4 16 it1 Info3
+SAEalt SAEalt S43 4 12 it1 Info3
+SAEalt SAEalt S43 4 16 it1 Info3
+SAEalt SAEalt S43 3 1 it1 Info3
+SAEalt SAEalt S43 3 5 it1 Info3
+SAEalt SAEalt S42 1 1 it1 Info3
+SAEalt SAEalt S43 4 5 it1 Info3
+SAEalt SAEalt S43 4 1 it1 Info3
+SAEalt SAEalt S39 4 1 it1 Info3
+SAEalt SAEalt S39 4 16 it1 Info3
+SAEalt SAEalt S38 2 16 it1 Info3
+SAEalt SAEalt S36 0 16 it1 Info3
+SAEalt SAEalt S36 2 16 it1 Info3
+SAEalt SAEalt S49 3 16 it1 Info3
+SAEalt SAEalt S50 3 5 it1 Info3
+SAEalt SAEalt S39 2 16 it1 Info3
+SAEaltx SAEaltx S49 4 16 it1 Info3x
+SAEaltx SAEaltx S43 2 1 it1 Info3x
+SAEaltx SAEaltx S43 2 12 it1 Info3x
+SAEaltx SAEaltx S42 4 16 it1 Info3x
+SAEaltx SAEaltx S42 4 5 it1 Info3x
+SAEaltx SAEaltx S42 2 12 it1 Info3x
+SAEaltx SAEaltx S38 0 16 it1 Info3x
+SAEaltx SAEaltx S49 0 5 it1 Info3x
+SAEaltx SAEaltx S48 1 16 it1 Info3x
+SAEaltx SAEaltx S47 1 16 it1 Info3x
+SAEaltx SAEaltx S42 3 12 it1 Info3x
+SAEaltx SAEaltx S42 3 16 it1 Info3x
+SAEaltx SAEaltx S50 1 12 it1 Info3x
+SAEalty SAEalty S49 4 12 it1 Info3y
+SAEalty SAEalty S43 1 12 it1 Info3y
+SAEalty SAEalty S43 1 16 it1 Info3y
+SAEalty SAEalty S42 4 12 it1 Info3y
+SAEalty SAEalty S42 4 1 it1 Info3y
+SAEalty SAEalty S42 0 12 it1 Info3y
+SAEalty SAEalty S38 0 12 it1 Info3y
+SAEalty SAEalty S50 3 16 it1 Info3y
+SAEalty SAEalty S2 3 16 it1 Info3y
+SAEalty SAEalty S47 3 16 it1 Info3y
+SAEalty SAEalty S42 0 1 it1 Info3y
+SAEalty SAEalty S42 0 5 it1 Info3y
+SAEalty SAEalty S50 3 12 it1 Info3y
+SAEnoalt SAEdist4 S51 4 1 it1 Info3
+SAEnoalt SAEdist4 S51 2 1 it1 Info3
+SAEnoalt SAEdist4 S51 1 1 it1 Info3
+SAEnoalt SAEdist4 S51 3 1 it1 Info3
+SAEnoalt SAEdist4 S40 2 1 it1 Info3
+SAEnoalt SAEdist4 S46 2 1 it1 Info3
+SAEnoalt SAEdist4 S46 1 1 it1 Info3
+SAEnoalt SAEdist4 S46 0 1 it1 Info3
+SAEnoalt SAEdist4 S45 3 1 it1 Info3
+SAEnoalt SAEdist4 S45 2 1 it1 Info3
+SAEnoalt SAEdist4 S45 1 1 it1 Info3
+SAEnoalt SAEdist4 S40 2 12 it1 Info3
+SAEnoalt SAEdist4 S41 3 1 it1 Info3
+SAEnoalt SAEdist4 S40 3 1 it1 Info3
+SAEnoalt SAEdist4 S45 4 1 it1 Info3
+SAEnoalt SAEdist2 S51 0 16 it1 Info3
+SAEnoalt SAEdist2 S46 4 16 it1 Info3
+SAEnoalt SAEdist2 S41 4 16 it1 Info3
+SAEnoalt SAEdist2 S46 3 16 it1 Info3
+SAEnoalt SAEdist2 S40 0 16 it1 Info3
+SAEnoalt SAEdist2 S40 1 16 it1 Info3
+SAEnoalt SAEpres S41 4 1 it2 Info3 EnPresence
+SAEnoalt SAEpres S41 4 5 it2 Info3 EnPresence
+SAEnoalt SAEpres S41 4 12 it2 Info3 EnPresence
+SAEnoalt SAEpres S46 4 1 it2 Info3 EnPresence
+SAEnoalt SAEpres S46 4 5 it2 Info3 EnPresence
+SAEnoalt SAEpres S46 4 12 it2 Info3 EnPresence
+SAEnoalt SAEpres S51 0 1 it2 Info3 EnPresence
+SAEnoalt SAEpres S51 0 5 it2 Info3 EnPresence
+SAEnoalt SAEpres S51 0 12 it2 Info3 EnPresence
+SAEnoalt SAEpres S46 3 1 it2 Info3 EnPresence
+SAEnoalt SAEpres S46 3 5 it2 Info3 EnPresence
+SAEnoalt SAEpres S46 3 12 it2 Info3 EnPresence
+SAEnoalt SAEpres S40 0 1 it2 Info3 EnPresence
+SAEnoalt SAEpres S40 0 5 it2 Info3 EnPresence
+SAEnoalt SAEpres S40 0 12 it2 Info3 EnPresence
+SAEnoalt SAEpres S40 1 1 it2 Info3 EnPresence
+SAEnoalt SAEpres S40 1 5 it2 Info3 EnPresence
+SAEnoalt SAEpres S40 1 12 it2 Info3 EnPresence

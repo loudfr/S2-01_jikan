@@ -1,0 +1,14 @@
+TDx TDx S40 2 5 it3 Info1x ARic Alab
+TDy TDy S40 2 12 it3 Info1y ARic Alab
+TPa TPa S44 2 1 it3 Info1a ARic Alab
+TPb TPb S44 1 1 it3 Info1b ARic Alab
+TPc TPc S44 2 5 it3 Info1c ARic Alab
+TPd TPd S44 1 5 it3 Info1d ARic Alab
+PFa PFa S1 2 16 it3 Info1a ARic TD27
+PFa PFa S2 2 12 it3 Info1a ARic SCC
+PFb PFb S1 2 12 it3 Info1b ARic SCC
+PFb PFb S2 2 5 it3 Info1b ARic TD27
+PFc PFc S1 2 5 it3 Info1c ARic SC3
+PFc PFc S2 2 16 it3 Info1c ARic SC3
+PFd PFd S1 2 1 it3 Info1d ARic TD13
+PFd PFd S2 2 1 it3 Info1d ARic TD13

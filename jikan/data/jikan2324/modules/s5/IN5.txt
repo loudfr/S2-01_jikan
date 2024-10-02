@@ -1,0 +1,54 @@
+Couleur 230 95 134
+Info "R5.A16 Application graphique"
+Cible Info3
+Lot CM
+  AffichageDuNom
+  Numerotation
+  Tache CM
+    Cout CM
+    Duree 4
+    Etudiant Info3
+    Enseignant DBol
+    Salles 2 Amphi SC3
+Lot EV
+  AffichageDuNom
+  Numerotation
+  Tache EV
+    Cout CM
+    Duree 4
+    Etudiant Info3
+    Enseignant DBol
+    Salles 2 Amphi SC3
+Lot TD
+  AliasLot TD
+  AffichageDuNom
+  Numerotation
+  Tache TD
+    Cout TD
+    Duree 4
+    Etudiant Info3
+    Enseignant DBol
+    Salles 5 IG Mul Res TR IN
+    Repetition 4
+Lot TPx
+  AliasLot TP
+  AffichageDuNom
+  Numerotation
+  Tache TPx
+    Cout TP
+    Duree 4
+    Etudiant Info3x
+    Enseignant DBol
+    Salles 4 Mul IG TR IN
+    Repetition 4
+Lot TPy
+  AliasLot TP
+  AffichageDuNom
+  Numerotation
+  Tache TPy
+    Cout TP
+    Duree 4
+    Etudiant Info3y
+    Enseignant DBol
+    Salles 4 Mul IG TR IN
+    Repetition 4

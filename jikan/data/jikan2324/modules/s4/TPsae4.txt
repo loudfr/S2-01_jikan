@@ -1,0 +1,235 @@
+Couleur 240 140 190
+Info "TP de S4.01 Developpement d'application"
+Cible Info2
+Alias SAE4
+Lot TPweb3a
+  AliasLot web3
+  AffichageDuNom
+  Tache SPweb3a
+    Matiere WEB3
+    Cout TP
+    Duree 4
+    Etudiant Info2A
+    Enseignant EMic
+    Salle IG
+Lot TPweb3b
+  AliasLot web3
+  AffichageDuNom
+  Tache SPweb3b
+    Matiere WEB3
+    Cout TP
+    Duree 4
+    Etudiant Info2B
+    Enseignant EMic
+    Salle IG
+Lot TPweb3c
+  AliasLot web3
+  AffichageDuNom
+  Tache SPweb3c
+    Matiere WEB3
+    Cout TP
+    Duree 4
+    Etudiant Info2C
+    Enseignant HRos
+    Salles 4 Mul TR IG IN
+Lot TPweb4a
+  AliasLot web4
+  AffichageDuNom
+  Tache SPweb4aba
+    Matiere WEB4
+    Cout TP
+    Duree 4
+    Etudiant Info2A
+    Enseignant ABic
+    Salles 4 Mul TR IG IN
+  Tache SPweb4ema
+    Matiere WEB4
+    Cout TP
+    Duree 4
+    Etudiant Info2A
+    Enseignant EMic
+    Salle IG
+Lot TPweb4b
+  AliasLot web4
+  AffichageDuNom
+  Tache SPweb4abb
+    Matiere WEB4
+    Cout TP
+    Duree 4
+    Etudiant Info2B
+    Enseignant ABic
+    Salles 4 Mul TR IG IN
+  Tache SPweb4emb
+    Matiere WEB4
+    Cout TP
+    Duree 4
+    Etudiant Info2B
+    Enseignant EMic
+    Salle IG
+Lot TPweb4c
+  AliasLot web4
+  AffichageDuNom
+  Tache SPweb4abc
+    Matiere WEB4
+    Cout TP
+    Duree 4
+    Etudiant Info2C
+    Enseignant ABic
+    Salles 4 Mul TR IG IN
+  Tache SPweb4emc
+    Matiere WEB4
+    Cout TP
+    Duree 4
+    Etudiant Info2C
+    Enseignant EMic
+    Salles 4 Mul TR IG IN
+Lot TPqd3a
+  AliasLot qd3
+  AffichageDuNom
+  Tache SPqd3a
+    Matiere QD3
+    Cout TP
+    Duree 4
+    Etudiant Info2A
+    Enseignant OCas
+    Salles 5 Tim IG Mul Res TR 
+Lot TPqd3b
+  AliasLot qd3
+  AffichageDuNom
+  Tache SPqd3b
+    Matiere QD3
+    Cout TP
+    Duree 4
+    Etudiant Info2B
+    Enseignant OCas
+    Salles 5 Tim IG Mul Res TR 
+Lot TPqd3c
+  AliasLot qd3
+  AffichageDuNom
+  Tache SPqd3c
+    Matiere QD3
+    Cout TP
+    Duree 4
+    Etudiant Info2C
+    Enseignant OCas
+    Salles 5 Tim IG Mul Res TR 
+Lot TPdi2a
+  AliasLot di2
+  AffichageDuNom
+  Tache SPdi2a
+    Matiere DI2
+    Cout TP
+    Duree 4
+    Etudiant Info2A
+    Enseignant EMed
+    Salle Tim
+Lot TPdi2b
+  AliasLot di2
+  AffichageDuNom
+  Tache SPdi2b
+    Matiere DI2
+    Cout TP
+    Duree 4
+    Etudiant Info2B
+    Enseignant EMed
+    Salle Tim
+Lot TPdi2c
+  AliasLot di2
+  AffichageDuNom
+  Tache SPdi2c
+    Matiere DI2
+    Cout TP
+    Duree 4
+    Etudiant Info2C
+    Enseignant EMed
+    Salle Tim
+Lot TPdi2abis
+  AliasLot di2
+  AffichageDuNom
+  Tache SPdi2a
+    Matiere DI2
+    Cout TP
+    Duree 2
+    Etudiant Info2A
+    Enseignant EMed
+    Salle Tim
+Lot TPdi2bbis
+  AliasLot di2
+  AffichageDuNom
+  Tache SPdi2b
+    Matiere DI2
+    Cout TP
+    Duree 2
+    Etudiant Info2B
+    Enseignant EMed
+    Salle Tim
+Lot TPdi2cbis
+  AliasLot di2
+  AffichageDuNom
+  Tache SPdi2c
+    Matiere DI2
+    Cout TP
+    Duree 2
+    Etudiant Info2C
+    Enseignant EMed
+    Salle Tim
+Lot TPm10a
+  AliasLot m10
+  AffichageDuNom
+  Tache SQm10a
+    Matiere M10
+    Cout TP
+    Duree 4
+    Etudiant Info2A
+    Enseignant PAde
+    Salles 4 TD13 TD27 SCC SC3
+Lot TPm10b
+  AliasLot m10
+  AffichageDuNom
+  Tache SQm10b
+    Matiere M10
+    Cout TP
+    Duree 4
+    Etudiant Info2B
+    Enseignant PAde
+    Salles 4 TD13 TD27 SCC SC3
+Lot TPm10c
+  AliasLot m10
+  AffichageDuNom
+  Tache SPm10c
+    Matiere M10
+    Cout TP
+    Duree 4
+    Etudiant Info2C
+    Enseignant PAde
+    Salles 4 TD13 TD27 SCC SC3
+Lot TPm11a
+  AliasLot m11
+  AffichageDuNom
+  Tache SQm11a
+    Matiere M11
+    Cout TP
+    Duree 4
+    Etudiant Info2A
+    Enseignant PAde
+    Salles 4 TD13 TD27 SCC SC3
+Lot TPm11b
+  AliasLot m11
+  AffichageDuNom
+  Tache SQm11b
+    Matiere M11
+    Cout TP
+    Duree 4
+    Etudiant Info2B
+    Enseignant PAde
+    Salles 4 TD13 TD27 SCC SC3
+Lot TPm11c
+  AliasLot m11
+  AffichageDuNom
+  Tache SQm11c
+    Matiere M11
+    Cout TP
+    Duree 4
+    Etudiant Info2C
+    Enseignant PAde
+    Salles 4 TD13 TD27 SCC SC3

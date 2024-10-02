@@ -1,0 +1,14 @@
+PPP3tdx TDbdx S41 0 5 it3 Info2x BDav SC3
+PPP3tdx TDbdx S48 0 12 it3 Info2x BDav SC3
+PPP3tdx TDdrx S39 4 5 it3 Info2x DRon TD13
+PPP3tdx TDdrx S39 4 16 it3 Info2x DRon TD13
+PPP3tdy TDbdy S41 0 1 it3 Info2y BDav SC3
+PPP3tdy TDbdy S48 0 16 it3 Info2y BDav SC3
+PPP3tdy TDdry S39 4 1 it3 Info2y DRon TD13
+PPP3tdy TDdry S39 4 12 it3 Info2y DRon TD13
+PPP3tpa TPa S50 1 5 it3 Info2A BDav Tim
+PPP3tpa TPa S2 0 12 it3 Info2A BDav IN
+PPP3tpb TPb S50 1 16 it3 Info2B BDav Tim
+PPP3tpb TPb S2 1 12 it3 Info2B BDav IN
+PPP3tpc TPc S50 1 12 it3 Info2C BDav Tim
+PPP3tpc TPc S2 0 16 it3 Info2C BDav IN

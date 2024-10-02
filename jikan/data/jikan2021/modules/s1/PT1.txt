@@ -1,0 +1,56 @@
+Couleur 230 250 200
+Info "Projet tutore : decouverte"
+MasquageDesEns
+Alias PT2
+Lot PT2
+  Tache PrePT2
+    Cout GR
+    Duree 1
+    Etudiant Info1
+    Enseignant ARic
+    Enseignant BDav
+    Salle SC3
+Lot InfoSoc
+  Tache InfoSoc
+    Cout GR
+    Duree 4
+    Etudiant Info1
+    Enseignant ARic
+    Enseignant DFin
+    Salle SConf
+Lot PT1
+  Tache PT
+    Cout GR
+    Duree 4
+    Etudiant Info1
+    Repetition 20
+  Tache PTx
+    Cout GR
+    Duree 4
+    Etudiant Info1x
+    Repetition 20
+  Tache PTy
+    Cout GR
+    Duree 4
+    Etudiant Info1y
+    Repetition 20
+  Tache PTa
+    Cout GR
+    Duree 4
+    Etudiant Info1a
+    Repetition 30
+  Tache PTb
+    Cout GR
+    Duree 4
+    Etudiant Info1b
+    Repetition 30
+  Tache PTc
+    Cout GR
+    Duree 4
+    Etudiant Info1c
+    Repetition 30
+  Tache PTd
+    Cout GR
+    Duree 4
+    Etudiant Info1d
+    Repetition 30

@@ -1,0 +1,13 @@
+Info "Modules du 6eme semestre du BUT INFO"
+DEV8
+QD5
+IN6
+ECO3
+DR3
+C6
+PPP6
+PF6
+TDsae6
+TPsae6
+Sae6
+Stages

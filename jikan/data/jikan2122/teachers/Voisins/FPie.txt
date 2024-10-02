@@ -1,0 +1,5 @@
+Couleur 197 255 235 
+Info "Fabien Pierre"
+
+ContrainteReguliere interdit 1 ooooooooooooxxxxxxxxoo
+ContrainteReguliere interdit 4 all

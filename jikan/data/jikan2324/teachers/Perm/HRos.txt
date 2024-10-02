@@ -1,0 +1,5 @@
+Couleur 105 254 215
+Info "Hugo Rositi"
+
+ContrainteOccasionnelle interdit S39 1 all
+ContrainteOccasionnelle interdit S40 1 all

@@ -1,0 +1,7 @@
+CM CM S36 3 5 it3 Info3 PVil IN
+TD TD S36 3 12 it3 Info3 PVil IN
+TD TD S37 1 16 it3 Info3 PVil IN
+TPx TPx S37 1 5 it3 Info3x PVil IN
+TPx TPx S38 1 5 it3 Info3x PVil IN
+TPy TPy S37 1 12 it3 Info3y PVil IN
+TPy TPy S38 1 12 it3 Info3y PVil IN

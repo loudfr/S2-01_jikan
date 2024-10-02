@@ -1,0 +1,28 @@
+TDx SDfax S15 3 1 it3 Info1x FAbd SCC
+TDx SDpax S15 3 5 it3 Info1x PAde SC3
+TDy SDfay S15 3 5 it3 Info1y FAbd SCC
+TDy SDpay S15 3 1 it3 Info1y PAde SC3
+SAEa SAEa S13 1 16 it1 Info1a
+SAEa SAEa S13 0 16 it1 Info1a
+SAEa SAEa S13 2 16 it1 Info1a
+SAEa SAEa S12 0 16 it1 Info1a
+SAEa SAEa S11 3 5 it1 Info1a
+SAEa SAEa S14 2 16 it1 Info1a
+SAEb SAEb S13 3 5 it1 Info1b
+SAEb SAEb S13 0 16 it1 Info1b
+SAEb SAEb S13 2 16 it1 Info1b
+SAEb SAEb S12 1 16 it1 Info1b
+SAEb SAEb S11 3 5 it1 Info1b
+SAEb SAEb S14 2 16 it1 Info1b
+SAEc SAEc S13 0 12 it1 Info1c
+SAEc SAEc S13 1 12 it1 Info1c
+SAEc SAEc S13 3 5 it1 Info1c
+SAEc SAEc S12 1 12 it1 Info1c
+SAEc SAEc S11 3 1 it1 Info1c
+SAEc SAEc S14 2 12 it1 Info1c
+SAEd SAEd S13 0 12 it1 Info1d
+SAEd SAEd S13 1 12 it1 Info1d
+SAEd SAEd S13 3 5 it1 Info1d
+SAEd SAEd S12 0 12 it1 Info1d
+SAEd SAEd S11 3 1 it1 Info1d
+SAEd SAEd S14 2 12 it1 Info1d

@@ -1,0 +1,20 @@
+Couleur 180 190 110
+Info "Creativite, image et communication"
+Lot TD
+  AliasLot TD
+  AffichageDuNom
+  Numerotation
+  Tache TD
+    Cout TD
+    Duree 4
+    Etudiant IN
+    Enseignant MAug
+    Salles 2 Mae Tur
+    Repetition 7
+  Tache TP
+    Cout TP
+    Duree 4
+    Etudiant IN
+    Enseignant MAug
+    Salles 2 Mae Tur
+    Repetition 8

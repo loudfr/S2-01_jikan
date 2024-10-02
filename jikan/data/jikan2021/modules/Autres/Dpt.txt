@@ -1,0 +1,73 @@
+Couleur 100 80 200
+Info "Reunions de departement INFO"
+MasquageDuNom
+MasquageDesEns
+Lot Reunion
+  AliasLot Reunion-dpt
+  AffichageDuNom
+  Tache Rentree
+    Cout GR
+    Duree 7
+    Enseignant ARic
+    Enseignant BDav
+    Enseignant PVil
+    Enseignant DFin
+    Enseignant PAde
+    Enseignant PEve
+    Enseignant DBol
+    Enseignant ACas
+    Enseignant OCas
+    Enseignant SDie
+    Enseignant ABou
+    Enseignant LMor
+    Enseignant EMed
+    Salles 3 SCons SRinfo SCC
+  Tache ReunionDpt
+    Cout GR
+    Duree 8
+    Enseignant ARic
+    Enseignant BDav
+    Enseignant PVil
+    Enseignant DFin
+    Enseignant PAde
+    Enseignant PEve
+    Enseignant DBol
+    Enseignant ACas
+    Enseignant OCas
+    Enseignant SDie
+    Enseignant ABou
+    Enseignant LMor
+    Enseignant EMed
+    Salles 3 SCons SRinfo SCC
+    Repetition 4
+  Tache ReunionDpt2h2h
+    Cout GR
+    Duree 4
+    Enseignant ARic
+    Enseignant BDav
+    Enseignant PVil
+    Enseignant DFin
+    Enseignant PEve
+    Enseignant DBol
+    Enseignant ACas
+    Enseignant OCas
+    Enseignant SDie
+    Enseignant ABou
+    Enseignant LMor
+    Enseignant EMed
+    Salles 3 SCons SRinfo SCC
+  Tache Dpt13mai
+    Cout GR
+    Duree 8
+    Enseignant ARic
+    Enseignant BDav
+    Enseignant DFin
+    Enseignant PAde
+    Enseignant PEve
+    Enseignant DBol
+    Enseignant ACas
+    Enseignant SDie
+    Enseignant ABou
+    Enseignant LMor
+    Enseignant EMed
+    Salles 3 SCons SRinfo SCC

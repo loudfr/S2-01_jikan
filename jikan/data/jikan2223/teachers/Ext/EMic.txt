@@ -1,0 +1,20 @@
+Couleur 196 224 60
+Info "Emilien Micard"
+
+ContrainteReguliere interdit 0 all
+ContrainteReguliere interdit 4 all
+ContrainteReguliere interdit 5 all
+ContrainteReguliere indesirable 2 all
+ContrainteReguliere indesirable 3 all
+ContrainteOccasionnelle interdit S45 1 all
+ContrainteOccasionnelle interdit S45 2 all
+ContrainteOccasionnelle interdit S45 3 all
+ContrainteOccasionnelle interdit S46 1 all
+ContrainteOccasionnelle interdit S46 2 all
+ContrainteOccasionnelle interdit S46 3 all
+ContrainteOccasionnelle interdit S47 1 all
+ContrainteOccasionnelle interdit S47 2 all
+ContrainteOccasionnelle interdit S47 3 all
+ContrainteOccasionnelle interdit S48 1 all
+ContrainteOccasionnelle interdit S48 2 all
+ContrainteOccasionnelle interdit S48 3 all

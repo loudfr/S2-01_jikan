@@ -1,0 +1,5 @@
+Info "Autres activites"
+Manif
+Dpt
+ConsIUT
+Forums

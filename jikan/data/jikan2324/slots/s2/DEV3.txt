@@ -1,0 +1,8 @@
+CM CMui S12 0 5 it3 Info1 PVil Amphi
+CM CMui S13 0 5 it3 Info1 PVil Amphi
+TDx TDx S12 1 1 it3 Info1x PVil SCC
+TDy TDy S12 1 5 it3 Info1y PVil SCC
+TPa TPuia S12 1 12 it3 Info1a PVil Mul
+TPb TPuib S12 1 12 it3 Info1b EMic IG
+TPc TPuic S12 1 16 it3 Info1c EMic IG
+TPd TPuid S12 1 16 it3 Info1d PVil Mul

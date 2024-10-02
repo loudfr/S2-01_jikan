@@ -1,0 +1,6 @@
+Couleur 100 100 220
+Info "BUT INFO, 2e annee"
+Partition 12
+Groupes 2 Info2x Info2y
+Groupes 4 Info2a Info2b Info2c Info2d
+Groupes 3 Info2A Info2B Info2C

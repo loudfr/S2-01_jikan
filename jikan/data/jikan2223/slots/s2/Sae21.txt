@@ -1,0 +1,44 @@
+TDx SDx S23 1 1 it3 Info1x PEve TD27
+TDx SDx S23 1 5 it3 Info1x PEve TD27
+TDy SDy S23 1 1 it3 Info1y PVil SC3
+TDy SDy S23 1 5 it3 Info1y PVil SC3
+TPa SPpea S13 1 1 it3 Info1a PEve Mul
+TPa SPpea S15 1 1 it3 Info1a PEve Mul
+TPa SPpea S15 1 5 it3 Info1a PEve Mul
+TPa SPpea S13 1 5 it3 Info1a PEve Mul
+TPb SPpeb S13 1 12 it3 Info1b PEve Mul
+TPb SPpeb S15 1 16 it3 Info1b PEve Mul
+TPb SPpeb S15 1 12 it3 Info1b PEve Mul
+TPb SPpeb S13 1 16 it3 Info1b PEve Mul
+TPc SPc S13 1 1 it3 Info1c PVil TR
+TPc SPc S15 1 1 it3 Info1c PVil IG
+TPc SPc S15 1 5 it3 Info1c PVil IG
+TPc SPc S13 1 5 it3 Info1c PVil TR
+TPd SPd S13 1 12 it3 Info1d PVil TR
+TPd SPd S15 1 16 it3 Info1d PVil IG
+TPd SPd S15 1 12 it3 Info1d PVil IG
+TPd SPd S13 1 16 it3 Info1d PVil TR
+SAEa SAEa S14 1 16 it1 Info1a
+SAEa SAEa S15 4 5 it1 Info1a
+SAEa SAEa S22 2 5 it1 Info1a
+SAEa SAEa S20 1 5 it1 Info1a
+SAEa SAEa S19 2 5 it1 Info1a
+SAEa SAEa S21 2 5 it1 Info1a
+SAEb SAEb S14 1 16 it1 Info1b
+SAEb SAEb S15 2 5 it1 Info1b
+SAEb SAEb S22 2 16 it1 Info1b
+SAEb SAEb S20 1 16 it1 Info1b
+SAEb SAEb S19 2 5 it1 Info1b
+SAEb SAEb S21 2 1 it1 Info1b
+SAEc SAEc S14 2 12 it1 Info1c
+SAEc SAEc S15 3 5 it1 Info1c
+SAEc SAEc S22 2 1 it1 Info1c
+SAEc SAEc S20 1 12 it1 Info1c
+SAEc SAEc S19 2 1 it1 Info1c
+SAEc SAEc S21 2 16 it1 Info1c
+SAEd SAEd S14 2 12 it1 Info1d
+SAEd SAEd S15 3 5 it1 Info1d
+SAEd SAEd S22 2 12 it1 Info1d
+SAEd SAEd S20 1 1 it1 Info1d
+SAEd SAEd S19 2 1 it1 Info1d
+SAEd SAEd S21 2 12 it1 Info1d

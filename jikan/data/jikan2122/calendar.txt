@@ -1,0 +1,34 @@
+Annee 2021
+PremiereSemaine 35
+NbSemaines 43
+DureeSemaines 6
+ContrainteReguliere 0 xooooooooxxxooooooooxxxx
+ContrainteReguliere 1 xooooooooxxxooooooooxxxx
+ContrainteReguliere 2 xooooooooxxxooooooooxxxx
+ContrainteReguliere 3 xooooooooxxxooooooooxxxx
+ContrainteReguliere 4 xooooooooxxxooooooooxxxx
+ContrainteReguliere 5 ooooooooxxxxxxxxxxxxxxxx
+ContrainteOccasionnelle S38 0 oooooooooxxxooooooooxxxx
+ContrainteOccasionnelle S39 1 xooooooooxxxooooooooooxx
+ContrainteOccasionnelle S40 0 oooooooooxxxooooooooxxxx
+ContrainteOccasionnelle S50 3 oooooooooxxxooooooooxxxx
+ContrainteOccasionnelle S5 4 oooooooooxxxooooooooxxxx
+ContrainteOccasionnelle S6 5 xxoooooooooooooooooxxxxx
+ContrainteOccasionnelle S9 3 xooooooooxooooooooooxxxx
+ContrainteOccasionnelle S9 5 xxoooooooooooooooooxxxxx
+ContrainteOccasionnelle S21 0 oooooooooxxxoooooooxxxxx
+Vacances 43
+Vacances 51
+Vacances 52
+Vacances 7
+Vacances 15
+Vacances 16
+Ferie 44 0
+Ferie 45 3
+Ferie 50 5
+Ferie 6 5
+Ferie 14 5
+Ferie 21 3
+Ferie 21 4
+Ferie 21 5
+Journees 30 16 24

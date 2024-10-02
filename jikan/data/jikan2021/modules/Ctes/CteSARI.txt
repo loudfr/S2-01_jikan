@@ -1,0 +1,17 @@
+Couleur 250 220 180
+Info "Contraintes liees a la LP SARI (golpah)"
+AffichageAdministratif
+MasquageDuNom
+NoTex
+Lot SARI
+  AffichageDuNom
+  Tache BDav
+    Cout GR
+    Duree 4
+    Enseignant BDav
+    Repetition 6
+  Tache Alab
+    Cout GR
+    Duree 4
+    Salle Alab
+    Repetition 20

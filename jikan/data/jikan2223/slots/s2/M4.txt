@@ -1,0 +1,15 @@
+Eval Eval S21 3 2 it3 Info1 PAde Amphi
+TDx TDx S18 2 5 it3 Info1x PAde SC3
+TDy TDy S18 2 1 it3 Info1y PAde SC3
+TPa TPa S21 1 1 it3 Info1a PAde TR
+TPa TQa S19 2 12 it3 Info1a PAde SCC
+TPa TQa S20 0 16 it3 Info1a PAde TD13
+TPb TPb S21 1 12 it3 Info1b PAde TR
+TPb TQb S19 2 1 it3 Info1b PAde SCC
+TPb TQb S20 0 5 it3 Info1b PAde TD13
+TPc TPc S21 1 5 it3 Info1c PAde TR
+TPc TQc S19 2 16 it3 Info1c PAde SCC
+TPc TQc S20 0 1 it3 Info1c PAde TD13
+TPd TPd S21 1 16 it3 Info1d PAde TR
+TPd TQd S19 2 5 it3 Info1d PAde SCC
+TPd TQd S20 0 12 it3 Info1d PAde TD13

@@ -1,0 +1,14 @@
+Couleur 210 230 140
+Info "R5.01 Initiation au management d'une equipe projet"
+Cible Info3
+Lot TD
+  AliasLot TD
+  AffichageDuNom
+  Numerotation
+  Tache TD
+    Cout TD
+    Duree 4
+    Etudiant Info3
+    Enseignant PWil
+    Salles 4 SC3 SCC TD13 TD27
+    Repetition 5

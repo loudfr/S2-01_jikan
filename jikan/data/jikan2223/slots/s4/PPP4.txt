@@ -1,0 +1,8 @@
+TDx TDx S18 1 1 it3 Info2x BDav SC3
+TDx TDx S18 3 1 it3 Info2x BDav SCC
+TDx TDx S19 4 16 it3 Info2x BDav SC3
+TDx TDx S20 1 1 it3 Info2x BDav SC3
+TDy TDy S18 1 5 it3 Info2y BDav SC3
+TDy TDy S18 3 5 it3 Info2y BDav SCC
+TDy TDy S19 4 12 it3 Info2y BDav SC3
+TDy TDy S20 1 5 it3 Info2y BDav SC3

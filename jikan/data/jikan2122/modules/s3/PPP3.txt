@@ -1,0 +1,86 @@
+Couleur 170 160 180
+Info "Preciser son projet"
+Cible Info2
+Lot PPP3tdx
+  AliasLot PPP
+  Numerotation
+  Tache TDx
+    Cout TD
+    Duree 4
+    Etudiant Info2x
+    Enseignant NEmo
+    Salles 4 SC3 TD13 TD27 SCC
+    Repetition 4
+  Tache TMx
+    Cout TD
+    Duree 4
+    Etudiant Info2x
+    Enseignant NEmo
+    Salles 2 IG Mul
+Lot PPP3tdy
+  AliasLot PPP
+  Numerotation
+  Tache TDy
+    Cout TD
+    Duree 4
+    Etudiant Info2y
+    Enseignant NEmo
+    Salles 4 SC3 TD13 TD27 SCC
+    Repetition 4
+  Tache TMy
+    Cout TD
+    Duree 4
+    Etudiant Info2y
+    Enseignant NEmo
+    Salles 2 IG Mul
+Lot PPP3tpa
+  AliasLot PPP
+  Numerotation
+  Tache TPa
+    Cout TP
+    Duree 4
+    Etudiant Info2A
+    Enseignant NEmo
+    Salles 3 Alab Mul IG
+    Repetition 3
+  Tache TQa
+    Cout TP
+    Duree 4
+    Etudiant Info2A
+    Enseignant NEmo
+    Salles 4 TD27 SC3 TD13 SCC
+    Repetition 2
+Lot PPP3tpc
+  AliasLot PPP
+  Numerotation
+  Tache TPc
+    Cout TP
+    Duree 4
+    Etudiant Info2C
+    Enseignant NEmo
+    Salles 3 Alab Mul IG
+    Repetition 3
+  Tache TQc
+    Cout TP
+    Duree 4
+    Etudiant Info2C
+    Enseignant NEmo
+    Salles 4 TD27 SC3 TD13 SCC
+    Repetition 2
+Lot PPP3tpb
+  AliasLot PPP
+  Numerotation
+  Tache TPb
+    Cout TP
+    Duree 4
+    Etudiant Info2B
+    Enseignant NEmo
+    Salles 3 Alab Mul IG
+    Repetition 3
+  Tache TQb
+    Cout TP
+    Duree 4
+    Etudiant Info2B
+    Enseignant NEmo
+    Salles 4 TD27 SC3 TD13 SCC
+    Repetition 2

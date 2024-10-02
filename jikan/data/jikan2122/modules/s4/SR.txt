@@ -1,0 +1,43 @@
+Couleur 80 210 150
+Info "Administration systeme et reseau"
+Lot TD
+  AliasLot TD
+  AffichageDuNom
+  Numerotation
+  Tache EV
+    Cout CM
+    Duree 4
+    Etudiant WM1
+    Etudiant WM2
+    Enseignant ABou
+    Salle Res
+  Tache TD
+    Cout TD
+    Duree 4
+    Etudiant WM1
+    Etudiant WM2
+    Enseignant ABou
+    Salles 2 IG Mul
+    Repetition 2
+Lot TPa
+  AliasLot TP
+  AffichageDuNom
+  Numerotation
+  Tache TPa
+    Cout TP
+    Duree 8
+    Etudiant WM1
+    Enseignant ABou
+    Salle Res
+    Repetition 4
+Lot TPb
+  AliasLot TP
+  AffichageDuNom
+  Numerotation
+  Tache TPb
+    Cout TP
+    Duree 8
+    Etudiant WM2
+    Enseignant ABou
+    Salle Res
+    Repetition 4

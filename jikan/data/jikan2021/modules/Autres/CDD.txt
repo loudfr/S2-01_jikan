@@ -1,0 +1,16 @@
+Couleur 100 220 70
+Info "Conseil de direction assistee"
+MasquageDesEns
+Lot CDD
+  Tache CDD-3h
+    Cout GR
+    Duree 6
+    Enseignant OCas
+    Salle SCons
+    Repetition 20
+  Tache CDD-2h
+    Cout GR
+    Duree 4
+    Enseignant OCas
+    Salle SCons
+    Repetition 24

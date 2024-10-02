@@ -1,0 +1,10 @@
+Couleur 210 184 205
+Info "Contraintes specifiques aux enseignants d'eco-gestion"
+Lot ERP
+  AffichageDuNom
+  MasquageDuModule
+  Tache ERP
+    Cout GR
+    Duree 8
+    Enseignant BDav
+    Repetition 20

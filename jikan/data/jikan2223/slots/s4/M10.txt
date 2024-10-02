@@ -1,0 +1,10 @@
+TDx TDx S4 0 16 it3 Info2x PAde SC3
+TDx TDx S4 3 5 it3 Info2x PAde SC3
+TDx TDx S5 0 16 it3 Info2x PAde SC3
+TDx TDx S7 0 16 it3 Info2x PAde SC3
+TDy TDy S4 0 12 it3 Info2y PAde SC3
+TDy TDy S4 3 1 it3 Info2y PAde SC3
+TDy TDy S5 0 1 it3 Info2y PAde SC3
+TDy TDy S7 0 12 it3 Info2y PAde SC3
+TPa TPa S6 0 12 it3 Info2A PAde TR
+TPc TPc S6 0 16 it3 Info2C PAde TR

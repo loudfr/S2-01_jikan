@@ -1,0 +1,25 @@
+Info "Modules du 5eme semestre du BUT INFO"
+Rentree
+WEB5
+DEV6
+DEV7
+QD4
+DI4
+DI5
+ASR8
+IN3
+IN4
+IN5
+M13
+M14
+M15
+M16
+GP5
+ECO2
+A5
+C5
+PPP5
+PF5
+TDsae5
+TPsae5
+Sae5

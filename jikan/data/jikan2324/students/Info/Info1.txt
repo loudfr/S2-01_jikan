@@ -1,0 +1,6 @@
+Couleur 100 220 100
+Info "DUT INFO, 1e annee"
+Partition 12
+Groupes 2 Info1x Info1y
+Groupes 4 Info1a Info1b Info1c Info1d
+Groupes 3 Info1A Info1B Info1C

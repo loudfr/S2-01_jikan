@@ -1,0 +1,7 @@
+Couleur 242 255 3
+Info "Dobrina Boltcheva"
+
+ContrainteReguliere indesirable 3 all
+ContrainteReguliere indesirable 4 all
+ContrainteOccasionnelle interdit S20 0 all
+RelacheContrainte S20 4 xxxxxxxxxxxxooooooooxxxx

@@ -1,0 +1,26 @@
+TDx SDx S21 2 5 it3 Info1x ARic SCC
+TDy SDy S21 2 1 it3 Info1y ARic SC3
+SAEa SAEa S21 2 12 it1 Info1a
+SAEa SAEa S22 0 12 it1 Info1a
+SAEa SAEa S20 3 5 it1 Info1a
+SAEa SAEa S19 1 16 it1 Info1a
+SAEa SAEa S18 4 12 it1 Info1a
+SAEa SAEa S17 4 16 it1 Info1a
+SAEb SAEb S21 2 12 it1 Info1b
+SAEb SAEb S22 0 12 it1 Info1b
+SAEb SAEb S20 3 5 it1 Info1b
+SAEb SAEb S19 1 16 it1 Info1b
+SAEb SAEb S18 4 12 it1 Info1b
+SAEb SAEb S17 4 1 it1 Info1b
+SAEc SAEc S21 2 16 it1 Info1c
+SAEc SAEc S22 0 5 it1 Info1c
+SAEc SAEc S20 1 1 it1 Info1c
+SAEc SAEc S19 1 16 it1 Info1c
+SAEc SAEc S18 4 16 it1 Info1c
+SAEc SAEc S17 4 1 it1 Info1c
+SAEd SAEd S21 2 16 it1 Info1d
+SAEd SAEd S22 0 5 it1 Info1d
+SAEd SAEd S20 3 5 it1 Info1d
+SAEd SAEd S19 1 16 it1 Info1d
+SAEd SAEd S18 4 5 it1 Info1d
+SAEd SAEd S17 4 16 it1 Info1d

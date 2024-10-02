@@ -1,0 +1,15 @@
+Info "Modules du 1er semestre du DUT INFO"
+Rentree
+ASR1
+APL1
+APL2
+BD1
+WIM1
+M1
+M2
+EGO1
+EGO2
+EC1
+ANG1
+PPP1
+PT1

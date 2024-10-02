@@ -1,0 +1,79 @@
+Couleur 170 180 110
+Info "Principe des systemes d'exploitation"
+Lot CM
+  AffichageDuNom
+  Numerotation
+  Tache CM
+    Cout CM
+    Duree 4
+    Etudiant Info2
+    Enseignant ABou
+    Salles 3 SC3 Amphi SC1
+    Repetition 3
+Lot Eval
+  AliasLot ASR4-Eval
+  AffichageDuNom
+  MasquageDuModule
+  Numerotation
+  Tache Eval
+    Cout CM
+    Duree 2
+    Etudiant Info2
+    Enseignant ABou
+    Salles 3 Amphi SC1 SConf
+    Repetition 2
+Lot TDx
+  AliasLot TD
+  AffichageDuNom
+  Numerotation
+  Tache TDx
+    Cout TD
+    Duree 4
+    Etudiant Info2x
+    Enseignant SDie
+    Salles 2 Mul IG
+    Repetition 9
+Lot TDy
+  AliasLot TD
+  AffichageDuNom
+  Numerotation
+  Tache TDy
+    Cout TD
+    Duree 4
+    Etudiant Info2y
+    Enseignant ABou
+    Salles 2 Mul IG
+    Repetition 9
+Lot TPa
+  AliasLot TP
+  AffichageDuNom
+  Numerotation
+  Tache TPa
+    Cout TP
+    Duree 8
+    Etudiant Info2A
+    Enseignant SDie
+    Salles 4 Res TR Mul IG
+    Repetition 4
+Lot TPb
+  AliasLot TP
+  AffichageDuNom
+  Numerotation
+  Tache TPb
+    Cout TP
+    Duree 8
+    Etudiant Info2B
+    Enseignant ABou
+    Salles 4 Res TR Mul IG
+    Repetition 4
+Lot TPc
+  AliasLot TP
+  AffichageDuNom
+  Numerotation
+  Tache TPc
+    Cout TP
+    Duree 8
+    Etudiant Info2C
+    Enseignant ABou
+    Salles 4 Res TR Mul IG
+    Repetition 4

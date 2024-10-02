@@ -1,0 +1,11 @@
+Couleur 140 120 230
+Info "Assemblee des chefs de departement"
+MasquageDuNom
+MasquageDesEns
+Lot ACDI
+  AffichageDuNom
+  Tache ACDI
+    Cout GR
+    Duree 8
+    Enseignant SDie
+    Repetition 20

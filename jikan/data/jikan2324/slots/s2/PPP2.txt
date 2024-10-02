@@ -1,0 +1,16 @@
+PPPtdx TDx S5 5 0 it3 Info1x DRon SC3
+PPPtdx TDx S7 5 0 it3 Info1x DRon SC3
+PPPtdx TDx S11 5 0 it3 Info1x DRon SC3
+PPPtdx TDx S13 5 0 it3 Info1x DRon SC3
+PPPtdy TDy S5 5 4 it3 Info1y DRon SC3
+PPPtdy TDy S7 5 4 it3 Info1y DRon SC3
+PPPtdy TDy S11 5 4 it3 Info1y DRon SC3
+PPPtdy TDy S13 5 4 it3 Info1y DRon SC3
+PPPtpa TPa S8 3 1 it3 Info1a NDis SCC
+PPPtpa TPa S13 4 1 it3 Info1a NDis SCC
+PPPtpb TPb S8 4 16 it3 Info1b NDis SCC
+PPPtpb TPb S13 1 1 it3 Info1b NDis SCC
+PPPtpc TPc S8 1 1 it3 Info1c NDis SCC
+PPPtpc TPc S13 4 16 it3 Info1c NDis SCC
+PPPtpd TPd S8 2 1 it3 Info1d NDis SCC
+PPPtpd TPd S13 2 1 it3 Info1d NDis SCC

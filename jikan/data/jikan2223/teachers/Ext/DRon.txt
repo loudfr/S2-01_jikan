@@ -1,0 +1,10 @@
+Couleur 190 160 238
+Info "Dimitri Ronstalder"
+
+ContrainteReguliere interdit 0 all
+ContrainteReguliere interdit 1 all
+ContrainteReguliere interdit 2 all
+ContrainteReguliere interdit 3 all
+ContrainteReguliere interdit 4 all
+RelacheContrainte S41 0 all
+ContrainteOccasionnelle interdit S42 5 all

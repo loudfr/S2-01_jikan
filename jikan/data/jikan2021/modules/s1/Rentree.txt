@@ -1,0 +1,105 @@
+Couleur 160 90 160
+Info "Rentree 1e annee"
+MasquageDuNom
+MasquageDesEns
+Lot RentreeS1
+  AliasLot Rentree-S1
+  AffichageDuNom
+  Tache RentreeS1
+    Cout GR
+    Duree 7
+    Etudiant Info1
+    Enseignant OCas
+    Enseignant ARic
+    Enseignant PEve
+    Enseignant PVil
+    Enseignant ACas
+    Enseignant SDie
+    Enseignant ABou
+    Enseignant DFin
+    Enseignant BDav
+    Salle Amphi
+Lot Internat
+  AffichageDuNom
+  Tache Internat
+    Cout GR
+    Duree 4
+    Etudiant Info1
+    Etudiant Info2
+    Salle Amphi
+Lot Integ
+  AliasLot Integration
+  AffichageDuNom
+  Tache Integ
+    Cout GR
+    Duree 8
+    Etudiant Info1
+    Etudiant Info2
+    Salle Amphi
+    Repetition 2
+Lot Culture
+  AliasLot Culture
+  AffichageDuNom
+  Tache Culture
+    Cout GR
+    Duree 4
+    Etudiant Info1
+    Etudiant Info2
+Lot RentreeU
+  AliasLot Rentree-Univ
+  AffichageDuNom
+  Tache RentreeU
+    Cout GR
+    Duree 4
+    Etudiant Info1
+    Salle Amphi
+Lot PrepaPT2
+  AliasLot Prepa-PT2
+  AffichageDuNom
+  Tache PrepaPT2
+    Cout GR
+    Duree 1
+    Etudiant Info1
+    Enseignant ARic
+    Enseignant BDav
+    Salle SC3
+Lot Doc
+  AffichageDuNom
+  Tache Doca
+    Cout GR
+    Duree 2
+    Etudiant Info1a
+    Enseignant PSar
+  Tache Docb
+    Cout GR
+    Duree 2
+    Etudiant Info1b
+    Enseignant PSar
+  Tache Docc
+    Cout GR
+    Duree 2
+    Etudiant Info1c
+    Enseignant PSar
+  Tache Docd
+    Cout GR
+    Duree 2
+    Etudiant Info1d
+    Enseignant PSar
+Lot SCol
+  AffichageDuNom
+  Tache SCola
+    Cout GR
+    Duree 2
+    Etudiant Info1a
+  Tache SColb
+    Cout GR
+    Duree 2
+    Etudiant Info1b
+  Tache SColc
+    Cout GR
+    Duree 2
+    Etudiant Info1c
+  Tache SCold
+    Cout GR
+    Duree 2
+    Etudiant Info1d

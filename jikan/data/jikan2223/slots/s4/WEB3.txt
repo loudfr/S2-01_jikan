@@ -1,0 +1,17 @@
+CM CMab S4 4 5 it3 Info2 ABic SC3
+CM CMab S4 0 5 it3 Info2 ABic SC3
+CM CMem S23 1 1 it3 Info2 EMic SC1
+TPa TPaba S6 4 5 it3 Info2A ABic IN
+TPa TPaba S6 2 5 it3 Info2A ABic IN
+TPa TPaba S5 4 5 it3 Info2A ABic IN
+TPa TPaba S5 0 5 it3 Info2A ABic IN
+TPa TPema S23 1 12 it3 Info2A EMic IG
+TPa TPema S24 1 1 it3 Info2A EMic IG
+TPa TPema S24 1 12 it3 Info2A EMic IG
+TPc TPabc S6 4 12 it3 Info2C ABic IN
+TPc TPabc S6 2 12 it3 Info2C ABic IN
+TPc TPabc S5 4 12 it3 Info2C ABic IN
+TPc TPabc S5 0 12 it3 Info2C ABic IN
+TPc TPemc S23 1 16 it3 Info2C EMic Mul
+TPc TPemc S24 1 5 it3 Info2C EMic Mul
+TPc TPemc S24 1 16 it3 Info2C EMic Mul
